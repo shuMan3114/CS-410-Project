@@ -55,15 +55,29 @@ def main():
         print(f"{e}")
         return
 
-    cols_input = input("Input column name (seperate by ,) :")
+    cols_input = input("Input column name to clean (separate by ,) :")
     cols_to_clean = [c.strip() for c in cols_input.split(',')]
+
+    keep_input = input("Input columns to keep in output (separate by ,) or leave blank to keep all :")
 
     for col in cols_to_clean:
         if col in df.columns:
             new_col_name = f"cleaned_{col}"
             df[new_col_name] = df[col].apply(lambda x: clean_text(x, base_stopwords))
         else:
-            print(f"{col}' doesnt exist")
+            print(f"'{col}' doesnt exist")
+
+    if keep_input.strip():
+        cols_to_keep = [c.strip() for c in keep_input.split(',')]
+        
+        for col in cols_to_clean:
+            new_col = f"cleaned_{col}"
+            if new_col in df.columns and new_col not in cols_to_keep:
+                cols_to_keep.append(new_col)
+                
+        cols_to_keep = [c for c in cols_to_keep if c in df.columns]
+        
+        df = df[cols_to_keep]
 
     output_path = os.path.join(PROCESSED_DIR, f"cleaned_{file_name}")
     df.to_csv(output_path, index=False)
