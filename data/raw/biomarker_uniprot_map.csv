@@ -1,0 +1,1120 @@
+BiomarkerID,BiomarkerName,UniProtAccession,UniProtGene,ProteinName,MatchMethod
+BM00002,14-3-3 theta,P27348,YWHAQ,14-3-3 protein theta,gene_symbol
+BM00014,A1BG,P04217,A1BG,Alpha-1B-glycoprotein,gene_symbol
+BM00015,A2M,P01023,A2M,Alpha-2-macroglobulin,gene_symbol
+BM00016,ABCA2,Q9BZC7,ABCA2,ATP-binding cassette sub-family A member 2,gene_symbol
+BM00017,ACBP,P07108,DBI,Acyl-CoA-binding protein,gene_symbol
+BM00018,ACKR3,P25106,ACKR3,Atypical chemokine receptor 3,gene_symbol
+BM00019,ACO1,P21399,ACO1,Cytoplasmic aconitate hydratase,gene_symbol
+BM00020,ACP3,P15309,ACP3,Prostatic acid phosphatase,gene_symbol
+BM00021,ACSL3,O95573,ACSL3,Fatty acid CoA ligase Acsl3,gene_symbol
+BM00022,ACTC1,P68032,ACTC1,"Actin, alpha cardiac muscle 1",gene_symbol
+BM00023,ACTN4,O43707,ACTN4,Alpha-actinin-4,gene_symbol
+BM00024,ACTR3,P61158,ACTR3,Actin-related protein 3,gene_symbol
+BM00025,ACY1,Q03154,ACY1,Aminoacylase-1,gene_symbol
+BM00026,ADAM12,O43184,ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,gene_symbol
+BM00027,ADH5,P11766,ADH5,Alcohol dehydrogenase class-3,gene_symbol
+BM00028,ADIPOQ,Q15848,ADIPOQ,Adiponectin,gene_symbol
+BM00029,AFP,P02771,AFP,Alpha-fetoprotein,gene_symbol
+BM00032,AGR2,O95994,AGR2,Anterior gradient protein 2 homolog,gene_symbol
+BM00033,AGRN,O00468,AGRN,Agrin,gene_symbol
+BM00034,AGT,P01019,AGT,Angiotensinogen,gene_symbol
+BM00035,AGTPBP1,Q9UPW5,AGTPBP1,Cytosolic carboxypeptidase 1,gene_symbol
+BM00036,AHNAK2,Q8IVF2,AHNAK2,Protein AHNAK2,gene_symbol
+BM00037,AKAP12,Q02952,AKAP12,A-kinase anchor protein 12,gene_symbol
+BM00038,AKR1B1,P15121,AKR1B1,Aldo-keto reductase family 1 member B1,gene_symbol
+BM00039,AKR1B10,O60218,AKR1B10,Aldo-keto reductase family 1 member B10,gene_symbol
+BM00040,AKR1C2,P52895,AKR1C2,Aldo-keto reductase family 1 member C2,gene_symbol
+BM00041,AKT1,P31749,AKT1,RAC-alpha serine/threonine-protein kinase,gene_symbol
+BM00042,ALCAM,Q13740,ALCAM,CD166 antigen,gene_symbol
+BM00043,ALDH16A1,Q8IZ83,ALDH16A1,Aldehyde dehydrogenase family 16 member A1,gene_symbol
+BM00044,ALDH1A1,P00352,ALDH1A1,Aldehyde dehydrogenase 1A1,gene_symbol
+BM00045,ALDH1A2,O94788,ALDH1A2,Retinal dehydrogenase 2,gene_symbol
+BM00046,ALDH3A1,P30838,ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",gene_symbol
+BM00047,ALDOC,P09972,ALDOC,Fructose-bisphosphate aldolase C,gene_symbol
+BM00048,ALG10,Q5BKT4,ALG10,"Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase A",gene_symbol
+BM00049,ALPL,P05186,ALPL,"Alkaline phosphatase, tissue-nonspecific isozyme",gene_symbol
+BM00050,AMACR,Q9UHK6,AMACR,Alpha-methylacyl-CoA racemase,gene_symbol
+BM00051,AMBP,P02760,AMBP,Protein AMBP,gene_symbol
+BM00052,AMD1,P17707,AMD1,S-adenosylmethionine decarboxylase proenzyme,gene_symbol
+BM00053,AMFR,Q9UKV5,AMFR,E3 ubiquitin-protein ligase AMFR,gene_symbol
+BM00055,AMY2A,P04746,AMY2A,Pancreatic alpha-amylase,gene_symbol
+BM00057,ANG,P03950,ANG,Angiogenin,gene_symbol
+BM00059,ANGPTL3,Q9Y5C1,ANGPTL3,Angiopoietin-related protein 3,gene_symbol
+BM00060,ANGPTL4,Q9BY76,ANGPTL4,Angiopoietin-related protein 4,gene_symbol
+BM00061,ANKRD40,Q6AI12,ANKRD40,Ankyrin repeat domain-containing protein 40,gene_symbol
+BM00063,ANO1,Q5XXA6,ANO1,Anoctamin-1,gene_symbol
+BM00064,ANXA1,P04083,ANXA1,Annexin A1,gene_symbol
+BM00065,ANXA2,P07355,ANXA2,Annexin A2,gene_symbol
+BM00066,ANXA3,P12429,ANXA3,Annexin A3,gene_symbol
+BM00067,AP1B1,Q10567,AP1B1,AP-1 complex subunit beta-1,gene_symbol
+BM00068,AP1S2,P56377,AP1S2,AP-1 complex subunit sigma-2,gene_symbol
+BM00069,AP3B2,Q13367,AP3B2,AP-3 complex subunit beta-2,gene_symbol
+BM00070,APAF1,O14727,APAF1,Apoptotic protease-activating factor 1,gene_symbol
+BM00071,APC,P25054,APC,Adenomatous polyposis coli protein,gene_symbol
+BM00072,APCS,P02743,APCS,Serum amyloid P-component,gene_symbol
+BM00073,APEX1,P27695,APEX1,DNA repair nuclease/redox regulator APEX1,gene_symbol
+BM00074,APOA1,P02647,APOA1,Apolipoprotein A-I,gene_symbol
+BM00075,APOA2,P02652,APOA2,Apolipoprotein A-II,gene_symbol
+BM00077,APOB,P04114,APOB,Apolipoprotein B-100,gene_symbol
+BM00078,APOC1,P02654,APOC1,Apolipoprotein C-I,gene_symbol
+BM00079,APOC3,P02656,APOC3,Apolipoprotein C-III,gene_symbol
+BM00080,APOC4,P55056,APOC4,Apolipoprotein C-IV,gene_symbol
+BM00081,APOE,P02649,APOE,Apolipoprotein E,gene_symbol
+BM00082,APOH,P02749,APOH,Beta-2-glycoprotein 1,gene_symbol
+BM00083,APOLD1,Q96LR9,APOLD1,Apolipoprotein L domain-containing protein 1,gene_symbol
+BM00084,AREG,P15514,AREG,Amphiregulin,gene_symbol
+BM00085,ARFIP2,P53365,ARFIP2,Arfaptin-2,gene_symbol
+BM00086,ARHGDIA,P52565,ARHGDIA,Rho GDP-dissociation inhibitor 1,gene_symbol
+BM00087,ARHGEF16,Q5VV41,ARHGEF16,Rho guanine nucleotide exchange factor 16,gene_symbol
+BM00088,ARHGEF40,Q8TER5,ARHGEF40,Rho guanine nucleotide exchange factor 40,gene_symbol
+BM00089,ARID1A,O14497,ARID1A,AT-rich interactive domain-containing protein 1A,gene_symbol
+BM00090,ARID5A,Q03989,ARID5A,AT-rich interactive domain-containing protein 5A,gene_symbol
+BM00093,ATF3,P18847,ATF3,Cyclic AMP-dependent transcription factor ATF-3,gene_symbol
+BM00094,ATP6AP1,Q15904,ATP6AP1,V-type proton ATPase subunit S1,gene_symbol
+BM00095,ATP6AP2,O75787,ATP6AP2,Renin receptor,gene_symbol
+BM00096,ATP6V1G1,O75348,ATP6V1G1,V-type proton ATPase subunit G 1,gene_symbol
+BM00098,AUH,Q13825,AUH,"Methylglutaconyl-CoA hydratase, mitochondrial",gene_symbol
+BM00099,AZGP1,P25311,AZGP1,Zinc-alpha-2-glycoprotein,gene_symbol
+BM00101,B2M,P61769,B2M,Beta-2-microglobulin,gene_symbol
+BM00102,B3GNT6,O43505,B4GAT1,"Beta-1,4-glucuronyltransferase 1",gene_symbol
+BM00105,BANK1,Q8NDB2,BANK1,B-cell scaffold protein with ankyrin repeats,gene_symbol
+BM00106,BCAM,P50895,BCAM,Basal cell adhesion molecule,gene_symbol
+BM00107,BCAT1,P54687,BCAT1,"Branched-chain-amino-acid aminotransferase, cytosolic",gene_symbol
+BM00108,BCHE,P06276,BCHE,Cholinesterase,gene_symbol
+BM00109,BCL2L14,Q9BZR8,BCL2L14,Apoptosis facilitator Bcl-2-like protein 14,gene_symbol
+BM00110,BCL2L2,Q92843,BCL2L2,Bcl-2-like protein 2,gene_symbol
+BM00111,BDNF,P23560,BDNF,Neurotrophic factor BDNF precursor form,gene_symbol
+BM00112,BGLAP,P02818,BGLAP,Osteocalcin,gene_symbol
+BM00114,BHMT2,Q9H2M3,BHMT2,S-methylmethionine--homocysteine S-methyltransferase BHMT2,gene_symbol
+BM00116,BIN1,O00499,BIN1,Myc box-dependent-interacting protein 1,gene_symbol
+BM00118,BLVRB,P30043,BLVRB,Flavin reductase (NADPH),gene_symbol
+BM00119,BMP1,P13497,BMP1,Bone morphogenetic protein 1,gene_symbol
+BM00120,BMX,P51813,BMX,Cytoplasmic tyrosine-protein kinase BMX,gene_symbol
+BM00123,BPIFA1,Q9NP55,BPIFA1,BPI fold-containing family A member 1,gene_symbol
+BM00125,BRAF,P15056,BRAF,Serine/threonine-protein kinase B-raf,gene_symbol
+BM00126,BRCA1,P38398,BRCA1,Breast cancer type 1 susceptibility protein,gene_symbol
+BM00127,BRCA2,P51587,BRCA2,Breast cancer type 2 susceptibility protein,gene_symbol
+BM00131,BTK,Q06187,BTK,Tyrosine-protein kinase BTK,gene_symbol
+BM00132,BTN2A1,Q7KYR7,BTN2A1,Butyrophilin subfamily 2 member A1,gene_symbol
+BM00133,BVES,Q8NE79,POPDC1,Popeye domain-containing protein 1,gene_symbol
+BM00135,C15orf48,Q9C002,COXFA4L3,Cytochrome c oxidase associated subunit FA4L3,gene_symbol
+BM00136,C1QA,P02745,C1QA,Complement C1q subcomponent subunit A,gene_symbol
+BM00137,C1QBP,Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial",gene_symbol
+BM00138,C1S,P09871,C1S,Complement C1s subcomponent,gene_symbol
+BM00139,C3,P01024,C3,Complement C3,gene_symbol
+BM00140,C4B,P0C0L5,C4B,Complement C4-B,gene_symbol
+BM00141,C5,P01031,C5,Complement C5,gene_symbol
+BM00143,C7,P10643,C7,Complement component C7,gene_symbol
+BM00144,C8B,P07358,C8B,Complement component C8 beta chain,gene_symbol
+BM00145,C8G,P07360,C8G,Complement component C8 gamma chain,gene_symbol
+BM00146,C9,P02748,C9,Complement component C9,gene_symbol
+BM00147,CA125,Q8WXI7,MUC16,Mucin-16,gene_symbol
+BM00148,CA15-3,P15941,MUC1,Mucin-1,gene_symbol
+BM00150,CA6,P23280,CA6,Carbonic anhydrase 6,gene_symbol
+BM00152,CA9,Q16790,CA9,Carbonic anhydrase 9,gene_symbol
+BM00153,CADM1,Q9BY67,CADM1,Cell adhesion molecule 1,gene_symbol
+BM00154,CAGE,Q8TC20,CAGE1,Cancer-associated gene 1 protein,gene_symbol
+BM00155,CALCA,P01258,CALCA,Calcitonin,gene_symbol
+BM00156,CALR,P27797,CALR,Calreticulin,gene_symbol
+BM00157,CAMKK2,Q96RR4,CAMKK2,Calcium/calmodulin-dependent protein kinase kinase 2,gene_symbol
+BM00160,CAND2,O75155,CAND2,Cullin-associated NEDD8-dissociated protein 2,gene_symbol
+BM00161,CAPN1,P07384,CAPN1,Calpain-1 catalytic subunit,gene_symbol
+BM00162,CAPNS1,P04632,CAPNS1,Calpain small subunit 1,gene_symbol
+BM00163,CAT,Q6IB77,GLYAT,Glycine N-acyltransferase,gene_symbol
+BM00164,CAV1,Q03135,CAV1,Caveolin-1,gene_symbol
+BM00165,CAVIN1,Q6NZI2,CAVIN1,Caveolae-associated protein 1,gene_symbol
+BM00166,CAVIN2,O95810,CAVIN2,Caveolae-associated protein 2,gene_symbol
+BM00167,CBLC,Q9ULV8,CBLC,E3 ubiquitin-protein ligase CBL-C,gene_symbol
+BM00168,CBX4,O00257,CBX4,E3 SUMO-protein ligase CBX4,gene_symbol
+BM00169,CCDC102B,Q68D86,CCDC102B,Coiled-coil domain-containing protein 102B,gene_symbol
+BM00170,CCDC69,A6NI79,CCDC69,Coiled-coil domain-containing protein 69,gene_symbol
+BM00171,CCDC91,Q7Z6B0,CCDC91,Coiled-coil domain-containing protein 91,gene_symbol
+BM00172,CCL11,P51671,CCL11,Eotaxin,gene_symbol
+BM00173,CCL13,Q99616,CCL13,C-C motif chemokine 13,gene_symbol
+BM00174,CCL15,Q16663,CCL15,C-C motif chemokine 15,gene_symbol
+BM00175,CCL17,Q92583,CCL17,C-C motif chemokine 17,gene_symbol
+BM00176,CCL18,P55774,CCL18,C-C motif chemokine 18,gene_symbol
+BM00177,CCL2,P13500,CCL2,C-C motif chemokine 2,gene_symbol
+BM00178,CCL20,P78556,CCL20,C-C motif chemokine 20,gene_symbol
+BM00179,CCL22,O00626,CCL22,C-C motif chemokine 22,gene_symbol
+BM00180,CCL26,Q9Y258,CCL26,C-C motif chemokine 26,gene_symbol
+BM00181,CCL27,Q9Y4X3,CCL27,C-C motif chemokine 27,gene_symbol
+BM00182,CCL28,Q9NRJ3,CCL28,C-C motif chemokine 28,gene_symbol
+BM00183,CCL4,P13236,CCL4,C-C motif chemokine 4,gene_symbol
+BM00184,CCL5,P13501,CCL5,C-C motif chemokine 5,gene_symbol
+BM00185,CCN2,P29279,CCN2,CCN family member 2,gene_symbol
+BM00186,CCNA1,P78396,CCNA1,Cyclin-A1,gene_symbol
+BM00187,CCNB1,P14635,CCNB1,G2/mitotic-specific cyclin-B1,gene_symbol
+BM00188,CCNE2,O96020,CCNE2,G1/S-specific cyclin-E2,gene_symbol
+BM00189,CCNG2,Q16589,CCNG2,Cyclin-G2,gene_symbol
+BM00190,CCR6,O00421,CCRL2,C-C chemokine receptor-like 2,gene_symbol
+BM00196,CD14,P08571,CD14,Monocyte differentiation antigen CD14,gene_symbol
+BM00197,CD164,Q04900,CD164,Sialomucin core protein 24,gene_symbol
+BM00198,CD177,Q8N6Q3,CD177,CD177 antigen,gene_symbol
+BM00199,CD1A,P06126,CD1A,T-cell surface glycoprotein CD1a,gene_symbol
+BM00200,CD24,P25063,CD24,Signal transducer CD24,gene_symbol
+BM00201,CD248,Q9HCU0,CD248,Endosialin,gene_symbol
+BM00202,CD2AP,Q9Y5K6,CD2AP,CD2-associated protein,gene_symbol
+BM00203,CD4,P01730,CD4,T-cell surface glycoprotein CD4,gene_symbol
+BM00204,CD59,P13987,CD59,CD59 glycoprotein,gene_symbol
+BM00205,CD74,P04233,CD74,HLA class II histocompatibility antigen gamma chain,gene_symbol
+BM00206,CDC42EP3,Q9UKI2,CDC42EP3,Cdc42 effector protein 3,gene_symbol
+BM00207,CDCP1,Q9H5V8,CDCP1,CUB domain-containing protein 1,gene_symbol
+BM00208,CDH1,P12830,CDH1,Cadherin-1,gene_symbol
+BM00209,CDH13,P55290,CDH13,Cadherin-13,gene_symbol
+BM00210,CDH3,P22223,CDH3,Cadherin-3,gene_symbol
+BM00211,CDH6,P55285,CDH6,Cadherin-6,gene_symbol
+BM00212,CDK16,Q00536,CDK16,Cyclin-dependent kinase 16,gene_symbol
+BM00213,CDK5,Q00535,CDK5,Cyclin-dependent kinase 5,gene_symbol
+BM00214,CDK5R1,Q15078,CDK5R1,Cyclin-dependent kinase 5 activator 1,gene_symbol
+BM00215,CDK7,P50613,CDK7,Cyclin-dependent kinase 7,gene_symbol
+BM00216,CDKN1A,P38936,CDKN1A,Cyclin-dependent kinase inhibitor 1,gene_symbol
+BM00217,CDKN1C,P49918,CDKN1C,Cyclin-dependent kinase inhibitor 1C,gene_symbol
+BM00219,CDKN2C,P42773,CDKN2C,Cyclin-dependent kinase 4 inhibitor C,gene_symbol
+BM00220,CDO1 methylation loci,Q16878,CDO1,Cysteine dioxygenase type 1,gene_symbol
+BM00221,CEA (by CBSI from serum),P06731,CEACAM5,Cell adhesion molecule CEACAM5,name_search
+BM00222,CEACAM1,P13688,CEACAM1,Cell adhesion molecule CEACAM1,gene_symbol
+BM00223,CEACAM5,P06731,CEACAM5,Cell adhesion molecule CEACAM5,gene_symbol
+BM00224,CEACAM6,P40199,CEACAM6,Cell adhesion molecule CEACAM6,gene_symbol
+BM00225,CEBPD,P49716,CEBPD,CCAAT/enhancer-binding protein delta,gene_symbol
+BM00226,CEBPG,P53567,CEBPG,CCAAT/enhancer-binding protein gamma,gene_symbol
+BM00227,CEP3,Q9UKI2,CDC42EP3,Cdc42 effector protein 3,gene_symbol
+BM00229,CFB,P00751,CFB,Complement factor B,gene_symbol
+BM00230,CFH,P08603,CFH,Complement factor H,gene_symbol
+BM00231,CFI,P05156,CFI,Complement factor I,gene_symbol
+BM00233,CHGA,P10645,CHGA,Chromogranin-A,gene_symbol
+BM00234,CHI3L1,P36222,CHI3L1,Chitinase-3-like protein 1,gene_symbol
+BM00236,CHN2,P52757,CHN2,Beta-chimaerin,gene_symbol
+BM00237,CHUK,O15111,CHUK,Inhibitor of nuclear factor kappa-B kinase subunit alpha,gene_symbol
+BM00239,CIZ1,Q9ULV3,CIZ1,Cip1-interacting zinc finger protein,gene_symbol
+BM00241,CKB,P12277,CKB,Creatine kinase B-type,gene_symbol
+BM00242,CKM,P06732,CKM,Creatine kinase M-type,gene_symbol
+BM00243,CLDN8,P56748,CLDN8,Claudin-8,gene_symbol
+BM00244,CLIP3,Q96DZ5,CLIP3,CAP-Gly domain-containing linker protein 3,gene_symbol
+BM00245,CLU,P10909,CLU,Clusterin,gene_symbol
+BM00246,CNDP1,Q96KN2,CNDP1,Beta-Ala-His dipeptidase,gene_symbol
+BM00247,CNOT7,Q9UIV1,CNOT7,CCR4-NOT transcription complex subunit 7,gene_symbol
+BM00248,CNPY2,Q9Y2B0,CNPY2,Protein canopy homolog 2,gene_symbol
+BM00249,CNTN5,O94779,CNTN5,Contactin-5,gene_symbol
+BM00250,COL14A1,Q05707,COL14A1,Collagen alpha-1(XIV) chain,gene_symbol
+BM00251,COL4A2,P08572,COL4A2,Collagen alpha-2(IV) chain,gene_symbol
+BM00253,COPS6,Q7L5N1,COPS6,COP9 signalosome complex subunit 6,gene_symbol
+BM00254,COTL1,Q14019,COTL1,Coactosin-like protein,gene_symbol
+BM00255,COX7A1,P24310,COX7A1,"Cytochrome c oxidase subunit 7A1, mitochondrial",gene_symbol
+BM00256,CP,P00450,CP,Ceruloplasmin,gene_symbol
+BM00257,CPA4,Q9UI42,CPA4,Carboxypeptidase A4,gene_symbol
+BM00258,CPB1,P15086,CPB1,Carboxypeptidase B,gene_symbol
+BM00260,CPM,P14384,CPM,Carboxypeptidase M,gene_symbol
+BM00261,CPQ,Q9Y646,CPQ,Carboxypeptidase Q,gene_symbol
+BM00262,CPXCR1,Q8N123,CPXCR1,CPX chromosomal region candidate gene 1 protein,gene_symbol
+BM00264,CRHBP,P24387,CRHBP,Corticotropin-releasing factor-binding protein,gene_symbol
+BM00265,CRIP1,P50238,CRIP1,Cysteine-rich protein 1,gene_symbol
+BM00266,CRIP2,P52943,CRIP2,Cysteine-rich protein 2,gene_symbol
+BM00267,CRP,P02741,CRP,C-reactive protein,gene_symbol
+BM00268,CRTAC1,Q9NQ79,CRTAC1,Cartilage acidic protein 1,gene_symbol
+BM00269,CRTC3,Q6UUV7,CRTC3,CREB-regulated transcription coactivator 3,gene_symbol
+BM00270,CRYAB,P02511,CRYAB,Alpha-crystallin B chain,gene_symbol
+BM00271,CRYBG1,Q9Y4K1,CRYBG1,Beta/gamma crystallin domain-containing protein 1,gene_symbol
+BM00272,CS,O75390,CS,"Citrate synthase, mitochondrial",gene_symbol
+BM00273,CSDC2,Q9Y534,CSDC2,Cold shock domain-containing protein C2,gene_symbol
+BM00274,CSF1,P09603,CSF1,Macrophage colony-stimulating factor 1,gene_symbol
+BM00275,CSGALNACT1,Q8TDX6,CSGALNACT1,Chondroitin sulfate N-acetylgalactosaminyltransferase 1,gene_symbol
+BM00276,CSK,P41240,CSK,Tyrosine-protein kinase CSK,gene_symbol
+BM00277,CSNK1E,P49674,CSNK1E,Casein kinase I isoform epsilon,gene_symbol
+BM00278,CSNK2A1,P68400,CSNK2A1,Casein kinase II subunit alpha,gene_symbol
+BM00279,CSPG4,Q6UVK1,CSPG4,Chondroitin sulfate proteoglycan 4,gene_symbol
+BM00280,CSRP2,Q16527,CSRP2,Cysteine and glycine-rich protein 2,gene_symbol
+BM00281,CST1,P01037,CST1,Cystatin-SN,gene_symbol
+BM00282,CST3,P01034,CST3,Cystatin-C,gene_symbol
+BM00283,CST6,P04080,CSTB,Cystatin-B,gene_symbol
+BM00284,CSTA,P01040,CSTA,Cystatin-A,gene_symbol
+BM00285,CTAG1A AAb,P78358,CTAG1A,Cancer/testis antigen 1,gene_symbol
+BM00287,CTAG2 AAb,O75638,CTAG2,Cancer/testis antigen 2,gene_symbol
+BM00288,CTBP1,Q13363,CTBP1,C-terminal-binding protein 1,gene_symbol
+BM00289,CTCFL,Q8NI51,CTCFL,Transcriptional repressor CTCFL,gene_symbol
+BM00290,CTIF,O43310,CTIF,CBP80/20-dependent translation initiation factor,gene_symbol
+BM00291,CTNNB1,P35222,CTNNB1,Catenin beta-1,gene_symbol
+BM00292,CTSC,P53634,CTSC,Dipeptidyl peptidase 1,gene_symbol
+BM00293,CTSD,P07339,CTSD,Cathepsin D,gene_symbol
+BM00294,CTSE,P14091,CTSE,Cathepsin E,gene_symbol
+BM00296,CXADR,P78310,CXADR,Coxsackievirus and adenovirus receptor,gene_symbol
+BM00297,CXCL1,P09341,CXCL1,Growth-regulated alpha protein,gene_symbol
+BM00298,CXCL10,P02778,CXCL10,C-X-C motif chemokine 10,gene_symbol
+BM00299,CXCL13,O43927,CXCL13,C-X-C motif chemokine 13,gene_symbol
+BM00300,CXCL2,P19875,CXCL2,C-X-C motif chemokine 2,gene_symbol
+BM00301,CXCL5,P42830,CXCL5,C-X-C motif chemokine 5,gene_symbol
+BM00302,CXCL8,P10145,CXCL8,Interleukin-8,gene_symbol
+BM00305,CYGB,Q8WWM9,CYGB,Cytoglobin,gene_symbol
+BM00306,CYP1B1,Q16678,CYP1B1,Cytochrome P450 1B1,gene_symbol
+BM00307,CYP24A1,Q07973,CYP24A1,"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",gene_symbol
+BM00308,CYP3A4,P08684,CYP3A4,Cytochrome P450 3A4,gene_symbol
+BM00309,Cytochrome C,P99999,CYCS,Cytochrome c,gene_symbol
+BM00320,DAAM2,Q86T65,DAAM2,Disheveled-associated activator of morphogenesis 2,gene_symbol
+BM00321,DAG1,Q14118,DAG1,Dystroglycan 1,gene_symbol
+BM00322,DAP,P51397,DAP,Death-associated protein 1,gene_symbol
+BM00323,DAPK1,P53355,DAPK1,Death-associated protein kinase 1,gene_symbol
+BM00324,DAPL1,A0PJW8,DAPL1,Death-associated protein-like 1,gene_symbol
+BM00326,DBN1,Q16643,DBN1,Drebrin,gene_symbol
+BM00327,DBT,P11182,DBT,"Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial",gene_symbol
+BM00328,DCC,P43146,DCC,Netrin receptor DCC,gene_symbol
+BM00329,DCD,P81605,DCD,Dermcidin,gene_symbol
+BM00330,DCP,P12821,ACE,Angiotensin-converting enzyme,gene_symbol
+BM00333,DCP1B,Q8IZD4,DCP1B,mRNA-decapping enzyme 1B,gene_symbol
+BM00334,DCTPP1,Q9H773,DCTPP1,dCTP pyrophosphatase 1,gene_symbol
+BM00335,DECR2,Q9NUI1,DECR2,"Peroxisomal 2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]",gene_symbol
+BM00336,DEFB1,P60022,DEFB1,Beta-defensin 1,gene_symbol
+BM00337,DENND2B,P78524,DENND2B,DENN domain-containing protein 2B,gene_symbol
+BM00339,DGCR6,Q14129,DGCR6,Protein DGCR6,gene_symbol
+BM00340,DGLUCY,Q7Z3D6,DGLUCY,"D-glutamate cyclase, mitochondrial",gene_symbol
+BM00341,DISP3,Q9P2K9,DISP3,Protein dispatched homolog 3,gene_symbol
+BM00342,DKK1,O94907,DKK1,Dickkopf-related protein 1,gene_symbol
+BM00343,DKK3,Q9UBP4,DKK3,Dickkopf-related protein 3,gene_symbol
+BM00344,DLD,P09622,DLD,"Dihydrolipoyl dehydrogenase, mitochondrial",gene_symbol
+BM00345,DLG3,Q13368,MPP3,MAGUK p55 subfamily member 3,gene_symbol
+BM00346,DMPK,Q09013,DMPK,Myotonin-protein kinase,gene_symbol
+BM00347,DMWD,Q09019,DMWD,Dystrophia myotonica WD repeat-containing protein,gene_symbol
+BM00348,DMXL1,Q9Y485,DMXL1,DmX-like protein 1,gene_symbol
+BM00349,DNAJB6,O75190,DNAJB6,DnaJ homolog subfamily B member 6,gene_symbol
+BM00350,DNAJC15,Q9Y5T4,DNAJC15,DnaJ homolog subfamily C member 15,gene_symbol
+BM00351,DNAJC3,Q13217,DNAJC3,DnaJ homolog subfamily C member 3,gene_symbol
+BM00352,DNAJC7,Q99615,DNAJC7,DnaJ homolog subfamily C member 7,gene_symbol
+BM00353,DPP4,P27487,DPP4,Dipeptidyl peptidase 4,gene_symbol
+BM00354,DPYSL3,Q14195,DPYSL3,Dihydropyrimidinase-related protein 3,gene_symbol
+BM00355,DSC2,Q02487,DSC2,Desmocollin-2,gene_symbol
+BM00356,DSG1,Q02413,DSG1,Desmoglein-1,gene_symbol
+BM00357,DSG2,Q14126,DSG2,Desmoglein-2,gene_symbol
+BM00358,DUSP22,Q9NRW4,DUSP22,Dual specificity protein phosphatase 22,gene_symbol
+BM00359,DUSP9,Q99956,DUSP9,Dual specificity protein phosphatase 9,gene_symbol
+BM00360,DYSF,O75923,DYSF,Dysferlin,gene_symbol
+BM00361,E2F1,Q01094,E2F1,Transcription factor E2F1,gene_symbol
+BM00362,EAF2,Q96CJ1,EAF2,ELL-associated factor 2,gene_symbol
+BM00363,ECM1,Q16610,ECM1,Extracellular matrix protein 1,gene_symbol
+BM00364,EDNRB,P24530,EDNRB,Endothelin receptor type B,gene_symbol
+BM00365,EED,O75530,EED,Polycomb protein EED,gene_symbol
+BM00366,EEF1A1,P68104,EEF1A1,Elongation factor 1-alpha 1,gene_symbol
+BM00367,EFCAB14,O75071,EFCAB14,EF-hand calcium-binding domain-containing protein 14,gene_symbol
+BM00368,EFEMP1,Q12805,EFEMP1,EGF-containing fibulin-like extracellular matrix protein 1,gene_symbol
+BM00369,EFNA5,P52803,EFNA5,Ephrin-A5,gene_symbol
+BM00370,EFR3A,Q14156,EFR3A,Protein EFR3 homolog A,gene_symbol
+BM00371,EGFL6,Q8IUX8,EGFL6,Epidermal growth factor-like protein 6,gene_symbol
+BM00372,EGFR,P00533,EGFR,Epidermal growth factor receptor,gene_symbol
+BM00373,EHF,Q9NZC4,EHF,ETS homologous factor,gene_symbol
+BM00374,EIF3E,P60228,EIF3E,Eukaryotic translation initiation factor 3 subunit E,gene_symbol
+BM00375,EIF5A,P63241,EIF5A,Eukaryotic translation initiation factor 5A-1,gene_symbol
+BM00376,ELF2,Q15723,ELF2,ETS-related transcription factor Elf-2,gene_symbol
+BM00377,ELF5,Q9UKW6,ELF5,ETS-related transcription factor Elf-5,gene_symbol
+BM00379,ELOVL2,Q9NXB9,ELOVL2,Very long chain fatty acid elongase 2,gene_symbol
+BM00380,EMILIN2,Q9BXX0,EMILIN2,EMILIN-2,gene_symbol
+BM00381,Endostatin,P39060,COL18A1,Collagen alpha-1(XVIII) chain,gene_symbol
+BM00382,ENG,P17813,ENG,Endoglin,gene_symbol
+BM00383,ENO2,P09104,ENO2,Gamma-enolase,gene_symbol
+BM00384,ENOX,Q8TC92,ENOX1,Ecto-NOX disulfide-thiol exchanger 1,gene_symbol
+BM00385,ENOX2,Q16206,ENOX2,Ecto-NOX disulfide-thiol exchanger 2,gene_symbol
+BM00386,ENPP2,Q13822,ENPP2,Autotaxin,gene_symbol
+BM00387,ENTPD5,O75356,ENTPD5,Nucleoside diphosphate phosphatase ENTPD5,gene_symbol
+BM00388,EP300,Q09472,EP300,Histone acetyltransferase p300,gene_symbol
+BM00389,EPB41L3,Q9Y2J2,EPB41L3,Band 4.1-like protein 3,gene_symbol
+BM00391,EPCAM,P16422,EPCAM,Epithelial cell adhesion molecule,gene_symbol
+BM00393,EPM2A,O95278,EPM2A,Laforin,gene_symbol
+BM00394,EPPK1,P58107,EPPK1,Epiplakin,gene_symbol
+BM00395,EPSTI1,Q96J88,EPSTI1,Epithelial-stromal interaction protein 1,gene_symbol
+BM00396,ERBB2,P04626,ERBB2,Receptor tyrosine-protein kinase erbB-2,gene_symbol
+BM00397,ERBB3,P21860,ERBB3,Receptor tyrosine-protein kinase erbB-3,gene_symbol
+BM00398,ERCC4,Q92889,ERCC4,DNA repair endonuclease XPF,gene_symbol
+BM00399,ERCC5,P28715,ERCC5,DNA excision repair protein ERCC-5,gene_symbol
+BM00400,ERG,P11308,ERG,Transcriptional regulator ERG,gene_symbol
+BM00401,ESM1,Q9NQ30,ESM1,Endothelial cell-specific molecule 1,gene_symbol
+BM00403,EXOC6B,Q9Y2D4,EXOC6B,Exocyst complex component 6B,gene_symbol
+BM00404,EXOSC2,Q13868,EXOSC2,Exosome complex component RRP4,gene_symbol
+BM00405,EYA4,O95677,EYA4,Protein phosphatase EYA4,gene_symbol
+BM00406,EZH2,Q15910,EZH2,Histone-lysine N-methyltransferase EZH2,gene_symbol
+BM00407,EZR,P15311,EZR,Ezrin,gene_symbol
+BM00408,F2,P00734,F2,Prothrombin,gene_symbol
+BM00409,F5,P12259,F5,Coagulation factor V,gene_symbol
+BM00410,F7,P08709,F7,Coagulation factor VII,gene_symbol
+BM00411,FABP2,P12104,FABP2,"Fatty acid-binding protein, intestinal",gene_symbol
+BM00412,FABP5,Q01469,FABP5,Fatty acid-binding protein 5,gene_symbol
+BM00414,FADS2,O95864,FADS2,Acyl-CoA 6-desaturase,gene_symbol
+BM00415,FAIM2,Q9BWQ8,FAIM2,Protein lifeguard 2,gene_symbol
+BM00416,FAM131B,Q86XD5,FAM131B,Protein FAM131B,gene_symbol
+BM00417,FAM234B,A2RU67,FAM234B,Protein FAM234B,gene_symbol
+BM00418,FAM83H,Q6ZRV2,FAM83H,Protein FAM83H,gene_symbol
+BM00420,FAS,P25445,FAS,Tumor necrosis factor receptor superfamily member 6,gene_symbol
+BM00421,FAS ligand,P48023,FASLG,Tumor necrosis factor ligand superfamily member 6,gene_symbol
+BM00422,FBLN1,P23142,FBLN1,Fibulin-1,gene_symbol
+BM00423,FBP1,P09467,FBP1,"Fructose-1,6-bisphosphatase 1",gene_symbol
+BM00425,FBXO9,Q9UK97,FBXO9,F-box only protein 9,gene_symbol
+BM00426,FBXW7,Q969H0,FBXW7,F-box/WD repeat-containing protein 7,gene_symbol
+BM00427,FCER1A,P12319,FCER1A,High affinity immunoglobulin epsilon receptor subunit alpha,gene_symbol
+BM00428,FCGBP,Q9Y6R7,FCGBP,IgGFc-binding protein,gene_symbol
+BM00429,FERMT2,Q96AC1,FERMT2,Fermitin family homolog 2,gene_symbol
+BM00430,FEZ1,Q99689,FEZ1,Fasciculation and elongation protein zeta-1,gene_symbol
+BM00431,FGF1,P05230,FGF1,Fibroblast growth factor 1,gene_symbol
+BM00432,FGF17,O60258,FGF17,Fibroblast growth factor 17,gene_symbol
+BM00433,FGF18,O76093,FGF18,Fibroblast growth factor 18,gene_symbol
+BM00434,FGF2,P09038,FGF2,Fibroblast growth factor 2,gene_symbol
+BM00435,FGFR2,P21802,FGFR2,Fibroblast growth factor receptor 2,gene_symbol
+BM00436,FGFR4,P22455,FGFR4,Fibroblast growth factor receptor 4,gene_symbol
+BM00437,FHIT,P49789,FHIT,Bis(5'-adenosyl)-triphosphatase,gene_symbol
+BM00438,FHL1,Q13642,FHL1,Four and a half LIM domains protein 1,gene_symbol
+BM00439,FHL3,Q13643,FHL3,Four and a half LIM domains protein 3,gene_symbol
+BM00440,FHOD3,Q8IVF7,FMNL3,Formin-like protein 3,gene_symbol
+BM00441,FJX1,Q86VR8,FJX1,Four-jointed box protein 1,gene_symbol
+BM00442,FKBP11,Q9NYL4,FKBP11,Peptidyl-prolyl cis-trans isomerase FKBP11,gene_symbol
+BM00443,FLNA,P21333,FLNA,Filamin-A,gene_symbol
+BM00444,FLNC,Q14315,FLNC,Filamin-C,gene_symbol
+BM00445,FLT1,P17948,FLT1,Vascular endothelial growth factor receptor 1,gene_symbol
+BM00446,FLT3LG,P49771,FLT3LG,Fms-related tyrosine kinase 3 ligand,gene_symbol
+BM00447,FMO5,P49326,FMO5,Flavin-containing monooxygenase 5,gene_symbol
+BM00448,FN1,P02751,FN1,Fibronectin,gene_symbol
+BM00449,FNDC3A,Q9Y2H6,FNDC3A,Fibronectin type-III domain-containing protein 3A,gene_symbol
+BM00451,FOLH1,Q04609,FOLH1,Glutamate carboxypeptidase 2,gene_symbol
+BM00452,FOLH1B,Q9HBA9,FOLH1B,Putative N-acetylated-alpha-linked acidic dipeptidase,gene_symbol
+BM00453,FOLR1,P15328,FOLR1,Folate receptor alpha,gene_symbol
+BM00454,FOLR3,P41439,FOLR3,Folate receptor gamma,gene_symbol
+BM00455,FOXA1,P55317,FOXA1,Hepatocyte nuclear factor 3-alpha,gene_symbol
+BM00456,FOXD1,Q16676,FOXD1,Forkhead box protein D1,gene_symbol
+BM00457,FOXE1,O00358,FOXE1,Forkhead box protein E1,gene_symbol
+BM00458,FOXO1,Q12778,FOXO1,Forkhead box protein O1,gene_symbol
+BM00460,FRS3,O43559,FRS3,Fibroblast growth factor receptor substrate 3,gene_symbol
+BM00461,FSH,P01225,FSHB,Follitropin subunit beta,gene_symbol
+BM00462,FSTL1,Q12841,FSTL1,Follistatin-related protein 1,gene_symbol
+BM00465,FXYD6,Q9H0Q3,FXYD6,FXYD domain-containing ion transport regulator 6,gene_symbol
+BM00466,FYN,P06241,FYN,Tyrosine-protein kinase Fyn,gene_symbol
+BM00467,FZD10,Q9ULW2,FZD10,Frizzled-10,gene_symbol
+BM00468,G3BP1,Q13283,G3BP1,Ras GTPase-activating protein-binding protein 1,gene_symbol
+BM00469,GABARAP,O95166,GABARAP,Gamma-aminobutyric acid receptor-associated protein,gene_symbol
+BM00470,GADD45A,P24522,GADD45A,Growth arrest and DNA damage-inducible protein GADD45 alpha,gene_symbol
+BM00471,GADD45B,O75293,GADD45B,Growth arrest and DNA damage-inducible protein GADD45 beta,gene_symbol
+BM00472,GAGE7,O76087,GAGE7,G antigen 7,gene_symbol
+BM00474,GALNT3,Q14435,GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,gene_symbol
+BM00475,GALNT7,Q86SF2,GALNT7,N-acetylgalactosaminyltransferase 7,gene_symbol
+BM00476,GANAB,Q14697,GANAB,Neutral alpha-glucosidase AB,gene_symbol
+BM00477,GAPDH liver,P04406,GAPDH,Glyceraldehyde-3-phosphate dehydrogenase,gene_symbol
+BM00479,GAS7,O60861,GAS7,Growth arrest-specific protein 7,gene_symbol
+BM00480,GATA4,P43694,GATA4,Transcription factor GATA-4,gene_symbol
+BM00482,GC,P38435,GGCX,Vitamin K-dependent gamma-carboxylase,gene_symbol
+BM00483,GCLC,P48506,GCLC,Glutamate--cysteine ligase catalytic subunit,gene_symbol
+BM00484,GCLM,P48507,GCLM,Glutamate--cysteine ligase regulatory subunit,gene_symbol
+BM00485,GDF15,Q99988,GDF15,Growth/differentiation factor 15,gene_symbol
+BM00486,GDNF,P39905,GDNF,Glial cell line-derived neurotrophic factor,gene_symbol
+BM00487,GEM,P55040,GEM,GTP-binding protein GEM,gene_symbol
+BM00490,GFPT1,Q06210,GFPT1,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1,gene_symbol
+BM00491,GGT1,P19440,GGT1,Glutathione hydrolase 1 proenzyme,gene_symbol
+BM00492,GH1,P01241,GH1,Somatotropin,gene_symbol
+BM00494,GLDC,P23378,GLDC,"Glycine dehydrogenase (decarboxylating), mitochondrial",gene_symbol
+BM00495,GLO1,Q04760,GLO1,Lactoylglutathione lyase,gene_symbol
+BM00496,GLOD4,Q9HC38,GLOD4,Glyoxalase domain-containing protein 4,gene_symbol
+BM00497,GLRX,P35754,GLRX,Glutaredoxin-1,gene_symbol
+BM00499,GLUD1,P00367,GLUD1,"Glutamate dehydrogenase 1, mitochondrial",gene_symbol
+BM00500,GM2A,P17900,GM2A,Ganglioside GM2 activator,gene_symbol
+BM00501,GNAS,P84996,GNAS,Protein ALEX,gene_symbol
+BM00502,GNB4,Q9HAV0,GNB4,Guanine nucleotide-binding protein subunit beta-4,gene_symbol
+BM00503,GNB5,O14775,GNB5,Guanine nucleotide-binding protein subunit beta-5,gene_symbol
+BM00504,GNPDA1,P46926,GNPDA1,Glucosamine-6-phosphate deaminase 1,gene_symbol
+BM00505,GP73,Q8NBJ4,GOLM1,Golgi membrane protein 1,gene_symbol
+BM00506,GPANK1,O95872,GPANK1,G patch domain and ankyrin repeat-containing protein 1,gene_symbol
+BM00507,GPI,P06744,GPI,Glucose-6-phosphate isomerase,gene_symbol
+BM00508,GPKOW,Q92917,GPKOW,G-patch domain and KOW motifs-containing protein,gene_symbol
+BM00509,GPM6B,Q13491,GPM6B,Neuronal membrane glycoprotein M6-b,gene_symbol
+BM00510,GPNMB,Q14956,GPNMB,Transmembrane glycoprotein NMB,gene_symbol
+BM00511,GPR157,Q5UAW9,GPR157,G-protein coupled receptor 157,gene_symbol
+BM00512,GPR158,Q5T848,GPR158,Metabotropic glycine receptor,gene_symbol
+BM00513,GPR172A,Q9HAB3,SLC52A2,"Solute carrier family 52, riboflavin transporter, member 2",gene_symbol
+BM00514,GPR39,O43194,GPR39,G-protein coupled receptor 39,gene_symbol
+BM00515,GPR65,Q8IYL9,GPR65,G-protein coupled receptor 65,gene_symbol
+BM00516,GPRASP1,Q5JY77,GPRASP1,G-protein coupled receptor-associated sorting protein 1,gene_symbol
+BM00517,GPX1,P07203,GPX1,Glutathione peroxidase 1,gene_symbol
+BM00518,GPX3,P22352,GPX3,Glutathione peroxidase 3,gene_symbol
+BM00519,GRN,P28799,GRN,Progranulin,gene_symbol
+BM00520,GSN,P06396,GSN,Gelsolin,gene_symbol
+BM00521,GSS,P48637,GSS,Glutathione synthetase,gene_symbol
+BM00522,GSTA1,P08263,GSTA1,Glutathione S-transferase A1,gene_symbol
+BM00523,GSTM1,P09488,GSTM1,Glutathione S-transferase Mu 1,gene_symbol
+BM00524,GSTM2,P28161,GSTM2,Glutathione S-transferase Mu 2,gene_symbol
+BM00525,GSTM3,P21266,GSTM3,Glutathione S-transferase Mu 3,gene_symbol
+BM00526,GSTP1,P09211,GSTP1,Glutathione S-transferase P,gene_symbol
+BM00527,GSTT1,P30711,GSTT1,Glutathione S-transferase theta-1,gene_symbol
+BM00528,GSTZ1,O43708,GSTZ1,Maleylacetoacetate isomerase,gene_symbol
+BM00529,GTF2A2,P52657,GTF2A2,Transcription initiation factor IIA subunit 2,gene_symbol
+BM00530,H1-2,P16403,H1-2,Histone H1.2,gene_symbol
+BM00531,H2AC1,Q96QV6,H2AC1,Histone H2A type 1-A,gene_symbol
+BM00532,H2AFJ,Q9BTM1,H2AJ,Histone H2A.J,gene_symbol
+BM00533,H2AZ2,Q71UI9,H2AZ2,Histone H2A.V,gene_symbol
+BM00535,H2BC4,P62807,H2BC4,Histone H2B type 1-C/E/F/G/I,gene_symbol
+BM00539,H2BC9,Q93079,H2BC9,Histone H2B type 1-H,gene_symbol
+BM00540,HACD3,Q9P035,HACD3,Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 3,gene_symbol
+BM00542,HAMP,P81172,HAMP,Hepcidin,gene_symbol
+BM00544,HAPLN1,P10915,HAPLN1,Hyaluronan and proteoglycan link protein 1,gene_symbol
+BM00546,HBB,P68871,HBB,Hemoglobin subunit beta,gene_symbol
+BM00547,HE4,Q14508,WFDC2,WAP four-disulfide core domain protein 2,gene_symbol
+BM00549,HEXIM1,O94992,HEXIM1,Protein HEXIM1,gene_symbol
+BM00550,HFE2,Q6ZVN8,HJV,Hemojuvelin,gene_symbol
+BM00551,HGF,P14210,HGF,Hepatocyte growth factor,gene_symbol
+BM00552,HGFAC,Q04756,HGFAC,Hepatocyte growth factor activator serine protease,gene_symbol
+BM00553,HLA-C,P10321,HLA-C,"HLA class I histocompatibility antigen, C alpha chain",gene_symbol
+BM00554,HLA-DRB1,P01911,HLA-DRB1,"HLA class II histocompatibility antigen, DRB1 beta chain",gene_symbol
+BM00555,HLA-G,P17693,HLA-G,"HLA class I histocompatibility antigen, alpha chain G",gene_symbol
+BM00557,HMGB1,P09429,HMGB1,High mobility group protein B1,gene_symbol
+BM00558,HNRNPD,Q14103,HNRNPD,Heterogeneous nuclear ribonucleoprotein D0,gene_symbol
+BM00559,HNRNPL,P14866,HNRNPL,Heterogeneous nuclear ribonucleoprotein L,gene_symbol
+BM00560,HOXA4,Q00056,HOXA4,Homeobox protein Hox-A4,gene_symbol
+BM00561,HOXA5,P20719,HOXA5,Homeobox protein Hox-A5,gene_symbol
+BM00563,HOXA9,P31269,HOXA9,Homeobox protein Hox-A9,gene_symbol
+BM00564,HOXB13,Q92826,HOXB13,Homeobox protein Hox-B13,gene_symbol
+BM00565,HOXC6,P09630,HOXC6,Homeobox protein Hox-C6,gene_symbol
+BM00566,HOXD1,Q9GZZ0,HOXD1,Homeobox protein Hox-D1,gene_symbol
+BM00567,HPD,P32754,HPD,4-hydroxyphenylpyruvate dioxygenase,gene_symbol
+BM00568,HPGD,P15428,HPGD,15-hydroxyprostaglandin dehydrogenase [NAD(+)],gene_symbol
+BM00569,HRG,P04196,HRG,Histidine-rich glycoprotein,gene_symbol
+BM00571,HSD17B10,Q99714,HSD17B10,3-hydroxyacyl-CoA dehydrogenase type-2,gene_symbol
+BM00572,HSP70,P34932,HSPA4,Heat shock 70 kDa protein 4,gene_symbol
+BM00573,HSP70-9B,P38646,HSPA9,"Stress-70 protein, mitochondrial",gene_symbol
+BM00574,HSP90AA1,P07900,HSP90AA1,Heat shock protein HSP 90-alpha,gene_symbol
+BM00575,HSP90AB1,P08238,HSP90AB1,Heat shock protein HSP 90-beta,gene_symbol
+BM00576,HSP90B1,P14625,HSP90B1,Endoplasmin,gene_symbol
+BM00577,HSPA12A,O43301,HSPA12A,Heat shock 70 kDa protein 12A,gene_symbol
+BM00578,HSPB1,P04792,HSPB1,Heat shock protein beta-1,gene_symbol
+BM00579,HSPB6,O14558,HSPB6,Heat shock protein beta-6,gene_symbol
+BM00580,HSPB8,Q9UJY1,HSPB8,Heat shock protein beta-8,gene_symbol
+BM00581,HSPG2,P98160,HSPG2,Basement membrane-specific heparan sulfate proteoglycan core protein,gene_symbol
+BM00582,HTRA1,Q92743,HTRA1,Serine protease HTRA1,gene_symbol
+BM00583,HYAL1,Q12794,HYAL1,Hyaluronidase-1,gene_symbol
+BM00584,HYAL2,Q12891,HYAL2,Hyaluronidase-2,gene_symbol
+BM00586,ICAM1,P05362,ICAM1,Intercellular adhesion molecule 1,gene_symbol
+BM00587,IDH1,O75874,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic,gene_symbol
+BM00588,IFI27,P40305,IFI27,"Interferon alpha-inducible protein 27, mitochondrial",gene_symbol
+BM00589,IFNA1,P0DY56,IFNA1,Interferon alpha-1,gene_symbol
+BM00590,IFNG,P01579,IFNG,Interferon gamma,gene_symbol
+BM00592,IGF1,P05019,IGF1,Insulin-like growth factor 1,gene_symbol
+BM00593,IGF2,P01344,IGF2,Insulin-like growth factor 2,gene_symbol
+BM00594,IGF2R,P11717,IGF2R,Cation-independent mannose-6-phosphate receptor,gene_symbol
+BM00595,IGFBP1,P08833,IGFBP1,Insulin-like growth factor-binding protein 1,gene_symbol
+BM00596,IGFBP2,P18065,IGFBP2,Insulin-like growth factor-binding protein 2,gene_symbol
+BM00597,IGFBP3,P17936,IGFBP3,Insulin-like growth factor-binding protein 3,gene_symbol
+BM00598,IGFBP4,P22692,IGFBP4,Insulin-like growth factor-binding protein 4,gene_symbol
+BM00599,IGFBP6,P24592,IGFBP6,Insulin-like growth factor-binding protein 6,gene_symbol
+BM00600,IGHA1,P01876,IGHA1,Immunoglobulin heavy constant alpha 1,gene_symbol
+BM00601,IGHV3-13,P01766,IGHV3-13,Immunoglobulin heavy variable 3-13,gene_symbol
+BM00602,IGKC,P01834,IGKC,Immunoglobulin kappa constant,gene_symbol
+BM00603,IGLC7,A0M8Q6,IGLC7,Immunoglobulin lambda constant 7,gene_symbol
+BM00605,IKZF1,Q13422,IKZF1,DNA-binding protein Ikaros,gene_symbol
+BM00606,IL10,P22301,IL10,Interleukin-10,gene_symbol
+BM00608,IL13,P35225,IL13,Interleukin-13,gene_symbol
+BM00609,IL15RA,Q13261,IL15RA,Interleukin-15 receptor subunit alpha,gene_symbol
+BM00610,IL17B,Q9UHF5,IL17B,Interleukin-17B,gene_symbol
+BM00611,IL18,Q14116,IL18,Interleukin-18,gene_symbol
+BM00612,IL1B,P01584,IL1B,Interleukin-1 beta,gene_symbol
+BM00613,IL2,P60568,IL2,Interleukin-2,gene_symbol
+BM00614,IL24,Q13007,IL24,Interleukin-24,gene_symbol
+BM00615,IL2RA,P01589,IL2RA,Interleukin-2 receptor subunit alpha,gene_symbol
+BM00616,IL4,P05112,IL4,Interleukin-4,gene_symbol
+BM00617,IL5,P05113,IL5,Interleukin-5,gene_symbol
+BM00618,IL6,P05231,IL6,Interleukin-6,gene_symbol
+BM00619,IL6R,P08887,IL6R,Interleukin-6 receptor subunit alpha,gene_symbol
+BM00620,IMPDH2,P12268,IMPDH2,Inosine-5'-monophosphate dehydrogenase 2,gene_symbol
+BM00622,IQCB1,Q15051,IQCB1,IQ calmodulin-binding motif-containing protein 1,gene_symbol
+BM00623,IQGAP2,Q13576,IQGAP2,Ras GTPase-activating-like protein IQGAP2,gene_symbol
+BM00624,IRF9,Q00978,IRF9,Interferon regulatory factor 9,gene_symbol
+BM00625,ITGA3,P26006,ITGA3,Integrin alpha-3,gene_symbol
+BM00626,ITGA5,P08648,ITGA5,Integrin alpha-5,gene_symbol
+BM00627,ITGB1,P05556,ITGB1,Integrin beta-1,gene_symbol
+BM00628,ITGB3,P05106,ITGB3,Integrin beta-3,gene_symbol
+BM00629,ITGB4,P16144,ITGB4,Integrin beta-4,gene_symbol
+BM00630,ITGBL1,O95965,ITGBL1,Integrin beta-like protein 1,gene_symbol
+BM00631,ITIH3,Q06033,ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3,gene_symbol
+BM00632,ITIH4,Q14624,ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,gene_symbol
+BM00633,ITSN1,Q15811,ITSN1,Intersectin-1,gene_symbol
+BM00634,JAG1,P78504,JAG1,Protein jagged-1,gene_symbol
+BM00635,JMJD6,Q6NYC1,JMJD6,Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6,gene_symbol
+BM00636,JUNB,P17275,JUNB,Transcription factor JunB,gene_symbol
+BM00637,KCNH5,Q8NCM2,KCNH5,Voltage-gated delayed rectifier potassium channel KCNH5,gene_symbol
+BM00638,KCNJ8,Q15842,KCNJ8,ATP-sensitive inward rectifier potassium channel 8,gene_symbol
+BM00639,KCP,Q6ZWJ8,KCP,Kielin/chordin-like protein,gene_symbol
+BM00640,KCTD17,Q8N5Z5,KCTD17,BTB/POZ domain-containing protein KCTD17,gene_symbol
+BM00641,KDR,P35968,KDR,Vascular endothelial growth factor receptor 2,gene_symbol
+BM00642,KIF1A,Q12756,KIF1A,Kinesin-like protein KIF1A,gene_symbol
+BM00643,KIF3C,O14782,KIF3C,Kinesin-like protein KIF3C,gene_symbol
+BM00644,KIF5B,P33176,KIF5B,Kinesin-1 heavy chain,gene_symbol
+BM00645,KIT,P10721,KIT,Mast/stem cell growth factor receptor Kit,gene_symbol
+BM00646,KLC1,Q07866,KLC1,Kinesin light chain 1,gene_symbol
+BM00647,KLF5,Q13887,KLF5,Krueppel-like factor 5,gene_symbol
+BM00648,KLHL14,Q9P2G3,KLHL14,Kelch-like protein 14,gene_symbol
+BM00649,KLK10,O43240,KLK10,Kallikrein-10,gene_symbol
+BM00650,KLK11,Q9UBX7,KLK11,Kallikrein-11,gene_symbol
+BM00651,KLK12,Q9UKR0,KLK12,Kallikrein-12,gene_symbol
+BM00652,KLK13,Q9UKR3,KLK13,Kallikrein-13,gene_symbol
+BM00653,KLK14,Q9P0G3,KLK14,Kallikrein-14,gene_symbol
+BM00654,KLK2,P20151,KLK2,Kallikrein-2,gene_symbol
+BM00655,KLK4,Q9Y5K2,KLK4,Kallikrein-4,gene_symbol
+BM00656,KLK5,Q9Y337,KLK5,Kallikrein-5,gene_symbol
+BM00657,KLK6,Q92876,KLK6,Kallikrein-6,gene_symbol
+BM00658,KLK7,P49862,KLK7,Kallikrein-7,gene_symbol
+BM00659,KLK8,O60259,KLK8,Kallikrein-8,gene_symbol
+BM00660,KNG1,P01042,KNG1,Kininogen-1,gene_symbol
+BM00661,KPNA6,O60684,KPNA6,Importin subunit alpha-7,gene_symbol
+BM00662,KPNB1,Q14974,KPNB1,Importin subunit beta-1,gene_symbol
+BM00663,KRAS,P01116,KRAS,GTPase KRas,gene_symbol
+BM00664,KRT17,Q04695,KRT17,"Keratin, type I cytoskeletal 17",gene_symbol
+BM00665,KRT19,P08727,KRT19,"Keratin, type I cytoskeletal 19",gene_symbol
+BM00666,KRT6B,P04259,KRT6B,"Keratin, type II cytoskeletal 6B",gene_symbol
+BM00667,KRT7,P08729,KRT7,"Keratin, type II cytoskeletal 7",gene_symbol
+BM00668,KRT8,P05787,KRT8,"Keratin, type II cytoskeletal 8",gene_symbol
+BM00669,L1CAM,P32004,L1CAM,Neural cell adhesion molecule L1,gene_symbol
+BM00670,LAMA5,O15230,LAMA5,Laminin subunit alpha-5,gene_symbol
+BM00671,LAMB2,P11047,LAMC1,Laminin subunit gamma-1,gene_symbol
+BM00672,LAMC1,P11047,LAMC1,Laminin subunit gamma-1,gene_symbol
+BM00673,LAMC2,Q13753,LAMC2,Laminin subunit gamma-2,gene_symbol
+BM00674,LAMP1,P11279,LAMP1,Lysosome-associated membrane glycoprotein 1,gene_symbol
+BM00675,LAMR1,P08865,RPSA,Small ribosomal subunit protein uS2,gene_symbol
+BM00676,LAPTM4B,Q86VI4,LAPTM4B,Lysosomal-associated transmembrane protein 4B,gene_symbol
+BM00677,LARP6,Q9BRS8,LARP6,La-related protein 6,gene_symbol
+BM00678,LBP,P18428,LBP,Lipopolysaccharide-binding protein,gene_symbol
+BM00679,LCN1,P31025,LCN1,Lipocalin-1,gene_symbol
+BM00680,LCN2,P80188,LCN2,Neutrophil gelatinase-associated lipocalin,gene_symbol
+BM00682,LCP1,P13796,LCP1,Plastin-2,gene_symbol
+BM00683,LCP2,Q13094,LCP2,Lymphocyte cytosolic protein 2,gene_symbol
+BM00684,LDAH,Q9H6V9,LDAH,Lipid droplet-associated hydrolase,gene_symbol
+BM00686,LDHB,P07195,LDHB,L-lactate dehydrogenase B chain,gene_symbol
+BM00688,LEP,P41159,LEP,Leptin,gene_symbol
+BM00689,LEPR,P48357,LEPR,Leptin receptor,gene_symbol
+BM00691,LGALS3BP,Q08380,LGALS3BP,Galectin-3-binding protein,gene_symbol
+BM00692,LGALS8,O00214,LGALS8,Galectin-8,gene_symbol
+BM00693,LGMN,Q99538,LGMN,Legumain,gene_symbol
+BM00694,LHB,P01229,LHB,Lutropin subunit beta,gene_symbol
+BM00696,LIMS2,Q7Z4I7,LIMS2,LIM and senescent cell antigen-like-containing domain protein 2,gene_symbol
+BM00697,LMNA,P02545,LMNA,Prelamin-A/C,gene_symbol
+BM00698,LMNB2,Q03252,LMNB2,Lamin-B2,gene_symbol
+BM00699,LMO3,Q8TAP4,LMO3,LIM domain only protein 3,gene_symbol
+BM00700,LMOD1,P29536,LMOD1,Leiomodin-1,gene_symbol
+BM00701,LMR1,Q6ZMQ8,AATK,Serine/threonine-protein kinase LMTK1,gene_symbol
+BM00702,LPAR3,Q9UBY5,LPAR3,Lysophosphatidic acid receptor 3,gene_symbol
+BM00703,LPHA,O95968,SCGB1D1,Secretoglobin family 1D member 1,gene_symbol
+BM00704,LPIN1,Q14693,LPIN1,Phosphatidate phosphatase LPIN1,gene_symbol
+BM00705,LRG1,P02750,LRG1,Leucine-rich alpha-2-glycoprotein,gene_symbol
+BM00706,LRIG3,Q6UXM1,LRIG3,Leucine-rich repeats and immunoglobulin-like domains protein 3,gene_symbol
+BM00707,LRRC47,Q8N1G4,LRRC47,Leucine-rich repeat-containing protein 47,gene_symbol
+BM00708,LTA4H,P09960,LTA4H,Leukotriene A-4 hydrolase,gene_symbol
+BM00709,LTBP1,Q14766,LTBP1,Latent-transforming growth factor beta-binding protein 1,gene_symbol
+BM00710,LTBP2,Q14767,LTBP2,Latent-transforming growth factor beta-binding protein 2,gene_symbol
+BM00711,LTBP4,Q8N2S1,LTBP4,Latent-transforming growth factor beta-binding protein 4,gene_symbol
+BM00712,LTF,P02788,LTF,Lactotransferrin,gene_symbol
+BM00713,LY6G6C,O95867,LY6G6C,Lymphocyte antigen 6 complex locus protein G6c,gene_symbol
+BM00714,LYPD3,O95274,LYPD3,Ly6/PLAUR domain-containing protein 3,gene_symbol
+BM00715,LYPLA1,O75608,LYPLA1,Acyl-protein thioesterase 1,gene_symbol
+BM00716,LYZ,P61626,LYZ,Lysozyme C,gene_symbol
+BM00717,LZTS1,Q9Y250,LZTS1,Leucine zipper putative tumor suppressor 1,gene_symbol
+BM00719,MAGEA4,P43358,MAGEA4,Melanoma-associated antigen 4,gene_symbol
+BM00720,MAGEA6,P43360,MAGEA6,Melanoma-associated antigen 6,gene_symbol
+BM00721,MAL,P01732,CD8A,T-cell surface glycoprotein CD8 alpha chain,gene_symbol
+BM00724,MAOB,P27338,MAOB,Amine oxidase [flavin-containing] B,gene_symbol
+BM00725,MAP1A,P78559,MAP1A,Microtubule-associated protein 1A,gene_symbol
+BM00726,MAP2K1,Q02750,MAP2K1,Dual specificity mitogen-activated protein kinase kinase 1,gene_symbol
+BM00727,MAPK1,P28482,MAPK1,Mitogen-activated protein kinase 1,gene_symbol
+BM00728,MAPK13,O15264,MAPK13,Mitogen-activated protein kinase 13,gene_symbol
+BM00729,MAPK14,Q16539,MAPK14,Mitogen-activated protein kinase 14,gene_symbol
+BM00730,MAPK3,P27361,MAPK3,Mitogen-activated protein kinase 3,gene_symbol
+BM00735,MAZ,P56270,MAZ,Myc-associated zinc finger protein,gene_symbol
+BM00736,MB,P02144,MB,Myoglobin,gene_symbol
+BM00737,MBD1,Q9UIS9,MBD1,Methyl-CpG-binding domain protein 1,gene_symbol
+BM00738,MBP,P02686,MBP,Myelin basic protein,gene_symbol
+BM00740,MCCC2,Q9HCC0,MCCC2,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",gene_symbol
+BM00741,MCUR1,Q96AQ8,MCUR1,Mitochondrial calcium uniporter regulator 1,gene_symbol
+BM00742,MDK,P21741,MDK,Midkine,gene_symbol
+BM00743,ME1,P48163,ME1,NADP-dependent malic enzyme,gene_symbol
+BM00744,MED21,Q13503,MED21,Mediator of RNA polymerase II transcription subunit 21,gene_symbol
+BM00750,MET,P08581,MET,Hepatocyte growth factor receptor,gene_symbol
+BM00751,METAP2,P50579,METAP2,Methionine aminopeptidase 2,gene_symbol
+BM00752,MFAP5,Q13361,MFAP5,Microfibrillar-associated protein 5,gene_symbol
+BM00753,MGMT,P16455,MGMT,Methylated-DNA--protein-cysteine methyltransferase,gene_symbol
+BM00754,MGST1,P10620,MGST1,Microsomal glutathione S-transferase 1,gene_symbol
+BM00756,MIEN1,Q9BRT3,MIEN1,Migration and invasion enhancer 1,gene_symbol
+BM00757,MIF,P03971,AMH,Anti-Muellerian hormone,gene_symbol
+BM00768,MKI67,P46013,MKI67,Proliferation marker protein Ki-67,gene_symbol
+BM00769,MLH1,P40692,MLH1,DNA mismatch repair protein Mlh1,gene_symbol
+BM00770,MLX,Q9UH92,MLX,Max-like protein X,gene_symbol
+BM00771,MME,P08473,MME,Neprilysin,gene_symbol
+BM00772,MMP1,P03956,MMP1,Interstitial collagenase,gene_symbol
+BM00773,MMP10,P09238,MMP10,Stromelysin-2,gene_symbol
+BM00774,MMP12,P39900,MMP12,Macrophage metalloelastase,gene_symbol
+BM00775,MMP2,P08253,MMP2,72 kDa type IV collagenase,gene_symbol
+BM00776,MMP28,Q9H239,MMP28,Matrix metalloproteinase-28,gene_symbol
+BM00777,MMP3,P08254,MMP3,Stromelysin-1,gene_symbol
+BM00778,MMP7,P09237,MMP7,Matrilysin,gene_symbol
+BM00779,MMP9,P14780,MMP9,Matrix metalloproteinase-9,gene_symbol
+BM00780,MMRN2,Q9H8L6,MMRN2,Multimerin-2,gene_symbol
+BM00781,MPG,P29372,MPG,DNA-3-methyladenine glycosylase,gene_symbol
+BM00782,MPO,P05164,MPO,Myeloperoxidase,gene_symbol
+BM00783,MPPED2,Q15777,MPPED2,Metallophosphoesterase MPPED2,gene_symbol
+BM00784,MPZ,P25189,MPZ,Myelin protein P0,gene_symbol
+BM00785,MPZL2,O60487,MPZL2,Myelin protein zero-like protein 2,gene_symbol
+BM00786,MRC1,P22897,MRC1,Macrophage mannose receptor 1,gene_symbol
+BM00788,MSH2,P43246,MSH2,DNA mismatch repair protein Msh2,gene_symbol
+BM00789,MSLN,Q13421,MSLN,Mesothelin,gene_symbol
+BM00790,MSN,P26038,MSN,Moesin,gene_symbol
+BM00791,MSRA,Q9UJ68,MSRA,Mitochondrial peptide methionine sulfoxide reductase,gene_symbol
+BM00792,MSX2,P35548,MSX2,Homeobox protein MSX-2,gene_symbol
+BM00793,MTA1,Q13330,MTA1,Metastasis-associated protein MTA1,gene_symbol
+BM00794,MTHFR,P42898,MTHFR,Methylenetetrahydrofolate reductase (NADPH),gene_symbol
+BM00795,MTMR11,A4FU01,MTMR11,Myotubularin-related protein 11,gene_symbol
+BM00796,MTO1,Q9Y2Z2,MTO1,"5-taurinomethyluridine-[tRNA] synthase subunit MTO1, mitochondrial",gene_symbol
+BM00797,MUC4,Q99102,MUC4,Mucin-4,gene_symbol
+BM00798,MUC5AC,P98088,MUC5AC,Mucin-5AC,gene_symbol
+BM00801,MXRA5,Q9NR99,MXRA5,Matrix-remodeling-associated protein 5,gene_symbol
+BM00802,MXRA7,P84157,MXRA7,Matrix-remodeling-associated protein 7,gene_symbol
+BM00803,MYC,P01106,MYC,Myc proto-oncogene protein,gene_symbol
+BM00804,MYCBP,Q99417,MYCBP,c-Myc-binding protein,gene_symbol
+BM00805,MYDGF,Q969H8,MYDGF,Myeloid-derived growth factor,gene_symbol
+BM00806,MYO5A,Q9Y4I1,MYO5A,Unconventional myosin-Va,gene_symbol
+BM00807,MYOZ2,Q9NPC6,MYOZ2,Myozenin-2,gene_symbol
+BM00809,MZT2A,Q6P582,MZT2A,Mitotic-spindle organizing protein 2A,gene_symbol
+BM00810,NACA,Q13765,NACA,Nascent polypeptide-associated complex subunit alpha,gene_symbol
+BM00811,NAGK,Q9UJ70,NAGK,N-acetyl-D-glucosamine kinase,gene_symbol
+BM00813,NAXE,Q8NCW5,NAXE,NAD(P)H-hydrate epimerase,gene_symbol
+BM00814,NCAM1,P13591,NCAM1,Neural cell adhesion molecule 1,gene_symbol
+BM00815,NCS1,P62166,NCS1,Neuronal calcium sensor 1,gene_symbol
+BM00816,NDUFA10,O95299,NDUFA10,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",gene_symbol
+BM00817,NECTIN4,Q96NY8,NECTIN4,Nectin-4,gene_symbol
+BM00818,NEK3,P51956,NEK3,Serine/threonine-protein kinase Nek3,gene_symbol
+BM00819,NELFA,Q9H3P2,NELFA,Negative elongation factor A,gene_symbol
+BM00820,NELL1,Q92832,NELL1,Protein kinase C-binding protein NELL1,gene_symbol
+BM00821,NID1,P14543,NID1,Nidogen-1,gene_symbol
+BM00822,NID2,Q14112,NID2,Nidogen-2,gene_symbol
+BM00823,NIF3L1,Q9GZT8,NIF3L1,NIF3-like protein 1,gene_symbol
+BM00824,NKAIN1,Q4KMZ8,NKAIN1,Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 1,gene_symbol
+BM00825,NKX3-1,Q99801,NKX3-1,Homeobox protein Nkx-3.1,gene_symbol
+BM00826,NLRP1,Q9C000,NLRP1,"NACHT, LRR and PYD domains-containing protein 1",gene_symbol
+BM00827,NME1-NME2,J3KPD9,NME1-NME2,nucleoside-diphosphate kinase,gene_symbol
+BM00828,NME2,P22392,NME2,Nucleoside diphosphate kinase B,gene_symbol
+BM00829,NMU,P48645,NMU,Neuromedin-U,gene_symbol
+BM00830,NOS1,P29475,NOS1,Nitric oxide synthase 1,gene_symbol
+BM00831,NOTCH2,Q04721,NOTCH2,Neurogenic locus notch homolog protein 2,gene_symbol
+BM00832,NOTCH2NLA,Q7Z3S9,NOTCH2NLA,Notch homolog 2 N-terminal-like protein A,gene_symbol
+BM00833,NPC2,P61916,NPC2,NPC intracellular cholesterol transporter 2,gene_symbol
+BM00834,NR4A1,P22736,NR4A1,Nuclear receptor subfamily 4immunitygroup A member 1,gene_symbol
+BM00835,NR4A3,Q92570,NR4A3,Nuclear receptor subfamily 4 group A member 3,gene_symbol
+BM00836,NRAS,P01111,NRAS,GTPase NRas,gene_symbol
+BM00837,NRIP2,Q9BQI9,NRIP2,Nuclear receptor-interacting protein 2,gene_symbol
+BM00838,NRXN1,P58400,NRXN1,Neurexin-1-beta,gene_symbol
+BM00839,NSFL1C,Q9UNZ2,NSFL1C,NSFL1 cofactor p47,gene_symbol
+BM00840,NT5E,P21589,NT5E,5'-nucleotidase,gene_symbol
+BM00841,NUCB1,Q02818,NUCB1,Nucleobindin-1,gene_symbol
+BM00843,NXN,Q6DKJ4,NXN,Nucleoredoxin,gene_symbol
+BM00845,NXPE4,Q6UWF7,NXPE4,NXPE family member 4,gene_symbol
+BM00846,NXT1,Q9UKK6,NXT1,NTF2-related export protein 1,gene_symbol
+BM00847,OAS1,P00973,OAS1,2'-5'-oligoadenylate synthase 1,gene_symbol
+BM00848,ODC1,P11926,ODC1,Ornithine decarboxylase,gene_symbol
+BM00849,OGG1,O15527,OGG1,N-glycosylase/DNA lyase,gene_symbol
+BM00850,OGT,O15294,OGT,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,gene_symbol
+BM00851,OLFM1,Q99784,OLFM1,Noelin,gene_symbol
+BM00852,OLFML2B,Q68BL8,OLFML2B,Olfactomedin-like protein 2B,gene_symbol
+BM00854,OPA1,O60313,OPA1,"Dynamin-like GTPase OPA1, mitochondrial",gene_symbol
+BM00855,OPCML,Q14982,OPCML,Opioid-binding protein/cell adhesion molecule,gene_symbol
+BM00856,OR51E2,Q9H255,OR51E2,Olfactory receptor 51E2,gene_symbol
+BM00857,ORM1,P02763,ORM1,Alpha-1-acid glycoprotein 1,gene_symbol
+BM00858,ORM2,P19652,ORM2,Alpha-1-acid glycoprotein 2,gene_symbol
+BM00859,OSBPL10,Q9BXB5,OSBPL10,Oxysterol-binding protein-related protein 10,gene_symbol
+BM00860,Osteopontin,P10451,SPP1,Osteopontin,gene_symbol
+BM00863,OVGP1,Q12889,OVGP1,Oviduct-specific glycoprotein,gene_symbol
+BM00865,P2RY14,Q15391,P2RY14,P2Y purinoceptor 14,gene_symbol
+BM00866,PAFAH1B2,P68402,PAFAH1B2,Platelet-activating factor acetylhydrolase IB subunit alpha2,gene_symbol
+BM00867,PAICS,P22234,PAICS,Bifunctional phosphoribosylaminoimidazole carboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase,gene_symbol
+BM00868,PAM,P19021,PAM,Peptidyl-glycine alpha-amidating monooxygenase,gene_symbol
+BM00869,PARK7,Q99497,PARK7,Parkinson disease protein 7,gene_symbol
+BM00870,PAX8,Q06710,PAX8,Paired box protein Pax-8,gene_symbol
+BM00872,PCCA,P05165,PCCA,"Propionyl-CoA carboxylase alpha chain, mitochondrial",gene_symbol
+BM00873,PCDH17,O14917,PCDH17,Protocadherin-17,gene_symbol
+BM00874,PCMT1,P22061,PCMT1,Protein-L-isoaspartate(D-aspartate) O-methyltransferase,gene_symbol
+BM00875,PCOLCE,Q15113,PCOLCE,Procollagen C-endopeptidase enhancer 1,gene_symbol
+BM00876,PCSK9,Q8NBP7,PCSK9,Proprotein convertase subtilisin/kexin type 9,gene_symbol
+BM00877,PDCD10,Q9BUL8,PDCD10,Programmed cell death protein 10,gene_symbol
+BM00878,PDCD4,Q53EL6,PDCD4,Programmed cell death protein 4,gene_symbol
+BM00879,PDCD6IP,Q8WUM4,PDCD6IP,Programmed cell death 6-interacting protein,gene_symbol
+BM00880,PDGFA,P04085,PDGFA,Platelet-derived growth factor subunit A,gene_symbol
+BM00881,PDGFRB,P09619,PDGFRB,Platelet-derived growth factor receptor beta,gene_symbol
+BM00882,PDLIM1,O00151,PDLIM1,PDZ and LIM domain protein 1,gene_symbol
+BM00883,PDLIM4,P50479,PDLIM4,PDZ and LIM domain protein 4,gene_symbol
+BM00884,PDLIM5,Q96HC4,PDLIM5,PDZ and LIM domain protein 5,gene_symbol
+BM00885,PDLIM7,Q9NR12,PDLIM7,PDZ and LIM domain protein 7,gene_symbol
+BM00886,PDXK,O00764,PDXK,Pyridoxal kinase,gene_symbol
+BM00887,PDZK1IP1,Q13113,PDZK1IP1,PDZK1-interacting protein 1,gene_symbol
+BM00888,PEBP1,P30086,PEBP1,Phosphatidylethanolamine-binding protein 1,gene_symbol
+BM00890,pentraxin-3,P26022,PTX3,Pentraxin-related protein PTX3,gene_symbol
+BM00891,PER1,O15534,PER1,Period circadian protein homolog 1,gene_symbol
+BM00892,PERP,Q96FX8,PERP,p53 apoptosis effector related to PMP-22,gene_symbol
+BM00893,PEX11B,O96011,PEX11B,Peroxisomal membrane protein 11B,gene_symbol
+BM00894,PFAS,O15067,PFAS,Phosphoribosylformylglycinamidine synthase,gene_symbol
+BM00895,PGAM1,P18669,PGAM1,Phosphoglycerate mutase 1,gene_symbol
+BM00896,PGC,P20142,PGC,Gastricsin,gene_symbol
+BM00897,PGD,P52209,PGD,"6-phosphogluconate dehydrogenase, decarboxylating",gene_symbol
+BM00898,PGGHG,Q32M88,PGGHG,Protein-glucosylgalactosylhydroxylysine glucosidase,gene_symbol
+BM00899,PGM3,O95394,PGM3,Phosphoacetylglucosamine mutase,gene_symbol
+BM00900,PGP,A6NDG6,PGP,Glycerol-3-phosphate phosphatase,gene_symbol
+BM00901,PGR,P06401,PGR,Progesterone receptor,gene_symbol
+BM00904,PI3,P19957,PI3,Elafin,gene_symbol
+BM00905,PIGF,Q07326,PIGF,"GPI ethanolamine phosphate transferase, stabilizing subunit",gene_symbol
+BM00906,PIGR,P01833,PIGR,Polymeric immunoglobulin receptor,gene_symbol
+BM00907,PIK3CA,P42336,PIK3CA,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",gene_symbol
+BM00908,PIK3R1,P27986,PIK3R1,Phosphatidylinositol 3-kinase regulatory subunit alpha,gene_symbol
+BM00909,PIN1,Q13526,PIN1,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,gene_symbol
+BM00910,PITX2,Q99697,PITX2,Pituitary homeobox 2,gene_symbol
+BM00911,PLA2G2A,P14555,PLA2G2A,"Phospholipase A2, membrane associated",gene_symbol
+BM00912,PLEC,Q15149,PLEC,Plectin,gene_symbol
+BM00913,pleiotrophin,P21246,PTN,Pleiotrophin,gene_symbol
+BM00914,PLN,P26678,PLN,Phospholamban,gene_symbol
+BM00915,PLP1,P60201,PLP1,Myelin proteolipid protein,gene_symbol
+BM00916,PLPP2,O43688,PLPP2,Phospholipid phosphatase 2,gene_symbol
+BM00917,PLTP,P55058,PLTP,Phospholipid transfer protein,gene_symbol
+BM00919,PLXNB1,O43157,PLXNB1,Plexin-B1,gene_symbol
+BM00921,PNISR,Q8TF01,PNISR,Arginine/serine-rich protein PNISR,gene_symbol
+BM00923,PNP,P00491,PNP,Purine nucleoside phosphorylase,gene_symbol
+BM00924,POLE,Q07864,POLE,DNA polymerase epsilon catalytic subunit A,gene_symbol
+BM00925,POLQ,O75417,POLQ,DNA polymerase theta,gene_symbol
+BM00926,POLR2L,P62875,POLR2L,"DNA-directed RNA polymerases I, II, and III subunit RPABC5",gene_symbol
+BM00927,POMGNT1,Q8WZA1,POMGNT1,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",gene_symbol
+BM00928,POSTN,Q15063,POSTN,Periostin,gene_symbol
+BM00929,PPBP,P02775,PPBP,Platelet basic protein,gene_symbol
+BM00930,PPIF,P30405,PPIF,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",gene_symbol
+BM00931,PPIL3,Q9H2H8,PPIL3,Peptidyl-prolyl cis-trans isomerase-like 3,gene_symbol
+BM00932,PPL,O60437,PPL,Periplakin,gene_symbol
+BM00933,PPP2R1A,P30153,PPP2R1A,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,gene_symbol
+BM00934,PQBP1,O60828,PQBP1,Polyglutamine-binding protein 1,gene_symbol
+BM00935,PRDX2,P32119,PRDX2,Peroxiredoxin-2,gene_symbol
+BM00936,PRDX4,Q13162,PRDX4,Peroxiredoxin-4,gene_symbol
+BM00937,PRDX6,P30041,PRDX6,Peroxiredoxin-6,gene_symbol
+BM00938,PRKCI,P41743,PRKCI,Protein kinase C iota type,gene_symbol
+BM00939,PRKCQ,Q04759,PRKCQ,Protein kinase C theta type,gene_symbol
+BM00940,PRKCSH,P14314,PRKCSH,Glucosidase 2 subunit beta,gene_symbol
+BM00941,PRL,P01236,PRL,Prolactin,gene_symbol
+BM00942,PRMT1,Q99873,PRMT1,Protein arginine N-methyltransferase 1,gene_symbol
+BM00943,PRMT5,O14744,PRMT5,Protein arginine N-methyltransferase 5,gene_symbol
+BM00944,PRNP,P04156,PRNP,Major prion protein,gene_symbol
+BM00945,PROC,P04070,PROC,Vitamin K-dependent protein C,gene_symbol
+BM00946,PROM1,O43490,PROM1,Prominin-1,gene_symbol
+BM00948,PROS1,P07225,PROS1,Vitamin K-dependent protein S,gene_symbol
+BM00953,PRPH,P23942,PRPH2,Peripherin-2,gene_symbol
+BM00954,PRR4,Q96NY8,NECTIN4,Nectin-4,gene_symbol
+BM00955,PRRT3,Q5FWE3,PRRT3,Proline-rich transmembrane protein 3,gene_symbol
+BM00956,PRTN3,P24158,PRTN3,Myeloblastin,gene_symbol
+BM00957,PSA,P03952,KLKB1,Plasma kallikrein,gene_symbol
+BM00958,PSAP,Q9NZJ7,MTCH1,Mitochondrial carrier homolog 1,gene_symbol
+BM00959,PSAT1,Q9Y617,PSAT1,Phosphoserine aminotransferase,gene_symbol
+BM00960,PSCA,O43653,PSCA,Prostate stem cell antigen,gene_symbol
+BM00961,PSD3,Q9NYI0,PSD3,PH and SEC7 domain-containing protein 3,gene_symbol
+BM00962,PSMA7,O14818,PSMA7,Proteasome subunit alpha type-7,gene_symbol
+BM00963,PSMB1,P20618,PSMB1,Proteasome subunit beta type-1,gene_symbol
+BM00964,PSMB3,P49720,PSMB3,Proteasome subunit beta type-3,gene_symbol
+BM00965,PSME1,Q06323,PSME1,Proteasome activator complex subunit 1,gene_symbol
+BM00966,PTCHD1,Q96NR3,PTCHD1,Patched domain-containing protein 1,gene_symbol
+BM00967,PTEN,P60484,PTEN,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",gene_symbol
+BM00968,PTGDS,P41222,PTGDS,Prostaglandin-H2 D-isomerase,gene_symbol
+BM00969,PTGS2,P35354,PTGS2,Prostaglandin G/H synthase 2,gene_symbol
+BM00970,PTH2R,P49190,PTH2R,Parathyroid hormone 2 receptor,gene_symbol
+BM00971,PTK7,Q13308,PTK7,Inactive tyrosine-protein kinase 7,gene_symbol
+BM00972,PTPA,P18433,PTPRA,Receptor-type tyrosine-protein phosphatase alpha,gene_symbol
+BM00973,PTPMT1,Q8WUK0,PTPMT1,Phosphatidylglycerophosphatase and protein-tyrosine phosphatase 1,gene_symbol
+BM00974,PTPN11,Q06124,PTPN11,Tyrosine-protein phosphatase non-receptor type 11,gene_symbol
+BM00975,PTPN14,Q15678,PTPN14,Tyrosine-protein phosphatase non-receptor type 14,gene_symbol
+BM00976,PTPRA,P18433,PTPRA,Receptor-type tyrosine-protein phosphatase alpha,gene_symbol
+BM00977,PTPRC,P08575,PTPRC,Receptor-type tyrosine-protein phosphatase C,gene_symbol
+BM00978,PTPRE,P23469,PTPRE,Receptor-type tyrosine-protein phosphatase epsilon,gene_symbol
+BM00979,PTPRF,P10586,PTPRF,Receptor-type tyrosine-protein phosphatase F,gene_symbol
+BM00980,PTPRJ,Q12913,PTPRJ,Receptor-type tyrosine-protein phosphatase eta,gene_symbol
+BM00981,PTPRN2,Q92932,PTPRN2,Receptor-type tyrosine-protein phosphatase N2,gene_symbol
+BM00982,PTPRS,Q13332,PTPRS,Receptor-type tyrosine-protein phosphatase S,gene_symbol
+BM00983,PVALB,P20472,PVALB,Parvalbumin alpha,gene_symbol
+BM00984,PXN,P49023,PXN,Paxillin,gene_symbol
+BM00985,PZP,P20742,PZP,Pregnancy zone protein,gene_symbol
+BM00986,QDPR,P09417,QDPR,Dihydropteridine reductase,gene_symbol
+BM00987,QSOX1,O00391,QSOX1,Sulfhydryl oxidase 1,gene_symbol
+BM00988,RAB13,P51153,RAB13,Ras-related protein Rab-13,gene_symbol
+BM00989,RAB24,Q969Q5,RAB24,Ras-related protein Rab-24,gene_symbol
+BM00990,RAB33B,Q9H082,RAB33B,Ras-related protein Rab-33B,gene_symbol
+BM00991,RAB3B,P20337,RAB3B,Ras-related protein Rab-3B,gene_symbol
+BM00992,RAB5A,P20339,RAB5A,Ras-related protein Rab-5A,gene_symbol
+BM00993,RABEP1,Q15276,RABEP1,Rab GTPase-binding effector protein 1,gene_symbol
+BM00994,RAC1,P63000,RAC1,Ras-related C3 botulinum toxin substrate 1,gene_symbol
+BM00995,RAC3,P60763,RAC3,Ras-related C3 botulinum toxin substrate 3,gene_symbol
+BM00999,RAP1A,P62834,RAP1A,Ras-related protein Rap-1A,gene_symbol
+BM01000,RARB,P10826,RARB,Retinoic acid receptor beta,gene_symbol
+BM01001,RARRES1,P49788,RARRES1,Retinoic acid receptor responder protein 1,gene_symbol
+BM01002,RASGRF2,O14827,RASGRF2,Ras-specific guanine nucleotide-releasing factor 2,gene_symbol
+BM01003,RASSF1,Q9NS23,RASSF1,Ras association domain-containing protein 1,gene_symbol
+BM01004,RB1,P06400,RB1,Retinoblastoma-associated protein,gene_symbol
+BM01005,RBBP4,Q09028,RBBP4,Histone-binding protein RBBP4,gene_symbol
+BM01006,RBP4,P02753,RBP4,Retinol-binding protein 4,gene_symbol
+BM01007,RBPMS,Q93062,RBPMS,RNA-binding protein with multiple splicing,gene_symbol
+BM01008,RDH11,Q8TC12,RDH11,Retinol dehydrogenase 11,gene_symbol
+BM01009,RDH16,O75452,RDH16,Retinol dehydrogenase 16,gene_symbol
+BM01010,REEP1,Q9H902,REEP1,Receptor expression-enhancing protein 1,gene_symbol
+BM01011,REG1A,P05451,REG1A,Lithostathine-1-alpha,gene_symbol
+BM01012,REG1B,P48304,REG1B,Lithostathine-1-beta,gene_symbol
+BM01013,REG3A,Q06141,REG3A,Regenerating islet-derived protein 3-alpha,gene_symbol
+BM01014,REG4,Q9BYZ8,REG4,Regenerating islet-derived protein 4,gene_symbol
+BM01015,REL,Q04864,REL,Proto-oncogene c-Rel,gene_symbol
+BM01016,REN,P00797,REN,Renin,gene_symbol
+BM01017,RET,P07949,RET,Proto-oncogene tyrosine-protein kinase receptor Ret,gene_symbol
+BM01018,RETN,Q9HD89,RETN,Resistin,gene_symbol
+BM01019,RGS5,O15539,RGS5,Regulator of G-protein signaling 5,gene_symbol
+BM01020,RHOA,P61586,RHOA,Transforming protein RhoA,gene_symbol
+BM01021,RHOQ,P17081,RHOQ,Rho-related GTP-binding protein RhoQ,gene_symbol
+BM01022,RMND5A,Q9H871,RMND5A,E3 ubiquitin-protein transferase RMND5A,gene_symbol
+BM01024,RNF113A,O15541,RNF113A,E3 ubiquitin-protein ligase RNF113A,gene_symbol
+BM01025,RNF208,Q9H0X6,RNF208,RING finger protein 208,gene_symbol
+BM01026,RNF43,Q68DV7,RNF43,E3 ubiquitin-protein ligase RNF43,gene_symbol
+BM01027,RNH1,O60930,RNASEH1,Ribonuclease H1,gene_symbol
+BM01028,RNPEP,Q9H4A4,RNPEP,Aminopeptidase B,gene_symbol
+BM01030,RPL13,P26373,RPL13,Large ribosomal subunit protein eL13,gene_symbol
+BM01031,RPL18,Q07020,RPL18,Large ribosomal subunit protein eL18,gene_symbol
+BM01032,RPL9,P32969,RPL9,Large ribosomal subunit protein uL6,gene_symbol
+BM01033,RPRM,Q9NS64,RPRM,Protein reprimo,gene_symbol
+BM01034,RPS27A,P62979,RPS27A,Ubiquitin-ribosomal protein eS31 fusion protein,gene_symbol
+BM01035,RRAGD,Q9NQL2,RRAGD,Ras-related GTP-binding protein D,gene_symbol
+BM01036,RRAS2,P62070,RRAS2,Ras-related protein R-Ras2,gene_symbol
+BM01037,RUNX3,Q13761,RUNX3,Runt-related transcription factor 3,gene_symbol
+BM01038,RXRG,P48443,RXRG,Retinoic acid receptor RXR-gamma,gene_symbol
+BM01039,S-Adenosylmethionine,P17707,AMD1,S-adenosylmethionine decarboxylase proenzyme,name_search
+BM01040,S100A4,P26447,S100A4,Protein S100-A4,gene_symbol
+BM01041,S100A6,P06703,S100A6,Protein S100-A6,gene_symbol
+BM01042,S100B,P04271,S100B,Protein S100-B,gene_symbol
+BM01043,S100P,P25815,S100P,Protein S100-P,gene_symbol
+BM01044,SAA1,P0DJI8,SAA1,Serum amyloid A-1 protein,gene_symbol
+BM01045,SAA4,P35542,SAA4,Serum amyloid A-4 protein,gene_symbol
+BM01047,SAT1,Q9H2B4,SLC26A1,Sulfate anion transporter 1,gene_symbol
+BM01048,SATL1,Q86VE3,SATL1,Spermidine/spermine N(1)-acetyltransferase-like protein 1,gene_symbol
+BM01049,SC5D,O75845,SC5D,Lathosterol oxidase,gene_symbol
+BM01050,SCARA3,Q6AZY7,SCARA3,Scavenger receptor class A member 3,gene_symbol
+BM01052,SCD,O00767,SCD,Stearoyl-CoA desaturase,gene_symbol
+BM01053,SCGB2A1,O75556,SCGB2A1,Mammaglobin-B,gene_symbol
+BM01054,SCGB3A1,Q96QR1,SCGB3A1,Secretoglobin family 3A member 1,gene_symbol
+BM01055,SCNN1A,P37088,SCNN1A,Epithelial sodium channel subunit alpha,gene_symbol
+BM01056,SDC1,P18827,SDC1,Syndecan-1,gene_symbol
+BM01057,SDC4,P31431,SDC4,Syndecan-4,gene_symbol
+BM01058,SEC23B,Q15437,SEC23B,Protein transport protein Sec23B,gene_symbol
+BM01060,SECTM1,Q8WVN6,SECTM1,Secreted and transmembrane protein 1,gene_symbol
+BM01061,SEL1L3,Q68CR1,SEL1L3,Protein sel-1 homolog 3,gene_symbol
+BM01062,SELE,P16581,SELE,E-selectin,gene_symbol
+BM01063,SELENBP1,Q13228,SELENBP1,Methanethiol oxidase,gene_symbol
+BM01064,SELL,P14151,SELL,L-selectin,gene_symbol
+BM01065,SERINC2,Q96SA4,SERINC2,Serine incorporator 2,gene_symbol
+BM01066,SERP1,Q9Y6X1,SERP1,Stress-associated endoplasmic reticulum protein 1,gene_symbol
+BM01067,SERPINA1,P01009,SERPINA1,Alpha-1-antitrypsin,gene_symbol
+BM01068,SERPINA10,Q9UK55,SERPINA10,Protein Z-dependent protease inhibitor,gene_symbol
+BM01069,SERPINA12,Q8IW75,SERPINA12,Serpin A12,gene_symbol
+BM01070,SERPINA3,P01011,SERPINA3,Alpha-1-antichymotrypsin,gene_symbol
+BM01071,SERPINA4,P29622,SERPINA4,Kallistatin,gene_symbol
+BM01072,SERPINA5,P05154,SERPINA5,Plasma serine protease inhibitor,gene_symbol
+BM01073,SERPINA6,P08185,SERPINA6,Corticosteroid-binding globulin,gene_symbol
+BM01074,SERPINB3,P29508,SERPINB3,Serpin B3,gene_symbol
+BM01075,SERPIND1,P05546,SERPIND1,Heparin cofactor 2,gene_symbol
+BM01076,SERPINE1,P05121,SERPINE1,Plasminogen activator inhibitor 1,gene_symbol
+BM01077,SERPINF2,P08697,SERPINF2,Alpha-2-antiplasmin,gene_symbol
+BM01078,SERPINH1,P50454,SERPINH1,Serpin H1,gene_symbol
+BM01080,SF3A1,Q15459,SF3A1,Splicing factor 3A subunit 1,gene_symbol
+BM01081,SFN,P31947,SFN,14-3-3 protein sigma,gene_symbol
+BM01082,SFRP1,Q8N474,SFRP1,Secreted frizzled-related protein 1,gene_symbol
+BM01083,SFTPB,P07988,SFTPB,Pulmonary surfactant-associated protein B,gene_symbol
+BM01084,SFTPC,P11686,SFTPC,Surfactant protein C,gene_symbol
+BM01085,SGCA,Q16586,SGCA,Alpha-sarcoglycan,gene_symbol
+BM01088,SHOX2,O60902,SHOX2,Short stature homeobox protein 2,gene_symbol
+BM01089,sICAM-1,Q99930,sICAM-1,SICAM-1,gene_symbol
+BM01090,SLA,Q13239,SLA,Src-like-adapter,gene_symbol
+BM01091,SLAMF8,Q9P0V8,SLAMF8,SLAM family member 8,gene_symbol
+BM01092,SLC11A1,P49279,SLC11A1,Natural resistance-associated macrophage protein 1,gene_symbol
+BM01093,SLC11A2,P49281,SLC11A2,Natural resistance-associated macrophage protein 2,gene_symbol
+BM01094,SLC12A2,P55011,SLC12A2,Solute carrier family 12 member 2,gene_symbol
+BM01095,SLC22A3,O75751,SLC22A3,Solute carrier family 22 member 3,gene_symbol
+BM01096,SLC25A16,P16260,SLC25A16,Mitochondrial coenzyme A transporter SLC25A16,gene_symbol
+BM01097,SLC26A2,P50443,SLC26A2,Sulfate transporter,gene_symbol
+BM01098,SLC26A4,O43511,SLC26A4,Pendrin,gene_symbol
+BM01099,SLC2A3,P11169,SLC2A3,"Solute carrier family 2, facilitated glucose transporter member 3",gene_symbol
+BM01100,SLC30A6,Q6NXT4,SLC30A6,Zinc transporter 6,gene_symbol
+BM01101,SLC33A1,O00400,SLC33A1,Acetyl-coenzyme A transporter 1,gene_symbol
+BM01102,SLC34A2,O95436,SLC34A2,Sodium-dependent phosphate transport protein 2B,gene_symbol
+BM01103,SLC35C2,Q9NQQ7,SLC35H1,Solute carrier family 35 member H1,gene_symbol
+BM01104,SLC38A10,Q9HBR0,SLC38A10,Solute carrier family 38 member 10,gene_symbol
+BM01105,SLC39A6,Q13433,SLC39A6,Zinc transporter ZIP6,gene_symbol
+BM01106,SLC3A2,P08195,SLC3A2,Amino acid transporter heavy chain SLC3A2,gene_symbol
+BM01107,SLC4A1AP,Q9BWU0,SLC4A1AP,Kanadaptin,gene_symbol
+BM01108,SLC4A4,Q9Y6R1,SLC4A4,Electrogenic sodium bicarbonate cotransporter 1,gene_symbol
+BM01109,SLC5A1,P13866,SLC5A1,Sodium/glucose cotransporter 1,gene_symbol
+BM01110,SLC5A7,Q9GZV3,SLC5A7,High affinity choline transporter 1,gene_symbol
+BM01111,SLC6A14,Q9UN76,SLC6A14,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),gene_symbol
+BM01112,SLC9A3R2,Q15599,NHERF2,Na(+)/H(+) exchange regulatory cofactor NHE-RF2,gene_symbol
+BM01113,SLIT2,O94813,SLIT2,Slit homolog 2 protein,gene_symbol
+BM01114,SLK,Q9H2G2,SLK,STE20-like serine/threonine-protein kinase,gene_symbol
+BM01115,SLPI,P03973,SLPI,Antileukoproteinase,gene_symbol
+BM01118,SNRPA1,P09661,SNRPA1,U2 small nuclear ribonucleoprotein A',gene_symbol
+BM01119,SNX7,Q9UNH6,SNX7,Sorting nexin-7,gene_symbol
+BM01120,SOCS3,O14543,SOCS3,Suppressor of cytokine signaling 3,gene_symbol
+BM01121,SOD1,P00441,SOD1,Superoxide dismutase [Cu-Zn],gene_symbol
+BM01122,SOD2,P04179,SOD2,"Superoxide dismutase [Mn], mitochondrial",gene_symbol
+BM01123,SOD3,P08294,SOD3,Extracellular superoxide dismutase [Cu-Zn],gene_symbol
+BM01126,SOST,Q9BQB4,SOST,Sclerostin,gene_symbol
+BM01127,SOX10,P56693,SOX10,Transcription factor SOX-10,gene_symbol
+BM01128,SOX17,Q9H6I2,SOX17,Transcription factor SOX-17,gene_symbol
+BM01130,SOX2,P48431,SOX2,Transcription factor SOX-2,gene_symbol
+BM01131,SPACA9,Q96E40,SPACA9,Sperm acrosome-associated protein 9,gene_symbol
+BM01132,SPARC,P09486,SPARC,SPARC,gene_symbol
+BM01134,SPARCL1,Q14515,SPARCL1,SPARC-like protein 1,gene_symbol
+BM01136,SPINK1,P00995,SPINK1,Serine protease inhibitor Kazal-type 1,gene_symbol
+BM01137,SPINT2,O43291,SPINT2,Kunitz-type protease inhibitor 2,gene_symbol
+BM01139,SPON1,Q9HCB6,SPON1,Spondin-1,gene_symbol
+BM01140,SPON2,Q9BUD6,SPON2,Spondin-2,gene_symbol
+BM01141,SPP2,Q13103,SPP2,Secreted phosphoprotein 24,gene_symbol
+BM01142,SQOR,Q9Y6N5,SQOR,"Sulfide:quinone oxidoreductase, mitochondrial",gene_symbol
+BM01143,SRD5A3,Q9H8P0,SRD5A3,Polyprenal reductase,gene_symbol
+BM01144,SRP54,P61011,SRP54,Signal recognition particle subunit SRP54,gene_symbol
+BM01145,SRP72,O76094,SRP72,Signal recognition particle subunit SRP72,gene_symbol
+BM01146,SRSF8,Q9BRL6,SRSF8,Serine/arginine-rich splicing factor 8,gene_symbol
+BM01147,SSBP1,Q04837,SSBP1,"Single-stranded DNA-binding protein, mitochondrial",gene_symbol
+BM01148,SST,P61278,SST,Somatostatin,gene_symbol
+BM01149,ST13,P50502,ST13,Hsc70-interacting protein,gene_symbol
+BM01150,ST14,Q9Y5Y6,ST14,Suppressor of tumorigenicity 14 protein,gene_symbol
+BM01151,STAT1,P42224,STAT1,Signal transducer and activator of transcription 1-alpha/beta,gene_symbol
+BM01152,STAT2,P52630,STAT2,Signal transducer and activator of transcription 2,gene_symbol
+BM01154,STAT6,P42226,STAT6,Signal transducer and activator of transcription 6,gene_symbol
+BM01155,STBD1,O95210,STBD1,Starch-binding domain-containing protein 1,gene_symbol
+BM01156,STEAP4,Q687X5,STEAP4,Metalloreductase STEAP4,gene_symbol
+BM01157,STK10,O94804,STK10,Serine/threonine-protein kinase 10,gene_symbol
+BM01159,STK38L,Q9Y2H1,STK38L,Serine/threonine-protein kinase 38-like,gene_symbol
+BM01160,STOM,P27105,STOM,Stomatin,gene_symbol
+BM01161,STOML2,Q9UJZ1,STOML2,"Stomatin-like protein 2, mitochondrial",gene_symbol
+BM01162,STT3A,P46977,STT3A,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A,gene_symbol
+BM01163,STYXL1,Q9Y6J8,STYXL1,Serine/threonine/tyrosine-interacting-like protein 1,gene_symbol
+BM01164,SULT2B1,O00204,SULT2B1,Sulfotransferase 2B1,gene_symbol
+BM01165,SUSD5,O60279,SUSD5,Sushi domain-containing protein 5,gene_symbol
+BM01166,SVIL,O95425,SVIL,Supervillin,gene_symbol
+BM01171,SYCN,Q0VAF6,SYCN,Syncollin,gene_symbol
+BM01172,SYDE1,Q6ZW31,SYDE1,Rho GTPase-activating protein SYDE1,gene_symbol
+BM01173,SYNE3,Q6ZMZ3,SYNE3,Nesprin-3,gene_symbol
+BM01174,SYNGR1,O43759,SYNGR1,Synaptogyrin-1,gene_symbol
+BM01175,SYNM,O15061,SYNM,Synemin,gene_symbol
+BM01177,TAC1,P20366,TAC1,Protachykinin-1,gene_symbol
+BM01179,TAF1L,Q8IZX4,TAF1L,Transcription initiation factor TFIID subunit 1-like,gene_symbol
+BM01180,TAGLN2,P37802,TAGLN2,Transgelin-2,gene_symbol
+BM01183,TBXA2R,P21731,TBXA2R,Thromboxane A2 receptor,gene_symbol
+BM01184,TCEAL2,Q9H3H9,TCEAL2,Transcription elongation factor A protein-like 2,gene_symbol
+BM01185,TCF21,O43680,TCF21,Transcription factor 21,gene_symbol
+BM01186,TEK,Q02763,TEK,Angiopoietin-1 receptor,gene_symbol
+BM01189,TF,P02787,TF,Serotransferrin,gene_symbol
+BM01191,TFCP2,Q12800,TFCP2,Alpha-globin transcription factor CP2,gene_symbol
+BM01192,TFE3,P19532,TFE3,Transcription factor E3,gene_symbol
+BM01193,TFF3,Q07654,TFF3,Trefoil factor 3,gene_symbol
+BM01194,TFPI,P10646,TFPI,Tissue factor pathway inhibitor,gene_symbol
+BM01195,TFRC,P02786,TFRC,Transferrin receptor protein 1,gene_symbol
+BM01196,TGFB1,P01137,TGFB1,Transforming growth factor beta-1 proprotein,gene_symbol
+BM01197,TGFB1I1,O43294,TGFB1I1,Transforming growth factor beta-1-induced transcript 1 protein,gene_symbol
+BM01198,TGFBI,Q15582,TGFBI,Transforming growth factor-beta-induced protein ig-h3,gene_symbol
+BM01200,TGM4,P49221,TGM4,Protein-glutamine gamma-glutamyltransferase 4,gene_symbol
+BM01201,THBS1,P07996,THBS1,Thrombospondin-1,gene_symbol
+BM01202,THOC1,Q96FV9,THOC1,THO complex subunit 1,gene_symbol
+BM01203,THRA,P10827,THRA,Thyroid hormone receptor alpha,gene_symbol
+BM01205,THY1,P04216,THY1,Thy-1 membrane glycoprotein,gene_symbol
+BM01206,TIMP1,P01033,TIMP1,Metalloproteinase inhibitor 1,gene_symbol
+BM01207,TIMP4,Q99727,TIMP4,Metalloproteinase inhibitor 4,gene_symbol
+BM01208,TITF1,P43699,NKX2-1,Homeobox protein Nkx-2.1,gene_symbol
+BM01209,TKT,Q16832,DDR2,Discoidin domain-containing receptor 2,gene_symbol
+BM01210,TLN1,Q9Y490,TLN1,Talin-1,gene_symbol
+BM01211,TLR2,O60603,TLR2,Toll-like receptor 2,gene_symbol
+BM01212,TMBIM6,P55061,TMBIM6,Bax inhibitor 1,gene_symbol
+BM01213,TMEFF2,Q9UIK5,TMEFF2,Tomoregulin-2,gene_symbol
+BM01214,TMEM132A,Q24JP5,TMEM132A,Transmembrane protein 132A,gene_symbol
+BM01215,TMEM251,Q8N6I4,LYSET,Lysosomal enzyme trafficking factor,gene_symbol
+BM01216,TMEM30B,Q3MIR4,TMEM30B,Cell cycle control protein 50B,gene_symbol
+BM01217,TMPRSS2,O15393,TMPRSS2,Transmembrane protease serine 2,gene_symbol
+BM01219,TMSB15A,P0CG34,TMSB15A,Thymosin beta-15A,gene_symbol
+BM01220,TMSB4X,P62328,TMSB4X,Thymosin beta-4,gene_symbol
+BM01222,TNF,P01375,TNF,Tumor necrosis factor,gene_symbol
+BM01223,TNFAIP1,Q13829,TNFAIP1,BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2,gene_symbol
+BM01224,TNFAIP6,P98066,TNFAIP6,Tumor necrosis factor-inducible gene 6 protein,gene_symbol
+BM01225,TNFRSF10B,O14763,TNFRSF10B,Tumor necrosis factor receptor superfamily member 10B,gene_symbol
+BM01226,TNFRSF11B,O00300,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,gene_symbol
+BM01227,TNFRSF1A,P19438,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,gene_symbol
+BM01228,TNFRSF1B,P20333,TNFRSF1B,Tumor necrosis factor receptor superfamily member 1B,gene_symbol
+BM01229,TNFRSF21,O75509,TNFRSF21,Tumor necrosis factor receptor superfamily member 21,gene_symbol
+BM01230,TNFRSF25,Q93038,TNFRSF25,Tumor necrosis factor receptor superfamily member 25,gene_symbol
+BM01231,TNFRSF6B,O95407,TNFRSF6B,Tumor necrosis factor receptor superfamily member 6B,gene_symbol
+BM01232,TNFSF10,P50591,TNFSF10,Tumor necrosis factor ligand superfamily member 10,gene_symbol
+BM01233,TNFSF12,O43508,TNFSF12,Tumor necrosis factor ligand superfamily member 12,gene_symbol
+BM01234,TNFSF8,P32971,TNFSF8,Tumor necrosis factor ligand superfamily member 8,gene_symbol
+BM01235,TNS1,Q9HBL0,TNS1,Tensin-1,gene_symbol
+BM01236,TOM1L1,O75674,TOM1L1,TOM1-like protein 1,gene_symbol
+BM01237,TOP2A,P11388,TOP2A,DNA topoisomerase 2-alpha,gene_symbol
+BM01238,TOX4,O94842,TOX4,TOX high mobility group box family member 4,gene_symbol
+BM01239,TP53,P04637,TP53,Cellular tumor antigen p53,gene_symbol
+BM01241,TP63,Q9H3D4,TP63,Tumor protein 63,gene_symbol
+BM01242,TPD52,P55327,TPD52,Tumor protein D52,gene_symbol
+BM01243,TPD52L1,Q16890,TPD52L1,Tumor protein D53,gene_symbol
+BM01244,TPK1,Q9H3S4,TPK1,Thiamine pyrophosphokinase 1,gene_symbol
+BM01245,TRADD,Q15628,TRADD,Tumor necrosis factor receptor type 1-associated DEATH domain protein,gene_symbol
+BM01246,TRAF3IP2,O43734,TRAF3IP2,E3 ubiquitin ligase TRAF3IP2,gene_symbol
+BM01247,TRAF4,Q9BUZ4,TRAF4,TNF receptor-associated factor 4,gene_symbol
+BM01248,TRAM1,Q15629,TRAM1,Translocating chain-associated membrane protein 1,gene_symbol
+BM01249,TRGV9,Q99603,TRGV9,T cell receptor gamma variable 9,gene_symbol
+BM01250,TRIM22,Q8IYM9,TRIM22,E3 ubiquitin-protein ligase TRIM22,gene_symbol
+BM01251,TRIM27,P14373,TRIM27,Zinc finger protein RFP,gene_symbol
+BM01252,TRIM32,Q13049,TRIM32,E3 ubiquitin-protein ligase TRIM32,gene_symbol
+BM01253,TRMT11,Q7Z4G4,TRMT11,tRNA (guanine(10)-N(2))-methyltransferase TRMT11,gene_symbol
+BM01254,TRPC3,Q13507,TRPC3,Short transient receptor potential channel 3,gene_symbol
+BM01258,TSHB,P01222,TSHB,Thyrotropin subunit beta,gene_symbol
+BM01259,TSPAN13,O95857,TSPAN13,Tetraspanin-13,gene_symbol
+BM01260,TSPAN2,O60636,TSPAN2,Tetraspanin-2,gene_symbol
+BM01261,TSPAN6,O43657,TSPAN6,Tetraspanin-6,gene_symbol
+BM01262,TSPAN8,P19075,TSPAN8,Tetraspanin-8,gene_symbol
+BM01263,TSPO,P30536,TSPO,Translocator protein,gene_symbol
+BM01264,TSSK3,Q96PN8,TSSK3,Testis-specific serine/threonine-protein kinase 3,gene_symbol
+BM01265,TSSK4,Q6SA08,TSSK4,Testis-specific serine/threonine-protein kinase 4,gene_symbol
+BM01266,TTR,P02766,TTR,Transthyretin,gene_symbol
+BM01267,TUBA1A,Q71U36,TUBA1A,Tubulin alpha-1A chain,gene_symbol
+BM01268,TUBB2B,Q9BVA1,TUBB2B,Tubulin beta-2B chain,gene_symbol
+BM01269,TUBB6,Q9BUF5,TUBB6,Tubulin beta-6 chain,gene_symbol
+BM01270,TXN,P10599,TXN,Thioredoxin,gene_symbol
+BM01271,UBA52,P62987,UBA52,Ubiquitin-ribosomal protein eL40 fusion protein,gene_symbol
+BM01272,UBAP1,Q9NZ09,UBAP1,Ubiquitin-associated protein 1,gene_symbol
+BM01273,UBB,P0CG47,UBB,Polyubiquitin-B,gene_symbol
+BM01274,UBC,P0CG48,UBC,Polyubiquitin-C,gene_symbol
+BM01275,UBE2D2,P62837,UBE2D2,Ubiquitin-conjugating enzyme E2 D2,gene_symbol
+BM01276,UBE2J1,Q9Y385,UBE2J1,Ubiquitin-conjugating enzyme E2 J1,gene_symbol
+BM01277,UBE2N,P61088,UBE2N,Ubiquitin-conjugating enzyme E2 N,gene_symbol
+BM01280,UBQLN1,Q9UMX0,UBQLN1,Ubiquilin-1,gene_symbol
+BM01281,UCHL1,P09936,UCHL1,Ubiquitin carboxyl-terminal hydrolase isozyme L1,gene_symbol
+BM01282,UPP1,Q16831,UPP1,Uridine phosphorylase 1,gene_symbol
+BM01283,VAMP4,O75379,VAMP4,Vesicle-associated membrane protein 4,gene_symbol
+BM01284,VAMP8,Q9BV40,VAMP8,Vesicle-associated membrane protein 8,gene_symbol
+BM01285,VCAM1,P19320,VCAM1,Vascular cell adhesion protein 1,gene_symbol
+BM01286,VCAN,P13611,VCAN,Versican core protein,gene_symbol
+BM01288,VEGFA,P15692,VEGFA,"Vascular endothelial growth factor A, long form",gene_symbol
+BM01289,VEGFC,P49767,VEGFC,Vascular endothelial growth factor C,gene_symbol
+BM01290,VEGFD,O43915,VEGFD,Vascular endothelial growth factor D,gene_symbol
+BM01291,VHL,P40337,VHL,von Hippel-Lindau disease tumor suppressor,gene_symbol
+BM01292,VPS35,Q96QK1,VPS35,Vacuolar protein sorting-associated protein 35,gene_symbol
+BM01293,VTA1,Q9NP79,VTA1,Vacuolar protein sorting-associated protein VTA1 homolog,gene_symbol
+BM01294,VTCN1,Q7Z7D3,VTCN1,V-set domain-containing T-cell activation inhibitor 1,gene_symbol
+BM01295,VTN,P04004,VTN,Vitronectin,gene_symbol
+BM01296,VWA5A,O00534,VWA5A,von Willebrand factor A domain-containing protein 5A,gene_symbol
+BM01297,VWF,P04275,VWF,von Willebrand factor,gene_symbol
+BM01298,WARS1,P23381,WARS1,"Tryptophan--tRNA ligase, cytoplasmic",gene_symbol
+BM01299,WBP4,O75554,WBP4,WW domain-binding protein 4,gene_symbol
+BM01300,WDR1,O75083,WDR1,WD repeat-containing protein 1,gene_symbol
+BM01301,WIPI1,Q5MNZ9,WIPI1,WD repeat domain phosphoinositide-interacting protein 1,gene_symbol
+BM01302,WNT10A,Q9GZT5,WNT10A,Protein Wnt-10a,gene_symbol
+BM01303,WNT5A,P41221,WNT5A,Protein Wnt-5a,gene_symbol
+BM01305,WWC1,Q8IX03,WWC1,Protein KIBRA,gene_symbol
+BM01306,XBP1,P17861,XBP1,X-box-binding protein 1,gene_symbol
+BM01307,XPOT,O43592,XPOT,Exportin-T,gene_symbol
+BM01308,XRCC1,P18887,XRCC1,DNA repair protein XRCC1,gene_symbol
+BM01309,XRCC4,Q13426,XRCC4,DNA repair protein XRCC4,gene_symbol
+BM01310,XRCC5,P13010,XRCC5,DNA repair protein Ku80,gene_symbol
+BM01311,YEATS4,O95619,YEATS4,YEATS domain-containing protein 4,gene_symbol
+BM01312,YES,P07947,YES1,Tyrosine-protein kinase Yes,gene_symbol
+BM01314,YWHAB,P31946,YWHAB,14-3-3 protein beta/alpha,gene_symbol
+BM01315,YWHAE,P62258,YWHAE,14-3-3 protein epsilon,gene_symbol
+BM01316,ZFP36L1,Q07352,ZFP36L1,mRNA decay activator protein ZFP36L1,gene_symbol
+BM01319,ZMYM6,O95789,ZMYM6,Zinc finger MYM-type protein 6,gene_symbol
+BM01320,ZNF117,Q03924,ZNF117,Zinc finger protein 117,gene_symbol
+BM01321,ZNF219,Q9P2Y4,ZNF219,Zinc finger protein 219,gene_symbol
+BM01322,ZNF263,O14978,ZNF263,Zinc finger protein 263,gene_symbol
+BM01323,ZNF292,O60281,ZNF292,Zinc finger protein 292,gene_symbol
+BM01324,ZNF510,Q9Y2H8,ZNF510,Zinc finger protein 510,gene_symbol
