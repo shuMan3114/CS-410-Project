@@ -1,0 +1,1723 @@
+PathwayID,Name,PathwayDBID,Description
+PW00001,Ethanol oxidation,R-HSA-71384,Reactome pathway R-HSA-71384
+PW00002,hsa:128,hsa:128,KEGG gene entry hsa:128
+PW00003,PPARA activates gene expression,R-HSA-1989781,Reactome pathway R-HSA-1989781
+PW00004,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),R-HSA-381426,Reactome pathway R-HSA-381426
+PW00005,Post-translational protein phosphorylation,R-HSA-8957275,Reactome pathway R-HSA-8957275
+PW00006,Chylomicron assembly,R-HSA-8963888,Reactome pathway R-HSA-8963888
+PW00007,Chylomicron remodeling,R-HSA-8963901,Reactome pathway R-HSA-8963901
+PW00008,Retinoid metabolism and transport,R-HSA-975634,Reactome pathway R-HSA-975634
+PW00009,hsa:336,hsa:336,KEGG gene entry hsa:336
+PW00010,ER-Phagosome pathway,R-HSA-1236974,Reactome pathway R-HSA-1236974
+PW00011,Assembly of Viral Components at the Budding Site,R-HSA-168316,Reactome pathway R-HSA-168316
+PW00012,Scavenging by Class A Receptors,R-HSA-3000480,Reactome pathway R-HSA-3000480
+PW00013,Scavenging by Class F Receptors,R-HSA-3000484,Reactome pathway R-HSA-3000484
+PW00014,ATF6 (ATF6-alpha) activates chaperone genes,R-HSA-381183,Reactome pathway R-HSA-381183
+PW00015,Calnexin/calreticulin cycle,R-HSA-901042,Reactome pathway R-HSA-901042
+PW00016,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",R-HSA-983170,Reactome pathway R-HSA-983170
+PW00017,hsa:811,hsa:811,KEGG gene entry hsa:811
+PW00018,Defective GALNT3 causes HFTC,R-HSA-5083625,Reactome pathway R-HSA-5083625
+PW00019,Defective C1GALT1C1 causes TNPS,R-HSA-5083632,Reactome pathway R-HSA-5083632
+PW00020,Defective GALNT12 causes CRCS1,R-HSA-5083636,Reactome pathway R-HSA-5083636
+PW00021,Dectin-2 family,R-HSA-5621480,Reactome pathway R-HSA-5621480
+PW00022,O-linked glycosylation of mucins,R-HSA-913709,Reactome pathway R-HSA-913709
+PW00023,Termination of O-glycan biosynthesis,R-HSA-977068,Reactome pathway R-HSA-977068
+PW00024,hsa:4586,hsa:4586,KEGG gene entry hsa:4586
+PW00025,Collagen degradation,R-HSA-1442490,Reactome pathway R-HSA-1442490
+PW00026,Degradation of the extracellular matrix,R-HSA-1474228,Reactome pathway R-HSA-1474228
+PW00027,Activation of Matrix Metalloproteinases,R-HSA-1592389,Reactome pathway R-HSA-1592389
+PW00028,Basigin interactions,R-HSA-210991,Reactome pathway R-HSA-210991
+PW00029,Interleukin-4 and Interleukin-13 signaling,R-HSA-6785807,Reactome pathway R-HSA-6785807
+PW00030,hsa:4312,hsa:4312,KEGG gene entry hsa:4312
+PW00031,MGMT-mediated DNA damage reversal,R-HSA-5657655,Reactome pathway R-HSA-5657655
+PW00032,hsa:4255,hsa:4255,KEGG gene entry hsa:4255
+PW00033,Gamma-carboxylation of protein precursors,R-HSA-159740,Reactome pathway R-HSA-159740
+PW00034,Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus,R-HSA-159763,Reactome pathway R-HSA-159763
+PW00035,Removal of aminoterminal propeptides from gamma-carboxylated proteins,R-HSA-159782,Reactome pathway R-HSA-159782
+PW00036,RUNX2 regulates osteoblast differentiation,R-HSA-8940973,Reactome pathway R-HSA-8940973
+PW00037,hsa:632,hsa:632,KEGG gene entry hsa:632
+PW00038,Interferon gamma signaling,R-HSA-877300,Reactome pathway R-HSA-877300
+PW00039,Regulation of IFNG signaling,R-HSA-877312,Reactome pathway R-HSA-877312
+PW00040,RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs),R-HSA-8877330,Reactome pathway R-HSA-8877330
+PW00041,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,R-HSA-8950505,Reactome pathway R-HSA-8950505
+PW00042,IFNG signaling activates MAPKs,R-HSA-9732724,Reactome pathway R-HSA-9732724
+PW00043,hsa:3458,hsa:3458,KEGG gene entry hsa:3458
+PW00044,G alpha (q) signalling events,R-HSA-416476,Reactome pathway R-HSA-416476
+PW00045,G alpha (i) signalling events,R-HSA-418594,Reactome pathway R-HSA-418594
+PW00046,Formyl peptide receptors bind formyl peptides and many other ligands,R-HSA-444473,Reactome pathway R-HSA-444473
+PW00047,Smooth Muscle Contraction,R-HSA-445355,Reactome pathway R-HSA-445355
+PW00048,Developmental Lineage of Pancreatic Ductal Cells,R-HSA-9925563,Reactome pathway R-HSA-9925563
+PW00049,hsa:301,hsa:301,KEGG gene entry hsa:301
+PW00050,Downstream signal transduction,R-HSA-186763,Reactome pathway R-HSA-186763
+PW00051,STAT6-mediated induction of chemokines,R-HSA-3249367,Reactome pathway R-HSA-3249367
+PW00052,hsa:6778,hsa:6778,KEGG gene entry hsa:6778
+PW00053,Striated Muscle Contraction,R-HSA-390522,Reactome pathway R-HSA-390522
+PW00054,RHOA GTPase cycle,R-HSA-8980692,Reactome pathway R-HSA-8980692
+PW00055,RHOB GTPase cycle,R-HSA-9013026,Reactome pathway R-HSA-9013026
+PW00056,Regulation of CDH1 Function,R-HSA-9764561,Reactome pathway R-HSA-9764561
+PW00057,Formation of the dystrophin-glycoprotein complex (DGC),R-HSA-9913351,Reactome pathway R-HSA-9913351
+PW00058,hsa:70,hsa:70,KEGG gene entry hsa:70
+PW00059,Platelet degranulation,R-HSA-114608,Reactome pathway R-HSA-114608
+PW00060,Regulation of gene expression by Hypoxia-inducible Factor,R-HSA-1234158,Reactome pathway R-HSA-1234158
+PW00061,Signaling by VEGF,R-HSA-194138,Reactome pathway R-HSA-194138
+PW00062,VEGF ligand-receptor interactions,R-HSA-194313,Reactome pathway R-HSA-194313
+PW00063,VEGF binds to VEGFR leading to receptor dimerization,R-HSA-195399,Reactome pathway R-HSA-195399
+PW00064,VEGFA-VEGFR2 Pathway,R-HSA-4420097,Reactome pathway R-HSA-4420097
+PW00065,VEGFR2 mediated cell proliferation,R-HSA-5218921,Reactome pathway R-HSA-5218921
+PW00066,TFAP2 (AP-2) family regulates transcription of growth factors and their receptors,R-HSA-8866910,Reactome pathway R-HSA-8866910
+PW00067,Potential therapeutics for SARS,R-HSA-9679191,Reactome pathway R-HSA-9679191
+PW00068,hsa:7422,hsa:7422,KEGG gene entry hsa:7422
+PW00069,Glutathione synthesis and recycling,R-HSA-174403,Reactome pathway R-HSA-174403
+PW00070,Synthesis of Leukotrienes (LT) and Eoxins (EX),R-HSA-2142691,Reactome pathway R-HSA-2142691
+PW00071,Aflatoxin activation and detoxification,R-HSA-5423646,Reactome pathway R-HSA-5423646
+PW00072,Defective GGT1 causes GLUTH,R-HSA-5579022,Reactome pathway R-HSA-5579022
+PW00073,Defective GGT1 in aflatoxin detoxification causes GLUTH,R-HSA-9035968,Reactome pathway R-HSA-9035968
+PW00074,LTC4-CYSLTR mediated IL4 production,R-HSA-9664535,Reactome pathway R-HSA-9664535
+PW00075,Paracetamol ADME,R-HSA-9753281,Reactome pathway R-HSA-9753281
+PW00076,hsa:2678,hsa:2678,KEGG gene entry hsa:2678
+PW00077,RAF/MAP kinase cascade,R-HSA-5673001,Reactome pathway R-HSA-5673001
+PW00078,RET signaling,R-HSA-8853659,Reactome pathway R-HSA-8853659
+PW00079,NPAS4 regulates expression of target genes,R-HSA-9768919,Reactome pathway R-HSA-9768919
+PW00080,Formation of the nephric duct,R-HSA-9830364,Reactome pathway R-HSA-9830364
+PW00081,Formation of the ureteric bud,R-HSA-9830674,Reactome pathway R-HSA-9830674
+PW00082,hsa:5979,hsa:5979,KEGG gene entry hsa:5979
+PW00083,"BMAL1:CLOCK,NPAS2 activates circadian expression",R-HSA-1368108,Reactome pathway R-HSA-1368108
+PW00084,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,R-HSA-2173796,Reactome pathway R-HSA-2173796
+PW00085,ECM proteoglycans,R-HSA-3000178,Reactome pathway R-HSA-3000178
+PW00086,Dissolution of Fibrin Clot,R-HSA-75205,Reactome pathway R-HSA-75205
+PW00087,"Regulation of MITF-M-dependent genes involved in extracellular matrix, focal adhesion and epithelial-to-mesenchymal transition",R-HSA-9926550,Reactome pathway R-HSA-9926550
+PW00088,hsa:5054,hsa:5054,KEGG gene entry hsa:5054
+PW00089,NGF-stimulated transcription,R-HSA-9031628,Reactome pathway R-HSA-9031628
+PW00090,Nuclear events stimulated by ALK signaling in cancer,R-HSA-9725371,Reactome pathway R-HSA-9725371
+PW00091,hsa:3726,hsa:3726,KEGG gene entry hsa:3726
+PW00092,COPII-mediated vesicle transport,R-HSA-204005,Reactome pathway R-HSA-204005
+PW00093,Cargo concentration in the ER,R-HSA-5694530,Reactome pathway R-HSA-5694530
+PW00094,COPI-mediated anterograde transport,R-HSA-6807878,Reactome pathway R-HSA-6807878
+PW00095,hsa:2348,hsa:2348,KEGG gene entry hsa:2348
+PW00096,Chemokine receptors bind chemokines,R-HSA-380108,Reactome pathway R-HSA-380108
+PW00097,hsa:6361,hsa:6361,KEGG gene entry hsa:6361
+PW00098,ATF4 activates genes in response to endoplasmic reticulum stress,R-HSA-380994,Reactome pathway R-HSA-380994
+PW00099,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",R-HSA-9615017,Reactome pathway R-HSA-9615017
+PW00100,hsa:3484,hsa:3484,KEGG gene entry hsa:3484
+PW00101,Phase I - Functionalization of compounds,R-HSA-211945,Reactome pathway R-HSA-211945
+PW00102,Xenobiotics,R-HSA-211981,Reactome pathway R-HSA-211981
+PW00103,Biosynthesis of maresin-like SPMs,R-HSA-9027307,Reactome pathway R-HSA-9027307
+PW00104,Aspirin ADME,R-HSA-9749641,Reactome pathway R-HSA-9749641
+PW00105,Atorvastatin ADME,R-HSA-9754706,Reactome pathway R-HSA-9754706
+PW00106,Prednisone ADME,R-HSA-9757110,Reactome pathway R-HSA-9757110
+PW00107,hsa:1576,hsa:1576,KEGG gene entry hsa:1576
+PW00108,Glutathione conjugation,R-HSA-156590,Reactome pathway R-HSA-156590
+PW00109,Detoxification of Reactive Oxygen Species,R-HSA-3299685,Reactome pathway R-HSA-3299685
+PW00110,Neutrophil degranulation,R-HSA-6798695,Reactome pathway R-HSA-6798695
+PW00111,hsa:2950,hsa:2950,KEGG gene entry hsa:2950
+PW00112,Cell surface interactions at the vascular wall,R-HSA-202733,Reactome pathway R-HSA-202733
+PW00113,Scavenging by Class B Receptors,R-HSA-3000471,Reactome pathway R-HSA-3000471
+PW00114,Scavenging by Class H Receptors,R-HSA-3000497,Reactome pathway R-HSA-3000497
+PW00115,Platelet sensitization by LDL,R-HSA-432142,Reactome pathway R-HSA-432142
+PW00116,Regulation of TLR by endogenous ligand,R-HSA-5686938,Reactome pathway R-HSA-5686938
+PW00117,Cargo recognition for clathrin-mediated endocytosis,R-HSA-8856825,Reactome pathway R-HSA-8856825
+PW00118,Clathrin-mediated endocytosis,R-HSA-8856828,Reactome pathway R-HSA-8856828
+PW00119,VLDL assembly,R-HSA-8866423,Reactome pathway R-HSA-8866423
+PW00120,Chylomicron clearance,R-HSA-8964026,Reactome pathway R-HSA-8964026
+PW00121,LDL clearance,R-HSA-8964038,Reactome pathway R-HSA-8964038
+PW00122,LDL remodeling,R-HSA-8964041,Reactome pathway R-HSA-8964041
+PW00123,VLDL clearance,R-HSA-8964046,Reactome pathway R-HSA-8964046
+PW00124,Heme signaling,R-HSA-9707616,Reactome pathway R-HSA-9707616
+PW00125,hsa:338,hsa:338,KEGG gene entry hsa:338
+PW00126,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,R-HSA-198933,Reactome pathway R-HSA-198933
+PW00127,Integrin cell surface interactions,R-HSA-216083,Reactome pathway R-HSA-216083
+PW00128,hsa:7412,hsa:7412,KEGG gene entry hsa:7412
+PW00129,Hyaluronan metabolism,R-HSA-2142845,Reactome pathway R-HSA-2142845
+PW00130,Hyaluronan degradation,R-HSA-2160916,Reactome pathway R-HSA-2160916
+PW00131,hsa:8692,hsa:8692,KEGG gene entry hsa:8692
+PW00132,Degradation of beta-catenin by the destruction complex,R-HSA-195253,Reactome pathway R-HSA-195253
+PW00133,Beta-catenin phosphorylation cascade,R-HSA-196299,Reactome pathway R-HSA-196299
+PW00134,TCF dependent signaling in response to WNT,R-HSA-201681,Reactome pathway R-HSA-201681
+PW00135,Formation of the beta-catenin:TCF transactivating complex,R-HSA-201722,Reactome pathway R-HSA-201722
+PW00136,LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production,R-HSA-3134973,Reactome pathway R-HSA-3134973
+PW00137,Apoptotic cleavage of cell adhesion proteins,R-HSA-351906,Reactome pathway R-HSA-351906
+PW00138,Deactivation of the beta-catenin transactivating complex,R-HSA-3769402,Reactome pathway R-HSA-3769402
+PW00139,"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",R-HSA-381771,Reactome pathway R-HSA-381771
+PW00140,Ca2+ pathway,R-HSA-4086398,Reactome pathway R-HSA-4086398
+PW00141,Adherens junctions interactions,R-HSA-418990,Reactome pathway R-HSA-418990
+PW00142,Binding of TCF/LEF:CTNNB1 to target gene promoters,R-HSA-4411364,Reactome pathway R-HSA-4411364
+PW00143,Disassembly of the destruction complex and recruitment of AXIN to the membrane,R-HSA-4641262,Reactome pathway R-HSA-4641262
+PW00144,VEGFR2 mediated vascular permeability,R-HSA-5218920,Reactome pathway R-HSA-5218920
+PW00145,Myogenesis,R-HSA-525793,Reactome pathway R-HSA-525793
+PW00146,Signaling by GSK3beta mutants,R-HSA-5339716,Reactome pathway R-HSA-5339716
+PW00147,CTNNB1 S33 mutants aren't phosphorylated,R-HSA-5358747,Reactome pathway R-HSA-5358747
+PW00148,CTNNB1 S37 mutants aren't phosphorylated,R-HSA-5358749,Reactome pathway R-HSA-5358749
+PW00149,CTNNB1 S45 mutants aren't phosphorylated,R-HSA-5358751,Reactome pathway R-HSA-5358751
+PW00150,CTNNB1 T41 mutants aren't phosphorylated,R-HSA-5358752,Reactome pathway R-HSA-5358752
+PW00151,RHO GTPases activate IQGAPs,R-HSA-5626467,Reactome pathway R-HSA-5626467
+PW00152,hsa:1499,hsa:1499,KEGG gene entry hsa:1499
+PW00153,Keratinization,R-HSA-6805567,Reactome pathway R-HSA-6805567
+PW00154,Formation of the cornified envelope,R-HSA-6809371,Reactome pathway R-HSA-6809371
+PW00155,Differentiation of Keratinocytes in Interfollicular Epidermis in Mammalian Skin,R-HSA-9725554,Reactome pathway R-HSA-9725554
+PW00156,hsa:3880,hsa:3880,KEGG gene entry hsa:3880
+PW00157,Neurophilin interactions with VEGF and VEGFR,R-HSA-194306,Reactome pathway R-HSA-194306
+PW00158,Signaling by membrane-tethered fusions of PDGFRA or PDGFRB,R-HSA-9673768,Reactome pathway R-HSA-9673768
+PW00159,High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,R-HSA-9856530,Reactome pathway R-HSA-9856530
+PW00160,hsa:3791,hsa:3791,KEGG gene entry hsa:3791
+PW00161,hsa:5858,hsa:5858,KEGG gene entry hsa:5858
+PW00162,ROS and RNS production in phagocytes,R-HSA-1222556,Reactome pathway R-HSA-1222556
+PW00163,Nitric oxide stimulates guanylate cyclase,R-HSA-392154,Reactome pathway R-HSA-392154
+PW00164,Ion homeostasis,R-HSA-5578775,Reactome pathway R-HSA-5578775
+PW00165,hsa:4842,hsa:4842,KEGG gene entry hsa:4842
+PW00166,Metabolism of Angiotensinogen to Angiotensins,R-HSA-2022377,Reactome pathway R-HSA-2022377
+PW00167,Peptide ligand-binding receptors,R-HSA-375276,Reactome pathway R-HSA-375276
+PW00168,hsa:183,hsa:183,KEGG gene entry hsa:183
+PW00169,Activation of NOXA and translocation to mitochondria,R-HSA-111448,Reactome pathway R-HSA-111448
+PW00170,Activation of PUMA and translocation to mitochondria,R-HSA-139915,Reactome pathway R-HSA-139915
+PW00171,Pre-NOTCH Transcription and Translation,R-HSA-1912408,Reactome pathway R-HSA-1912408
+PW00172,Oxidative Stress Induced Senescence,R-HSA-2559580,Reactome pathway R-HSA-2559580
+PW00173,Formation of Senescence-Associated Heterochromatin Foci (SAHF),R-HSA-2559584,Reactome pathway R-HSA-2559584
+PW00174,Oncogene Induced Senescence,R-HSA-2559585,Reactome pathway R-HSA-2559585
+PW00175,DNA Damage/Telomere Stress Induced Senescence,R-HSA-2559586,Reactome pathway R-HSA-2559586
+PW00176,SUMOylation of transcription factors,R-HSA-3232118,Reactome pathway R-HSA-3232118
+PW00177,Autodegradation of the E3 ubiquitin ligase COP1,R-HSA-349425,Reactome pathway R-HSA-349425
+PW00178,Association of TriC/CCT with target proteins during biosynthesis,R-HSA-390471,Reactome pathway R-HSA-390471
+PW00179,Pyroptosis,R-HSA-5620971,Reactome pathway R-HSA-5620971
+PW00180,TP53 Regulates Metabolic Genes,R-HSA-5628897,Reactome pathway R-HSA-5628897
+PW00181,Ub-specific processing proteases,R-HSA-5689880,Reactome pathway R-HSA-5689880
+PW00182,Ovarian tumor domain proteases,R-HSA-5689896,Reactome pathway R-HSA-5689896
+PW00183,Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,R-HSA-5693565,Reactome pathway R-HSA-5693565
+PW00184,TP53 Regulates Transcription of DNA Repair Genes,R-HSA-6796648,Reactome pathway R-HSA-6796648
+PW00185,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,R-HSA-6803204,Reactome pathway R-HSA-6803204
+PW00186,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,R-HSA-6803205,Reactome pathway R-HSA-6803205
+PW00187,TP53 Regulates Transcription of Caspase Activators and Caspases,R-HSA-6803207,Reactome pathway R-HSA-6803207
+PW00188,hsa:7157,hsa:7157,KEGG gene entry hsa:7157
+PW00189,Displacement of DNA glycosylase by APEX1,R-HSA-110357,Reactome pathway R-HSA-110357
+PW00190,POLB-Dependent Long Patch Base Excision Repair,R-HSA-110362,Reactome pathway R-HSA-110362
+PW00191,Resolution of AP sites via the multiple-nucleotide patch replacement pathway,R-HSA-110373,Reactome pathway R-HSA-110373
+PW00192,PCNA-Dependent Long Patch Base Excision Repair,R-HSA-5651801,Reactome pathway R-HSA-5651801
+PW00193,Abasic sugar-phosphate removal via the single-nucleotide replacement pathway,R-HSA-73930,Reactome pathway R-HSA-73930
+PW00194,Resolution of Abasic Sites (AP sites),R-HSA-73933,Reactome pathway R-HSA-73933
+PW00195,hsa:328,hsa:328,KEGG gene entry hsa:328
+PW00196,"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",R-HSA-400511,Reactome pathway R-HSA-400511
+PW00197,hsa:1803,hsa:1803,KEGG gene entry hsa:1803
+PW00198,YAP1- and WWTR1 (TAZ)-stimulated gene expression,R-HSA-2032785,Reactome pathway R-HSA-2032785
+PW00199,RUNX3 regulates YAP1-mediated transcription,R-HSA-8951671,Reactome pathway R-HSA-8951671
+PW00200,hsa:1490,hsa:1490,KEGG gene entry hsa:1490
+PW00201,Regulation of HSF1-mediated heat shock response,R-HSA-3371453,Reactome pathway R-HSA-3371453
+PW00202,hsa:3308,hsa:3308,KEGG gene entry hsa:3308
+PW00203,PI3K Cascade,R-HSA-109704,Reactome pathway R-HSA-109704
+PW00204,IRS-mediated signalling,R-HSA-112399,Reactome pathway R-HSA-112399
+PW00205,GPVI-mediated activation cascade,R-HSA-114604,Reactome pathway R-HSA-114604
+PW00206,Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,R-HSA-1236382,Reactome pathway R-HSA-1236382
+PW00207,PI3K events in ERBB4 signaling,R-HSA-1250342,Reactome pathway R-HSA-1250342
+PW00208,PIP3 activates AKT signaling,R-HSA-1257604,Reactome pathway R-HSA-1257604
+PW00209,Signaling by SCF-KIT,R-HSA-1433557,Reactome pathway R-HSA-1433557
+PW00210,Synthesis of PIPs at the plasma membrane,R-HSA-1660499,Reactome pathway R-HSA-1660499
+PW00211,GAB1 signalosome,R-HSA-180292,Reactome pathway R-HSA-180292
+PW00212,Signaling by cytosolic FGFR1 fusion mutants,R-HSA-1839117,Reactome pathway R-HSA-1839117
+PW00213,PI3K events in ERBB2 signaling,R-HSA-1963642,Reactome pathway R-HSA-1963642
+PW00214,PI3K/AKT activation,R-HSA-198203,Reactome pathway R-HSA-198203
+PW00215,Signaling by ALK,R-HSA-201556,Reactome pathway R-HSA-201556
+PW00216,Downstream TCR signaling,R-HSA-202424,Reactome pathway R-HSA-202424
+PW00217,Role of phospholipids in phagocytosis,R-HSA-2029485,Reactome pathway R-HSA-2029485
+PW00218,Tie2 Signaling,R-HSA-210993,Reactome pathway R-HSA-210993
+PW00219,Constitutive Signaling by Aberrant PI3K in Cancer,R-HSA-2219530,Reactome pathway R-HSA-2219530
+PW00220,DAP12 signaling,R-HSA-2424491,Reactome pathway R-HSA-2424491
+PW00221,Role of LAT2/NTAL/LAB on calcium mobilization,R-HSA-2730905,Reactome pathway R-HSA-2730905
+PW00222,hsa:5290,hsa:5290,KEGG gene entry hsa:5290
+PW00223,Signaling by activated point mutants of FGFR1,R-HSA-1839122,Reactome pathway R-HSA-1839122
+PW00224,Signaling by activated point mutants of FGFR3,R-HSA-1839130,Reactome pathway R-HSA-1839130
+PW00225,FGFR4 ligand binding and activation,R-HSA-190322,Reactome pathway R-HSA-190322
+PW00226,FGFR1b ligand binding and activation,R-HSA-190370,Reactome pathway R-HSA-190370
+PW00227,FGFR3c ligand binding and activation,R-HSA-190372,Reactome pathway R-HSA-190372
+PW00228,FGFR1c ligand binding and activation,R-HSA-190373,Reactome pathway R-HSA-190373
+PW00229,FGFR2c ligand binding and activation,R-HSA-190375,Reactome pathway R-HSA-190375
+PW00230,FGFR2b ligand binding and activation,R-HSA-190377,Reactome pathway R-HSA-190377
+PW00231,Activated point mutants of FGFR2,R-HSA-2033519,Reactome pathway R-HSA-2033519
+PW00232,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",R-HSA-2892247,Reactome pathway R-HSA-2892247
+PW00233,Syndecan interactions,R-HSA-3000170,Reactome pathway R-HSA-3000170
+PW00234,Non-integrin membrane-ECM interactions,R-HSA-3000171,Reactome pathway R-HSA-3000171
+PW00235,Phospholipase C-mediated cascade: FGFR1,R-HSA-5654219,Reactome pathway R-HSA-5654219
+PW00236,"Phospholipase C-mediated cascade, FGFR2",R-HSA-5654221,Reactome pathway R-HSA-5654221
+PW00237,"Phospholipase C-mediated cascade, FGFR3",R-HSA-5654227,Reactome pathway R-HSA-5654227
+PW00238,"Phospholipase C-mediated cascade, FGFR4",R-HSA-5654228,Reactome pathway R-HSA-5654228
+PW00239,Downstream signaling of activated FGFR1,R-HSA-5654687,Reactome pathway R-HSA-5654687
+PW00240,hsa:2247,hsa:2247,KEGG gene entry hsa:2247
+PW00241,"Interleukin-3, Interleukin-5 and GM-CSF signaling",R-HSA-512988,Reactome pathway R-HSA-512988
+PW00242,Interleukin receptor SHC signaling,R-HSA-912526,Reactome pathway R-HSA-912526
+PW00243,hsa:3567,hsa:3567,KEGG gene entry hsa:3567
+PW00244,Glycolysis,R-HSA-70171,Reactome pathway R-HSA-70171
+PW00245,Gluconeogenesis,R-HSA-70263,Reactome pathway R-HSA-70263
+PW00246,hsa:2597,hsa:2597,KEGG gene entry hsa:2597
+PW00247,Assembly of collagen fibrils and other multimeric structures,R-HSA-2022090,Reactome pathway R-HSA-2022090
+PW00248,EGFR Transactivation by Gastrin,R-HSA-2179392,Reactome pathway R-HSA-2179392
+PW00249,Extra-nuclear estrogen signaling,R-HSA-9009391,Reactome pathway R-HSA-9009391
+PW00250,hsa:4314,hsa:4314,KEGG gene entry hsa:4314
+PW00251,Interleukin-2 signaling,R-HSA-9020558,Reactome pathway R-HSA-9020558
+PW00252,hsa:3558,hsa:3558,KEGG gene entry hsa:3558
+PW00253,Interleukin-10 signaling,R-HSA-6783783,Reactome pathway R-HSA-6783783
+PW00254,hsa:2920,hsa:2920,KEGG gene entry hsa:2920
+PW00255,Glycosaminoglycan-protein linkage region biosynthesis,R-HSA-1971475,Reactome pathway R-HSA-1971475
+PW00256,HS-GAG biosynthesis,R-HSA-2022928,Reactome pathway R-HSA-2022928
+PW00257,HS-GAG degradation,R-HSA-2024096,Reactome pathway R-HSA-2024096
+PW00258,Laminin interactions,R-HSA-3000157,Reactome pathway R-HSA-3000157
+PW00259,"Defective B4GALT7 causes EDS, progeroid type",R-HSA-3560783,Reactome pathway R-HSA-3560783
+PW00260,Defective B3GAT3 causes JDSSDHD,R-HSA-3560801,Reactome pathway R-HSA-3560801
+PW00261,Defective EXT2 causes exostoses 2,R-HSA-3656237,Reactome pathway R-HSA-3656237
+PW00262,"Defective EXT1 causes exostoses 1, TRPS2 and CHDS",R-HSA-3656253,Reactome pathway R-HSA-3656253
+PW00263,Defective B3GALT6 causes EDSP2 and SEMDJL1,R-HSA-4420332,Reactome pathway R-HSA-4420332
+PW00264,Attachment and Entry,R-HSA-9694614,Reactome pathway R-HSA-9694614
+PW00265,Amyloid fiber formation,R-HSA-977225,Reactome pathway R-HSA-977225
+PW00266,Respiratory syncytial virus (RSV) attachment and entry,R-HSA-9820960,Reactome pathway R-HSA-9820960
+PW00267,RSV-host interactions,R-HSA-9833110,Reactome pathway R-HSA-9833110
+PW00268,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes,R-HSA-9856532,Reactome pathway R-HSA-9856532
+PW00269,hsa:3339,hsa:3339,KEGG gene entry hsa:3339
+PW00270,CS-GAG biosynthesis,R-HSA-2022870,Reactome pathway R-HSA-2022870
+PW00271,DS-GAG biosynthesis,R-HSA-2022923,Reactome pathway R-HSA-2022923
+PW00272,CS/DS degradation,R-HSA-2024101,Reactome pathway R-HSA-2024101
+PW00273,Defective CHST3 causes SEDCJD,R-HSA-3595172,Reactome pathway R-HSA-3595172
+PW00274,"Defective CHST14 causes EDS, musculocontractural type",R-HSA-3595174,Reactome pathway R-HSA-3595174
+PW00275,Defective CHSY1 causes TPBS,R-HSA-3595177,Reactome pathway R-HSA-3595177
+PW00276,hsa:1462,hsa:1462,KEGG gene entry hsa:1462
+PW00277,hsa:388372,hsa:388372,KEGG gene entry hsa:388372
+PW00278,hsa:6351,hsa:6351,KEGG gene entry hsa:6351
+PW00279,Synthesis of 15-eicosatetraenoic acid derivatives,R-HSA-2142770,Reactome pathway R-HSA-2142770
+PW00280,Synthesis of Prostaglandins (PG) and Thromboxanes (TX),R-HSA-2162123,Reactome pathway R-HSA-2162123
+PW00281,Biosynthesis of DHA-derived SPMs,R-HSA-9018677,Reactome pathway R-HSA-9018677
+PW00282,Biosynthesis of EPA-derived SPMs,R-HSA-9018679,Reactome pathway R-HSA-9018679
+PW00283,Biosynthesis of DPAn-3 SPMs,R-HSA-9025094,Reactome pathway R-HSA-9025094
+PW00284,Biosynthesis of electrophilic Omega-3 PUFA oxo-derivatives,R-HSA-9027604,Reactome pathway R-HSA-9027604
+PW00285,hsa:5743,hsa:5743,KEGG gene entry hsa:5743
+PW00286,Purine ribonucleoside monophosphate biosynthesis,R-HSA-73817,Reactome pathway R-HSA-73817
+PW00287,Azathioprine ADME,R-HSA-9748787,Reactome pathway R-HSA-9748787
+PW00288,hsa:3615,hsa:3615,KEGG gene entry hsa:3615
+PW00289,Metabolism of folate and pterines,R-HSA-196757,Reactome pathway R-HSA-196757
+PW00290,hsa:4524,hsa:4524,KEGG gene entry hsa:4524
+PW00291,Prostanoid ligand receptors,R-HSA-391908,Reactome pathway R-HSA-391908
+PW00292,G alpha (12/13) signalling events,R-HSA-416482,Reactome pathway R-HSA-416482
+PW00293,Thromboxane signalling through TP receptor,R-HSA-428930,Reactome pathway R-HSA-428930
+PW00294,hsa:6915,hsa:6915,KEGG gene entry hsa:6915
+PW00295,SCF(Skp2)-mediated degradation of p27/p21,R-HSA-187577,Reactome pathway R-HSA-187577
+PW00296,AKT phosphorylates targets in the cytosol,R-HSA-198323,Reactome pathway R-HSA-198323
+PW00297,Senescence-Associated Secretory Phenotype (SASP),R-HSA-2559582,Reactome pathway R-HSA-2559582
+PW00298,Constitutive Signaling by AKT1 E17K in Cancer,R-HSA-5674400,Reactome pathway R-HSA-5674400
+PW00299,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,R-HSA-6804116,Reactome pathway R-HSA-6804116
+PW00300,Cyclin E associated events during G1/S transition,R-HSA-69202,Reactome pathway R-HSA-69202
+PW00301,Cyclin D associated events in G1,R-HSA-69231,Reactome pathway R-HSA-69231
+PW00302,p53-Dependent G1 DNA Damage Response,R-HSA-69563,Reactome pathway R-HSA-69563
+PW00303,Cyclin A:Cdk2-associated events at S phase entry,R-HSA-69656,Reactome pathway R-HSA-69656
+PW00304,Transcriptional activation of cell cycle inhibitor p21,R-HSA-69895,Reactome pathway R-HSA-69895
+PW00305,The role of GTSE1 in G2/M progression after G2 checkpoint,R-HSA-8852276,Reactome pathway R-HSA-8852276
+PW00306,TFAP2 (AP-2) family regulates transcription of cell cycle factors,R-HSA-8866911,Reactome pathway R-HSA-8866911
+PW00307,Transcriptional regulation by RUNX2,R-HSA-8878166,Reactome pathway R-HSA-8878166
+PW00308,RUNX3 regulates CDKN1A transcription,R-HSA-8941855,Reactome pathway R-HSA-8941855
+PW00309,Neddylation,R-HSA-8951664,Reactome pathway R-HSA-8951664
+PW00310,Transcriptional regulation of granulopoiesis,R-HSA-9616222,Reactome pathway R-HSA-9616222
+PW00311,FOXO-mediated transcription of cell cycle genes,R-HSA-9617828,Reactome pathway R-HSA-9617828
+PW00312,"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",R-HSA-9661069,Reactome pathway R-HSA-9661069
+PW00313,hsa:1026,hsa:1026,KEGG gene entry hsa:1026
+PW00314,Signaling by Leptin,R-HSA-2586552,Reactome pathway R-HSA-2586552
+PW00315,Transcriptional regulation of white adipocyte differentiation,R-HSA-381340,Reactome pathway R-HSA-381340
+PW00316,"Synthesis, secretion, and deacylation of Ghrelin",R-HSA-422085,Reactome pathway R-HSA-422085
+PW00317,hsa:3952,hsa:3952,KEGG gene entry hsa:3952
+PW00318,EGR2 and SOX10-mediated initiation of Schwann cell myelination,R-HSA-9619665,Reactome pathway R-HSA-9619665
+PW00319,hsa:4155,hsa:4155,KEGG gene entry hsa:4155
+PW00320,hsa:94025,hsa:94025,KEGG gene entry hsa:94025
+PW00321,AKT phosphorylates targets in the nucleus,R-HSA-198693,Reactome pathway R-HSA-198693
+PW00322,Nuclear Receptor transcription pathway,R-HSA-383280,Reactome pathway R-HSA-383280
+PW00323,hsa:3164,hsa:3164,KEGG gene entry hsa:3164
+PW00324,TNFR1-induced proapoptotic signaling,R-HSA-5357786,Reactome pathway R-HSA-5357786
+PW00325,Regulation of TNFR1 signaling,R-HSA-5357905,Reactome pathway R-HSA-5357905
+PW00326,TNFR1-induced NF-kappa-B signaling pathway,R-HSA-5357956,Reactome pathway R-HSA-5357956
+PW00327,TNFR1-mediated ceramide production,R-HSA-5626978,Reactome pathway R-HSA-5626978
+PW00328,TNFR2 non-canonical NF-kB pathway,R-HSA-5668541,Reactome pathway R-HSA-5668541
+PW00329,TNF signaling,R-HSA-75893,Reactome pathway R-HSA-75893
+PW00330,hsa:7124,hsa:7124,KEGG gene entry hsa:7124
+PW00331,EPH-ephrin mediated repulsion of cells,R-HSA-3928665,Reactome pathway R-HSA-3928665
+PW00332,hsa:4313,hsa:4313,KEGG gene entry hsa:4313
+PW00333,Phosphorylation of CD3 and TCR zeta chains,R-HSA-202427,Reactome pathway R-HSA-202427
+PW00334,Other semaphorin interactions,R-HSA-416700,Reactome pathway R-HSA-416700
+PW00335,hsa:5788,hsa:5788,KEGG gene entry hsa:5788
+PW00336,Signaling by ERBB2,R-HSA-1227986,Reactome pathway R-HSA-1227986
+PW00337,SHC1 events in ERBB2 signaling,R-HSA-1250196,Reactome pathway R-HSA-1250196
+PW00338,PLCG1 events in ERBB2 signaling,R-HSA-1251932,Reactome pathway R-HSA-1251932
+PW00339,GRB7 events in ERBB2 signaling,R-HSA-1306955,Reactome pathway R-HSA-1306955
+PW00340,Downregulation of ERBB2:ERBB3 signaling,R-HSA-1358803,Reactome pathway R-HSA-1358803
+PW00341,GRB2 events in ERBB2 signaling,R-HSA-1963640,Reactome pathway R-HSA-1963640
+PW00342,Sema4D induced cell migration and growth-cone collapse,R-HSA-416572,Reactome pathway R-HSA-416572
+PW00343,ERBB2 Regulates Cell Motility,R-HSA-6785631,Reactome pathway R-HSA-6785631
+PW00344,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",R-HSA-6811558,Reactome pathway R-HSA-6811558
+PW00345,ERBB2 Activates PTK6 Signaling,R-HSA-8847993,Reactome pathway R-HSA-8847993
+PW00346,Downregulation of ERBB2 signaling,R-HSA-8863795,Reactome pathway R-HSA-8863795
+PW00347,Constitutive Signaling by Overexpressed ERBB2,R-HSA-9634285,Reactome pathway R-HSA-9634285
+PW00348,Drug-mediated inhibition of ERBB2 signaling,R-HSA-9652282,Reactome pathway R-HSA-9652282
+PW00349,Signaling by ERBB2 KD Mutants,R-HSA-9664565,Reactome pathway R-HSA-9664565
+PW00350,Resistance of ERBB2 KD mutants to trastuzumab,R-HSA-9665233,Reactome pathway R-HSA-9665233
+PW00351,hsa:2064,hsa:2064,KEGG gene entry hsa:2064
+PW00352,tRNA processing in the mitochondrion,R-HSA-6785470,Reactome pathway R-HSA-6785470
+PW00353,tRNA modification in the mitochondrion,R-HSA-6787450,Reactome pathway R-HSA-6787450
+PW00354,Branched-chain amino acid catabolism,R-HSA-70895,Reactome pathway R-HSA-70895
+PW00355,rRNA processing in the mitochondrion,R-HSA-8868766,Reactome pathway R-HSA-8868766
+PW00356,Mitochondrial protein degradation,R-HSA-9837999,Reactome pathway R-HSA-9837999
+PW00357,hsa:3028,hsa:3028,KEGG gene entry hsa:3028
+PW00358,Interleukin-1 processing,R-HSA-448706,Reactome pathway R-HSA-448706
+PW00359,CLEC7A/inflammasome pathway,R-HSA-5660668,Reactome pathway R-HSA-5660668
+PW00360,Interleukin-1 signaling,R-HSA-9020702,Reactome pathway R-HSA-9020702
+PW00361,Purinergic signaling in leishmaniasis infection,R-HSA-9660826,Reactome pathway R-HSA-9660826
+PW00362,hsa:3553,hsa:3553,KEGG gene entry hsa:3553
+PW00363,Activated NOTCH1 Transmits Signal to the Nucleus,R-HSA-2122948,Reactome pathway R-HSA-2122948
+PW00364,Constitutive Signaling by NOTCH1 PEST Domain Mutants,R-HSA-2644606,Reactome pathway R-HSA-2644606
+PW00365,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,R-HSA-2660826,Reactome pathway R-HSA-2660826
+PW00366,Constitutive Signaling by NOTCH1 HD Domain Mutants,R-HSA-2691232,Reactome pathway R-HSA-2691232
+PW00367,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,R-HSA-2894862,Reactome pathway R-HSA-2894862
+PW00368,NOTCH2 Activation and Transmission of Signal to the Nucleus,R-HSA-2979096,Reactome pathway R-HSA-2979096
+PW00369,RUNX3 regulates NOTCH signaling,R-HSA-8941856,Reactome pathway R-HSA-8941856
+PW00370,RAC1 GTPase cycle,R-HSA-9013149,Reactome pathway R-HSA-9013149
+PW00371,RAC3 GTPase cycle,R-HSA-9013423,Reactome pathway R-HSA-9013423
+PW00372,NOTCH3 Activation and Transmission of Signal to the Nucleus,R-HSA-9013507,Reactome pathway R-HSA-9013507
+PW00373,NOTCH4 Activation and Transmission of Signal to the Nucleus,R-HSA-9013700,Reactome pathway R-HSA-9013700
+PW00374,Nephron development,R-HSA-9831926,Reactome pathway R-HSA-9831926
+PW00375,hsa:182,hsa:182,KEGG gene entry hsa:182
+PW00376,Influenza Virus Induced Apoptosis,R-HSA-168277,Reactome pathway R-HSA-168277
+PW00377,Molecules associated with elastic fibres,R-HSA-2129379,Reactome pathway R-HSA-2129379
+PW00378,Downregulation of TGF-beta receptor signaling,R-HSA-2173788,Reactome pathway R-HSA-2173788
+PW00379,TGF-beta receptor signaling activates SMADs,R-HSA-2173789,Reactome pathway R-HSA-2173789
+PW00380,TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),R-HSA-2173791,Reactome pathway R-HSA-2173791
+PW00381,SMAD2/3 Phosphorylation Motif Mutants in Cancer,R-HSA-3304356,Reactome pathway R-HSA-3304356
+PW00382,TGFBR2 MSI Frameshift Mutants in Cancer,R-HSA-3642279,Reactome pathway R-HSA-3642279
+PW00383,TGFBR2 Kinase Domain Mutants in Cancer,R-HSA-3645790,Reactome pathway R-HSA-3645790
+PW00384,TGFBR1 KD Mutants in Cancer,R-HSA-3656532,Reactome pathway R-HSA-3656532
+PW00385,TGFBR1 LBD Mutants in Cancer,R-HSA-3656535,Reactome pathway R-HSA-3656535
+PW00386,UCH proteinases,R-HSA-5689603,Reactome pathway R-HSA-5689603
+PW00387,Regulation of RUNX3 expression and activity,R-HSA-8941858,Reactome pathway R-HSA-8941858
+PW00388,RUNX3 regulates p14-ARF,R-HSA-8951936,Reactome pathway R-HSA-8951936
+PW00389,hsa:7040,hsa:7040,KEGG gene entry hsa:7040
+PW00390,Glycoprotein hormones,R-HSA-209822,Reactome pathway R-HSA-209822
+PW00391,Thyroxine biosynthesis,R-HSA-209968,Reactome pathway R-HSA-209968
+PW00392,Hormone ligand-binding receptors,R-HSA-375281,Reactome pathway R-HSA-375281
+PW00393,G alpha (s) signalling events,R-HSA-418555,Reactome pathway R-HSA-418555
+PW00394,hsa:7252,hsa:7252,KEGG gene entry hsa:7252
+PW00395,Transcription of E2F targets under negative control by DREAM complex,R-HSA-1362277,Reactome pathway R-HSA-1362277
+PW00396,NOTCH1 Intracellular Domain Regulates Transcription,R-HSA-2122947,Reactome pathway R-HSA-2122947
+PW00397,MAPK6/MAPK4 signaling,R-HSA-5687128,Reactome pathway R-HSA-5687128
+PW00398,RUNX3 regulates WNT signaling,R-HSA-8951430,Reactome pathway R-HSA-8951430
+PW00399,Estrogen-dependent gene expression,R-HSA-9018519,Reactome pathway R-HSA-9018519
+PW00400,Regulation of CDH1 mRNA translation by microRNAs,R-HSA-9764562,Reactome pathway R-HSA-9764562
+PW00401,Regulation of NFE2L2 gene expression,R-HSA-9818749,Reactome pathway R-HSA-9818749
+PW00402,hsa:4609,hsa:4609,KEGG gene entry hsa:4609
+PW00403,hsa:4745,hsa:4745,KEGG gene entry hsa:4745
+PW00404,Integrin signaling,R-HSA-354192,Reactome pathway R-HSA-354192
+PW00405,Co-inhibition by PD-1,R-HSA-389948,Reactome pathway R-HSA-389948
+PW00406,MAP2K and MAPK activation,R-HSA-5674135,Reactome pathway R-HSA-5674135
+PW00407,Signaling by moderate kinase activity BRAF mutants,R-HSA-6802946,Reactome pathway R-HSA-6802946
+PW00408,Signaling by high-kinase activity BRAF mutants,R-HSA-6802948,Reactome pathway R-HSA-6802948
+PW00409,Signaling by BRAF and RAF1 fusions,R-HSA-6802952,Reactome pathway R-HSA-6802952
+PW00410,Paradoxical activation of RAF signaling by kinase inactive BRAF,R-HSA-6802955,Reactome pathway R-HSA-6802955
+PW00411,RHOH GTPase cycle,R-HSA-9013407,Reactome pathway R-HSA-9013407
+PW00412,Signaling downstream of RAS mutants,R-HSA-9649948,Reactome pathway R-HSA-9649948
+PW00413,Signaling by RAF1 mutants,R-HSA-9656223,Reactome pathway R-HSA-9656223
+PW00414,Negative regulation of FLT3,R-HSA-9706369,Reactome pathway R-HSA-9706369
+PW00415,hsa:1445,hsa:1445,KEGG gene entry hsa:1445
+PW00416,hsa:5972,hsa:5972,KEGG gene entry hsa:5972
+PW00417,RA biosynthesis pathway,R-HSA-5365859,Reactome pathway R-HSA-5365859
+PW00418,hsa:8854,hsa:8854,KEGG gene entry hsa:8854
+PW00419,HATs acetylate histones,R-HSA-3214847,Reactome pathway R-HSA-3214847
+PW00420,Activation of the TFAP2 (AP-2) family of transcription factors,R-HSA-8866907,Reactome pathway R-HSA-8866907
+PW00421,hsa:8089,hsa:8089,KEGG gene entry hsa:8089
+PW00422,Inhibition of replication initiation of damaged DNA by RB1/E2F1,R-HSA-113501,Reactome pathway R-HSA-113501
+PW00423,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,R-HSA-1362300,Reactome pathway R-HSA-1362300
+PW00424,G2 Phase,R-HSA-68911,Reactome pathway R-HSA-68911
+PW00425,G1/S-Specific Transcription,R-HSA-69205,Reactome pathway R-HSA-69205
+PW00426,Transcriptional Regulation by E2F6,R-HSA-8953750,Reactome pathway R-HSA-8953750
+PW00427,hsa:1869,hsa:1869,KEGG gene entry hsa:1869
+PW00428,SUMOylation of DNA replication proteins,R-HSA-4615885,Reactome pathway R-HSA-4615885
+PW00429,hsa:7153,hsa:7153,KEGG gene entry hsa:7153
+PW00430,Creatine metabolism,R-HSA-71288,Reactome pathway R-HSA-71288
+PW00431,hsa:1158,hsa:1158,KEGG gene entry hsa:1158
+PW00432,Translocation of ZAP-70 to Immunological synapse,R-HSA-202430,Reactome pathway R-HSA-202430
+PW00433,Generation of second messenger molecules,R-HSA-202433,Reactome pathway R-HSA-202433
+PW00434,MHC class II antigen presentation,R-HSA-2132295,Reactome pathway R-HSA-2132295
+PW00435,hsa:3123,hsa:3123,KEGG gene entry hsa:3123
+PW00436,hsa:23167,hsa:23167,KEGG gene entry hsa:23167
+PW00437,hsa:1012,hsa:1012,KEGG gene entry hsa:1012
+PW00438,Collagen biosynthesis and modifying enzymes,R-HSA-1650814,Reactome pathway R-HSA-1650814
+PW00439,Collagen chain trimerization,R-HSA-8948216,Reactome pathway R-HSA-8948216
+PW00440,hsa:80781,hsa:80781,KEGG gene entry hsa:80781
+PW00441,Vitamin D (calciferol) metabolism,R-HSA-196791,Reactome pathway R-HSA-196791
+PW00442,Vitamins,R-HSA-211916,Reactome pathway R-HSA-211916
+PW00443,Defective CYP24A1 causes HCAI,R-HSA-5579010,Reactome pathway R-HSA-5579010
+PW00444,hsa:1591,hsa:1591,KEGG gene entry hsa:1591
+PW00445,hsa:174,hsa:174,KEGG gene entry hsa:174
+PW00446,hsa:3576,hsa:3576,KEGG gene entry hsa:3576
+PW00447,Interleukin-7 signaling,R-HSA-1266695,Reactome pathway R-HSA-1266695
+PW00448,MET Receptor Activation,R-HSA-6806942,Reactome pathway R-HSA-6806942
+PW00449,Negative regulation of MET activity,R-HSA-6807004,Reactome pathway R-HSA-6807004
+PW00450,MET activates RAS signaling,R-HSA-8851805,Reactome pathway R-HSA-8851805
+PW00451,MET activates PI3K/AKT signaling,R-HSA-8851907,Reactome pathway R-HSA-8851907
+PW00452,MET activates PTPN11,R-HSA-8865999,Reactome pathway R-HSA-8865999
+PW00453,MET activates PTK2 signaling,R-HSA-8874081,Reactome pathway R-HSA-8874081
+PW00454,MET interacts with TNS proteins,R-HSA-8875513,Reactome pathway R-HSA-8875513
+PW00455,MET activates RAP1 and RAC1,R-HSA-8875555,Reactome pathway R-HSA-8875555
+PW00456,MET receptor recycling,R-HSA-8875656,Reactome pathway R-HSA-8875656
+PW00457,MET activates STAT3,R-HSA-8875791,Reactome pathway R-HSA-8875791
+PW00458,Drug-mediated inhibition of MET activation,R-HSA-9734091,Reactome pathway R-HSA-9734091
+PW00459,hsa:3082,hsa:3082,KEGG gene entry hsa:3082
+PW00460,Caspase activation via Death Receptors in the presence of ligand,R-HSA-140534,Reactome pathway R-HSA-140534
+PW00461,Regulation by c-FLIP,R-HSA-3371378,Reactome pathway R-HSA-3371378
+PW00462,RIPK1-mediated regulated necrosis,R-HSA-5213460,Reactome pathway R-HSA-5213460
+PW00463,CASP8 activity is inhibited,R-HSA-5218900,Reactome pathway R-HSA-5218900
+PW00464,TP53 Regulates Transcription of Death Receptors and Ligands,R-HSA-6803211,Reactome pathway R-HSA-6803211
+PW00465,Dimerization of procaspase-8,R-HSA-69416,Reactome pathway R-HSA-69416
+PW00466,FasL/ CD95L signaling,R-HSA-75157,Reactome pathway R-HSA-75157
+PW00467,hsa:355,hsa:355,KEGG gene entry hsa:355
+PW00468,SUMOylation of intracellular receptors,R-HSA-4090294,Reactome pathway R-HSA-4090294
+PW00469,hsa:7067,hsa:7067,KEGG gene entry hsa:7067
+PW00470,Interleukin-18 signaling,R-HSA-9012546,Reactome pathway R-HSA-9012546
+PW00471,hsa:3565,hsa:3565,KEGG gene entry hsa:3565
+PW00472,MECP2 regulates transcription of neuronal ligands,R-HSA-9022702,Reactome pathway R-HSA-9022702
+PW00473,hsa:6750,hsa:6750,KEGG gene entry hsa:6750
+PW00474,BDNF activates NTRK2 (TRKB) signaling,R-HSA-9024909,Reactome pathway R-HSA-9024909
+PW00475,Activated NTRK2 signals through RAS,R-HSA-9026519,Reactome pathway R-HSA-9026519
+PW00476,Activated NTRK2 signals through PLCG1,R-HSA-9026527,Reactome pathway R-HSA-9026527
+PW00477,Activated NTRK2 signals through PI3K,R-HSA-9028335,Reactome pathway R-HSA-9028335
+PW00478,Activated NTRK2 signals through FRS2 and FRS3,R-HSA-9028731,Reactome pathway R-HSA-9028731
+PW00479,Activated NTRK2 signals through FYN,R-HSA-9032500,Reactome pathway R-HSA-9032500
+PW00480,NTRK2 activates RAC1,R-HSA-9032759,Reactome pathway R-HSA-9032759
+PW00481,Activated NTRK2 signals through CDK5,R-HSA-9032845,Reactome pathway R-HSA-9032845
+PW00482,hsa:627,hsa:627,KEGG gene entry hsa:627
+PW00483,NADPH regeneration,R-HSA-389542,Reactome pathway R-HSA-389542
+PW00484,Iron uptake and transport,R-HSA-917937,Reactome pathway R-HSA-917937
+PW00485,hsa:48,hsa:48,KEGG gene entry hsa:48
+PW00486,Transcriptional activation of mitochondrial biogenesis,R-HSA-2151201,Reactome pathway R-HSA-2151201
+PW00487,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,R-HSA-8862803,Reactome pathway R-HSA-8862803
+PW00488,Mitochondrial unfolded protein response (UPRmt),R-HSA-9841251,Reactome pathway R-HSA-9841251
+PW00489,hsa:6648,hsa:6648,KEGG gene entry hsa:6648
+PW00490,Defective GCLC causes HAGGSD,R-HSA-5578999,Reactome pathway R-HSA-5578999
+PW00491,NFE2L2 regulating anti-oxidant/detoxification enzymes,R-HSA-9818027,Reactome pathway R-HSA-9818027
+PW00492,hsa:2730,hsa:2730,KEGG gene entry hsa:2730
+PW00493,hsa:2729,hsa:2729,KEGG gene entry hsa:2729
+PW00494,InlA-mediated entry of Listeria monocytogenes into host cells,R-HSA-8876493,Reactome pathway R-HSA-8876493
+PW00495,Degradation of CDH1,R-HSA-9766229,Reactome pathway R-HSA-9766229
+PW00496,Regulation of CDH1 posttranslational processing and trafficking to plasma membrane,R-HSA-9768727,Reactome pathway R-HSA-9768727
+PW00497,Formation of definitive endoderm,R-HSA-9823730,Reactome pathway R-HSA-9823730
+PW00498,Transcriptional and post-translational regulation of MITF-M expression and activity,R-HSA-9856649,Reactome pathway R-HSA-9856649
+PW00499,Developmental Lineage of Mammary Gland Myoepithelial Cells,R-HSA-9927432,Reactome pathway R-HSA-9927432
+PW00500,Developmental Lineage of Mammary Stem Cells,R-HSA-9938206,Reactome pathway R-HSA-9938206
+PW00501,hsa:999,hsa:999,KEGG gene entry hsa:999
+PW00502,Pregnenolone biosynthesis,R-HSA-196108,Reactome pathway R-HSA-196108
+PW00503,Fructose biosynthesis,R-HSA-5652227,Reactome pathway R-HSA-5652227
+PW00504,Galactose catabolism,R-HSA-70370,Reactome pathway R-HSA-70370
+PW00505,hsa:231,hsa:231,KEGG gene entry hsa:231
+PW00506,hsa:56477,hsa:56477,KEGG gene entry hsa:56477
+PW00507,hsa:10631,hsa:10631,KEGG gene entry hsa:10631
+PW00508,Prolactin receptor signaling,R-HSA-1170546,Reactome pathway R-HSA-1170546
+PW00509,Growth hormone receptor signaling,R-HSA-982772,Reactome pathway R-HSA-982772
+PW00510,hsa:5617,hsa:5617,KEGG gene entry hsa:5617
+PW00511,hsa:3489,hsa:3489,KEGG gene entry hsa:3489
+PW00512,hsa:3559,hsa:3559,KEGG gene entry hsa:3559
+PW00513,Other interleukin signaling,R-HSA-449836,Reactome pathway R-HSA-449836
+PW00514,Signaling by CSF1 (M-CSF) in myeloid cells,R-HSA-9680350,Reactome pathway R-HSA-9680350
+PW00515,hsa:1435,hsa:1435,KEGG gene entry hsa:1435
+PW00516,Fibronectin matrix formation,R-HSA-1566977,Reactome pathway R-HSA-1566977
+PW00517,hsa:4680,hsa:4680,KEGG gene entry hsa:4680
+PW00518,Intrinsic Pathway of Fibrin Clot Formation,R-HSA-140837,Reactome pathway R-HSA-140837
+PW00519,GRB2:SOS provides linkage to MAPK signaling for Integrins,R-HSA-354194,Reactome pathway R-HSA-354194
+PW00520,p130Cas linkage to MAPK signaling for integrins,R-HSA-372708,Reactome pathway R-HSA-372708
+PW00521,GP1b-IX-V activation signalling,R-HSA-430116,Reactome pathway R-HSA-430116
+PW00522,Platelet Adhesion to exposed collagen,R-HSA-75892,Reactome pathway R-HSA-75892
+PW00523,Platelet Aggregation (Plug Formation),R-HSA-76009,Reactome pathway R-HSA-76009
+PW00524,Defective F8 cleavage by thrombin,R-HSA-9672391,Reactome pathway R-HSA-9672391
+PW00525,Defective F8 binding to von Willebrand factor,R-HSA-9672393,Reactome pathway R-HSA-9672393
+PW00526,Enhanced cleavage of VWF variant by ADAMTS13,R-HSA-9845619,Reactome pathway R-HSA-9845619
+PW00527,Enhanced binding of GP1BA variant to VWF multimer:collagen,R-HSA-9845620,Reactome pathway R-HSA-9845620
+PW00528,hsa:7450,hsa:7450,KEGG gene entry hsa:7450
+PW00529,hsa:55,hsa:55,KEGG gene entry hsa:55
+PW00530,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),R-HSA-2404192,Reactome pathway R-HSA-2404192
+PW00531,IRS-related events triggered by IGF1R,R-HSA-2428928,Reactome pathway R-HSA-2428928
+PW00532,SHC-related events triggered by IGF1R,R-HSA-2428933,Reactome pathway R-HSA-2428933
+PW00533,hsa:3481,hsa:3481,KEGG gene entry hsa:3481
+PW00534,Intracellular metabolism of fatty acids regulates insulin secretion,R-HSA-434313,Reactome pathway R-HSA-434313
+PW00535,Synthesis of very long-chain fatty acyl-CoAs,R-HSA-75876,Reactome pathway R-HSA-75876
+PW00536,hsa:2181,hsa:2181,KEGG gene entry hsa:2181
+PW00537,phospho-PLA2 pathway,R-HSA-111995,Reactome pathway R-HSA-111995
+PW00538,RAF-independent MAPK1/3 activation,R-HSA-112409,Reactome pathway R-HSA-112409
+PW00539,MAPK1 (ERK2) activation,R-HSA-112411,Reactome pathway R-HSA-112411
+PW00540,Signaling by NODAL,R-HSA-1181150,Reactome pathway R-HSA-1181150
+PW00541,Spry regulation of FGF signaling,R-HSA-1295596,Reactome pathway R-HSA-1295596
+PW00542,Signaling by Activin,R-HSA-1502540,Reactome pathway R-HSA-1502540
+PW00543,Golgi Cisternae Pericentriolar Stack Reorganization,R-HSA-162658,Reactome pathway R-HSA-162658
+PW00544,Frs2-mediated activation,R-HSA-170968,Reactome pathway R-HSA-170968
+PW00545,ERK/MAPK targets,R-HSA-198753,Reactome pathway R-HSA-198753
+PW00546,ERKs are inactivated,R-HSA-202670,Reactome pathway R-HSA-202670
+PW00547,Regulation of actin dynamics for phagocytic cup formation,R-HSA-2029482,Reactome pathway R-HSA-2029482
+PW00548,Downregulation of SMAD2/3:SMAD4 transcriptional activity,R-HSA-2173795,Reactome pathway R-HSA-2173795
+PW00549,FCERI mediated MAPK activation,R-HSA-2871796,Reactome pathway R-HSA-2871796
+PW00550,NCAM signaling for neurite out-growth,R-HSA-375165,Reactome pathway R-HSA-375165
+PW00551,Recycling pathway of L1,R-HSA-437239,Reactome pathway R-HSA-437239
+PW00552,hsa:5594,hsa:5594,KEGG gene entry hsa:5594
+PW00553,Apoptotic cleavage of cellular proteins,R-HSA-111465,Reactome pathway R-HSA-111465
+PW00554,Effects of PIP2 hydrolysis,R-HSA-114508,Reactome pathway R-HSA-114508
+PW00555,"Inactivation, recovery and regulation of the phototransduction cascade",R-HSA-2514859,Reactome pathway R-HSA-2514859
+PW00556,FCERI mediated NF-kB activation,R-HSA-2871837,Reactome pathway R-HSA-2871837
+PW00557,Netrin-1 signaling,R-HSA-373752,Reactome pathway R-HSA-373752
+PW00558,G alpha (z) signalling events,R-HSA-418597,Reactome pathway R-HSA-418597
+PW00559,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,R-HSA-8936459,Reactome pathway R-HSA-8936459
+PW00560,RAS processing,R-HSA-9648002,Reactome pathway R-HSA-9648002
+PW00561,hsa:5588,hsa:5588,KEGG gene entry hsa:5588
+PW00562,Signaling by PDGF,R-HSA-186797,Reactome pathway R-HSA-186797
+PW00563,hsa:5159,hsa:5159,KEGG gene entry hsa:5159
+PW00564,Synthesis of PC,R-HSA-1483191,Reactome pathway R-HSA-1483191
+PW00565,WNT mediated activation of DVL,R-HSA-201688,Reactome pathway R-HSA-201688
+PW00566,Condensation of Prometaphase Chromosomes,R-HSA-2514853,Reactome pathway R-HSA-2514853
+PW00567,Signal transduction by L1,R-HSA-445144,Reactome pathway R-HSA-445144
+PW00568,Regulation of TP53 Activity through Phosphorylation,R-HSA-6804756,Reactome pathway R-HSA-6804756
+PW00569,Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,R-HSA-6814122,Reactome pathway R-HSA-6814122
+PW00570,Receptor Mediated Mitophagy,R-HSA-8934903,Reactome pathway R-HSA-8934903
+PW00571,RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,R-HSA-8939243,Reactome pathway R-HSA-8939243
+PW00572,Regulation of PTEN stability and activity,R-HSA-8948751,Reactome pathway R-HSA-8948751
+PW00573,KEAP1-NFE2L2 pathway,R-HSA-9755511,Reactome pathway R-HSA-9755511
+PW00574,Maturation of hRSV A proteins,R-HSA-9828806,Reactome pathway R-HSA-9828806
+PW00575,Phosphorylation and nuclear translocation of BMAL1 (ARNTL) and CLOCK,R-HSA-9931529,Reactome pathway R-HSA-9931529
+PW00576,Phosphorylation and nuclear translocation of the CRY:PER:kinase complex,R-HSA-9931530,Reactome pathway R-HSA-9931530
+PW00577,hsa:1457,hsa:1457,KEGG gene entry hsa:1457
+PW00578,DARPP-32 events,R-HSA-180024,Reactome pathway R-HSA-180024
+PW00579,CRMPs in Sema3A signaling,R-HSA-399956,Reactome pathway R-HSA-399956
+PW00580,Factors involved in megakaryocyte development and platelet production,R-HSA-983231,Reactome pathway R-HSA-983231
+PW00581,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,R-HSA-9841922,Reactome pathway R-HSA-9841922
+PW00582,hsa:1020,hsa:1020,KEGG gene entry hsa:1020
+PW00583,RHOC GTPase cycle,R-HSA-9013106,Reactome pathway R-HSA-9013106
+PW00584,hsa:9748,hsa:9748,KEGG gene entry hsa:9748
+PW00585,Regulation of KIT signaling,R-HSA-1433559,Reactome pathway R-HSA-1433559
+PW00586,Nef and signal transduction,R-HSA-164944,Reactome pathway R-HSA-164944
+PW00587,FCGR activation,R-HSA-2029481,Reactome pathway R-HSA-2029481
+PW00588,PECAM1 interactions,R-HSA-210990,Reactome pathway R-HSA-210990
+PW00589,EPH-Ephrin signaling,R-HSA-2682334,Reactome pathway R-HSA-2682334
+PW00590,Nephrin family interactions,R-HSA-373753,Reactome pathway R-HSA-373753
+PW00591,Co-stimulation by CD28,R-HSA-389356,Reactome pathway R-HSA-389356
+PW00592,CD28 dependent PI3K/Akt signaling,R-HSA-389357,Reactome pathway R-HSA-389357
+PW00593,CD28 dependent Vav1 pathway,R-HSA-389359,Reactome pathway R-HSA-389359
+PW00594,Co-inhibition by CTLA4,R-HSA-389513,Reactome pathway R-HSA-389513
+PW00595,EPHB-mediated forward signaling,R-HSA-3928662,Reactome pathway R-HSA-3928662
+PW00596,hsa:2534,hsa:2534,KEGG gene entry hsa:2534
+PW00597,hsa:2321,hsa:2321,KEGG gene entry hsa:2321
+PW00598,CaMK IV-mediated phosphorylation of CREB,R-HSA-111932,Reactome pathway R-HSA-111932
+PW00599,CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde,R-HSA-442729,Reactome pathway R-HSA-442729
+PW00600,Activation of RAC1 downstream of NMDARs,R-HSA-9619229,Reactome pathway R-HSA-9619229
+PW00601,Activation of AMPK downstream of NMDARs,R-HSA-9619483,Reactome pathway R-HSA-9619483
+PW00602,hsa:10645,hsa:10645,KEGG gene entry hsa:10645
+PW00603,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,R-HSA-166058,Reactome pathway R-HSA-166058
+PW00604,FCERI mediated Ca+2 mobilization,R-HSA-2871809,Reactome pathway R-HSA-2871809
+PW00605,MyD88 deficiency (TLR2/4),R-HSA-5602498,Reactome pathway R-HSA-5602498
+PW00606,IRAK4 deficiency (TLR2/4),R-HSA-5603041,Reactome pathway R-HSA-5603041
+PW00607,RHO GTPases Activate WASPs and WAVEs,R-HSA-5663213,Reactome pathway R-HSA-5663213
+PW00608,G beta:gamma signalling through BTK,R-HSA-8964315,Reactome pathway R-HSA-8964315
+PW00609,FCGR3A-mediated phagocytosis,R-HSA-9664422,Reactome pathway R-HSA-9664422
+PW00610,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,R-HSA-983695,Reactome pathway R-HSA-983695
+PW00611,hsa:695,hsa:695,KEGG gene entry hsa:695
+PW00612,Sema4D mediated inhibition of cell attachment and migration,R-HSA-416550,Reactome pathway R-HSA-416550
+PW00613,InlB-mediated entry of Listeria monocytogenes into host cell,R-HSA-8875360,Reactome pathway R-HSA-8875360
+PW00614,MECP2 regulates neuronal receptors and channels,R-HSA-9022699,Reactome pathway R-HSA-9022699
+PW00615,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,R-HSA-9825892,Reactome pathway R-HSA-9825892
+PW00616,hsa:4233,hsa:4233,KEGG gene entry hsa:4233
+PW00617,Formation of RNA Pol II elongation complex,R-HSA-112382,Reactome pathway R-HSA-112382
+PW00618,Formation of the Early Elongation Complex,R-HSA-113418,Reactome pathway R-HSA-113418
+PW00619,Formation of HIV elongation complex in the absence of HIV Tat,R-HSA-167152,Reactome pathway R-HSA-167152
+PW00620,Formation of the HIV-1 Early Elongation Complex,R-HSA-167158,Reactome pathway R-HSA-167158
+PW00621,RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,R-HSA-167160,Reactome pathway R-HSA-167160
+PW00622,HIV Transcription Initiation,R-HSA-167161,Reactome pathway R-HSA-167161
+PW00623,RNA Polymerase II HIV Promoter Escape,R-HSA-167162,Reactome pathway R-HSA-167162
+PW00624,Transcription of the HIV genome,R-HSA-167172,Reactome pathway R-HSA-167172
+PW00625,Formation of HIV-1 elongation complex containing HIV-1 Tat,R-HSA-167200,Reactome pathway R-HSA-167200
+PW00626,Tat-mediated elongation of the HIV-1 transcript,R-HSA-167246,Reactome pathway R-HSA-167246
+PW00627,NoRC negatively regulates rRNA expression,R-HSA-427413,Reactome pathway R-HSA-427413
+PW00628,Formation of Incision Complex in GG-NER,R-HSA-5696395,Reactome pathway R-HSA-5696395
+PW00629,RNA Polymerase II Pre-transcription Events,R-HSA-674695,Reactome pathway R-HSA-674695
+PW00630,Formation of TC-NER Pre-Incision Complex,R-HSA-6781823,Reactome pathway R-HSA-6781823
+PW00631,Transcription-Coupled Nucleotide Excision Repair (TC-NER),R-HSA-6781827,Reactome pathway R-HSA-6781827
+PW00632,Dual incision in TC-NER,R-HSA-6782135,Reactome pathway R-HSA-6782135
+PW00633,Gap-filling DNA repair synthesis and ligation in TC-NER,R-HSA-6782210,Reactome pathway R-HSA-6782210
+PW00634,RNA polymerase II transcribes snRNA genes,R-HSA-6807505,Reactome pathway R-HSA-6807505
+PW00635,hsa:1022,hsa:1022,KEGG gene entry hsa:1022
+PW00636,EPHA-mediated growth cone collapse,R-HSA-3928663,Reactome pathway R-HSA-3928663
+PW00637,Regulation of signaling by CBL,R-HSA-912631,Reactome pathway R-HSA-912631
+PW00638,FCGR3A-mediated IL10 synthesis,R-HSA-9664323,Reactome pathway R-HSA-9664323
+PW00639,"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",R-HSA-9670439,Reactome pathway R-HSA-9670439
+PW00640,hsa:7525,hsa:7525,KEGG gene entry hsa:7525
+PW00641,ARMS-mediated activation,R-HSA-170984,Reactome pathway R-HSA-170984
+PW00642,Signalling to p38 via RIT and RIN,R-HSA-187706,Reactome pathway R-HSA-187706
+PW00643,RAF activation,R-HSA-5673000,Reactome pathway R-HSA-5673000
+PW00644,Negative feedback regulation of MAPK pathway,R-HSA-5674499,Reactome pathway R-HSA-5674499
+PW00645,Negative regulation of MAPK pathway,R-HSA-5675221,Reactome pathway R-HSA-5675221
+PW00646,SHOC2 M1731 mutant abolishes MRAS complex function,R-HSA-9726840,Reactome pathway R-HSA-9726840
+PW00647,Gain-of-function MRAS complexes activate RAF signaling,R-HSA-9726842,Reactome pathway R-HSA-9726842
+PW00648,hsa:673,hsa:673,KEGG gene entry hsa:673
+PW00649,hsa:81,hsa:81,KEGG gene entry hsa:81
+PW00650,Neurexins and neuroligins,R-HSA-6794361,Reactome pathway R-HSA-6794361
+PW00651,hsa:9378,hsa:9378,KEGG gene entry hsa:9378
+PW00652,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,R-HSA-1234176,Reactome pathway R-HSA-1234176
+PW00653,SUMOylation of ubiquitinylation proteins,R-HSA-3232142,Reactome pathway R-HSA-3232142
+PW00654,Replication of the SARS-CoV-1 genome,R-HSA-9682706,Reactome pathway R-HSA-9682706
+PW00655,Replication of the SARS-CoV-2 genome,R-HSA-9694686,Reactome pathway R-HSA-9694686
+PW00656,RHOBTB3 ATPase cycle,R-HSA-9706019,Reactome pathway R-HSA-9706019
+PW00657,Antigen processing: Ubiquitination & Proteasome degradation,R-HSA-983168,Reactome pathway R-HSA-983168
+PW00658,hsa:7428,hsa:7428,KEGG gene entry hsa:7428
+PW00659,Metal ion SLC transporters,R-HSA-425410,Reactome pathway R-HSA-425410
+PW00660,Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages),R-HSA-5619049,Reactome pathway R-HSA-5619049
+PW00661,Defective CP causes aceruloplasminemia (ACERULOP),R-HSA-5619060,Reactome pathway R-HSA-5619060
+PW00662,hsa:1356,hsa:1356,KEGG gene entry hsa:1356
+PW00663,Nuclear signaling by ERBB4,R-HSA-1251985,Reactome pathway R-HSA-1251985
+PW00664,Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,R-HSA-8864260,Reactome pathway R-HSA-8864260
+PW00665,HDL remodeling,R-HSA-8964058,Reactome pathway R-HSA-8964058
+PW00666,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,R-HSA-9029569,Reactome pathway R-HSA-9029569
+PW00667,hsa:348,hsa:348,KEGG gene entry hsa:348
+PW00668,hsa:6767,hsa:6767,KEGG gene entry hsa:6767
+PW00669,Aspartate and asparagine metabolism,R-HSA-8963693,Reactome pathway R-HSA-8963693
+PW00670,hsa:2346,hsa:2346,KEGG gene entry hsa:2346
+PW00671,hsa:3606,hsa:3606,KEGG gene entry hsa:3606
+PW00672,hsa:2944,hsa:2944,KEGG gene entry hsa:2944
+PW00673,Glycerophospholipid biosynthesis,R-HSA-1483206,Reactome pathway R-HSA-1483206
+PW00674,hsa:283871,hsa:283871,KEGG gene entry hsa:283871
+PW00675,hsa:2952,hsa:2952,KEGG gene entry hsa:2952
+PW00676,MAPK3 (ERK1) activation,R-HSA-110056,Reactome pathway R-HSA-110056
+PW00677,ISG15 antiviral mechanism,R-HSA-1169408,Reactome pathway R-HSA-1169408
+PW00678,RSK activation,R-HSA-444257,Reactome pathway R-HSA-444257
+PW00679,hsa:5595,hsa:5595,KEGG gene entry hsa:5595
+PW00680,hsa:9518,hsa:9518,KEGG gene entry hsa:9518
+PW00681,DDX58/IFIH1-mediated induction of interferon-alpha/beta,R-HSA-168928,Reactome pathway R-HSA-168928
+PW00682,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,R-HSA-3371497,Reactome pathway R-HSA-3371497
+PW00683,HSF1 activation,R-HSA-3371511,Reactome pathway R-HSA-3371511
+PW00684,Attenuation phase,R-HSA-3371568,Reactome pathway R-HSA-3371568
+PW00685,HSF1-dependent transactivation,R-HSA-3371571,Reactome pathway R-HSA-3371571
+PW00686,Sema3A PAK dependent Axon repulsion,R-HSA-399954,Reactome pathway R-HSA-399954
+PW00687,Uptake and function of diphtheria toxin,R-HSA-5336415,Reactome pathway R-HSA-5336415
+PW00688,The NLRP3 inflammasome,R-HSA-844456,Reactome pathway R-HSA-844456
+PW00689,Aryl hydrocarbon receptor signalling,R-HSA-8937144,Reactome pathway R-HSA-8937144
+PW00690,ESR-mediated signaling,R-HSA-8939211,Reactome pathway R-HSA-8939211
+PW00691,RHOBTB2 GTPase cycle,R-HSA-9013418,Reactome pathway R-HSA-9013418
+PW00692,Chaperone Mediated Autophagy,R-HSA-9613829,Reactome pathway R-HSA-9613829
+PW00693,SARS-CoV-2 activates/modulates innate and adaptive immune responses,R-HSA-9705671,Reactome pathway R-HSA-9705671
+PW00694,Assembly and release of respiratory syncytial virus (RSV) virions,R-HSA-9820962,Reactome pathway R-HSA-9820962
+PW00695,hsa:3326,hsa:3326,KEGG gene entry hsa:3326
+PW00696,The canonical retinoid cycle in rods (twilight vision),R-HSA-2453902,Reactome pathway R-HSA-2453902
+PW00697,Defective visual phototransduction due to STRA6 loss of function,R-HSA-9918449,Reactome pathway R-HSA-9918449
+PW00698,hsa:7276,hsa:7276,KEGG gene entry hsa:7276
+PW00699,Biosynthesis of Lipoxins (LX),R-HSA-2142700,Reactome pathway R-HSA-2142700
+PW00700,Biosynthesis of D-series resolvins,R-HSA-9018676,Reactome pathway R-HSA-9018676
+PW00701,Biosynthesis of E-series 18(S)-resolvins,R-HSA-9018896,Reactome pathway R-HSA-9018896
+PW00702,hsa:3248,hsa:3248,KEGG gene entry hsa:3248
+PW00703,Fructose catabolism,R-HSA-70350,Reactome pathway R-HSA-70350
+PW00704,hsa:216,hsa:216,KEGG gene entry hsa:216
+PW00705,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",R-HSA-1474151,Reactome pathway R-HSA-1474151
+PW00706,vRNP Assembly,R-HSA-192905,Reactome pathway R-HSA-192905
+PW00707,eNOS activation,R-HSA-203615,Reactome pathway R-HSA-203615
+PW00708,Regulation of PLK1 Activity at G2/M Transition,R-HSA-2565942,Reactome pathway R-HSA-2565942
+PW00709,Loss of Nlp from mitotic centrosomes,R-HSA-380259,Reactome pathway R-HSA-380259
+PW00710,Recruitment of mitotic centrosome proteins and complexes,R-HSA-380270,Reactome pathway R-HSA-380270
+PW00711,Loss of proteins required for interphase microtubule organization from the centrosome,R-HSA-380284,Reactome pathway R-HSA-380284
+PW00712,Recruitment of NuMA to mitotic centrosomes,R-HSA-380320,Reactome pathway R-HSA-380320
+PW00713,hsa:3320,hsa:3320,KEGG gene entry hsa:3320
+PW00714,NOTCH3 Intracellular Domain Regulates Transcription,R-HSA-9013508,Reactome pathway R-HSA-9013508
+PW00715,hsa:10320,hsa:10320,KEGG gene entry hsa:10320
+PW00716,hsa:2022,hsa:2022,KEGG gene entry hsa:2022
+PW00717,Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate,R-HSA-2978092,Reactome pathway R-HSA-2978092
+PW00718,Peroxisomal protein import,R-HSA-9033241,Reactome pathway R-HSA-9033241
+PW00719,NFE2L2 regulating TCA cycle genes,R-HSA-9818025,Reactome pathway R-HSA-9818025
+PW00720,hsa:3417,hsa:3417,KEGG gene entry hsa:3417
+PW00721,Endosomal/Vacuolar pathway,R-HSA-1236977,Reactome pathway R-HSA-1236977
+PW00722,DAP12 interactions,R-HSA-2172127,Reactome pathway R-HSA-2172127
+PW00723,Interferon alpha/beta signaling,R-HSA-909733,Reactome pathway R-HSA-909733
+PW00724,hsa:3107,hsa:3107,KEGG gene entry hsa:3107
+PW00725,betaKlotho-mediated ligand binding,R-HSA-1307965,Reactome pathway R-HSA-1307965
+PW00726,FGFR4 mutant receptor activation,R-HSA-1839128,Reactome pathway R-HSA-1839128
+PW00727,FRS-mediated FGFR4 signaling,R-HSA-5654712,Reactome pathway R-HSA-5654712
+PW00728,SHC-mediated cascade:FGFR4,R-HSA-5654719,Reactome pathway R-HSA-5654719
+PW00729,PI-3K cascade:FGFR4,R-HSA-5654720,Reactome pathway R-HSA-5654720
+PW00730,Negative regulation of FGFR4 signaling,R-HSA-5654733,Reactome pathway R-HSA-5654733
+PW00731,Signaling by FGFR4 in disease,R-HSA-5655291,Reactome pathway R-HSA-5655291
+PW00732,hsa:2264,hsa:2264,KEGG gene entry hsa:2264
+PW00733,hsa:5241,hsa:5241,KEGG gene entry hsa:5241
+PW00734,Endogenous sterols,R-HSA-211976,Reactome pathway R-HSA-211976
+PW00735,Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),R-HSA-2142670,Reactome pathway R-HSA-2142670
+PW00736,Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),R-HSA-2142816,Reactome pathway R-HSA-2142816
+PW00737,Defective CYP1B1 causes Glaucoma,R-HSA-5579000,Reactome pathway R-HSA-5579000
+PW00738,hsa:1545,hsa:1545,KEGG gene entry hsa:1545
+PW00739,Resolution of AP sites via the single-nucleotide replacement pathway,R-HSA-110381,Reactome pathway R-HSA-110381
+PW00740,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,R-HSA-5649702,Reactome pathway R-HSA-5649702
+PW00741,HDR through MMEJ (alt-NHEJ),R-HSA-5685939,Reactome pathway R-HSA-5685939
+PW00742,Gap-filling DNA repair synthesis and ligation in GG-NER,R-HSA-5696397,Reactome pathway R-HSA-5696397
+PW00743,hsa:7515,hsa:7515,KEGG gene entry hsa:7515
+PW00744,Formation of apoptosome,R-HSA-111458,Reactome pathway R-HSA-111458
+PW00745,Activation of caspases through apoptosome-mediated cleavage,R-HSA-111459,Reactome pathway R-HSA-111459
+PW00746,SMAC (DIABLO) binds to IAPs,R-HSA-111463,Reactome pathway R-HSA-111463
+PW00747,SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes,R-HSA-111464,Reactome pathway R-HSA-111464
+PW00748,Regulation of the apoptosome activity,R-HSA-9627069,Reactome pathway R-HSA-9627069
+PW00749,hsa:317,hsa:317,KEGG gene entry hsa:317
+PW00750,FOXO-mediated transcription of cell death genes,R-HSA-9614657,Reactome pathway R-HSA-9614657
+PW00751,hsa:356,hsa:356,KEGG gene entry hsa:356
+PW00752,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),R-HSA-5358565,Reactome pathway R-HSA-5358565
+PW00753,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),R-HSA-5358606,Reactome pathway R-HSA-5358606
+PW00754,Defective Mismatch Repair Associated With MSH3,R-HSA-5632927,Reactome pathway R-HSA-5632927
+PW00755,Defective Mismatch Repair Associated With MSH2,R-HSA-5632928,Reactome pathway R-HSA-5632928
+PW00756,Defective Mismatch Repair Associated With MSH6,R-HSA-5632968,Reactome pathway R-HSA-5632968
+PW00757,hsa:4436,hsa:4436,KEGG gene entry hsa:4436
+PW00758,Nicotinate metabolism,R-HSA-196807,Reactome pathway R-HSA-196807
+PW00759,Pyrimidine catabolism,R-HSA-73621,Reactome pathway R-HSA-73621
+PW00760,Purine catabolism,R-HSA-74259,Reactome pathway R-HSA-74259
+PW00761,hsa:4907,hsa:4907,KEGG gene entry hsa:4907
+PW00762,NOD1/2 Signaling Pathway,R-HSA-168638,Reactome pathway R-HSA-168638
+PW00763,p38MAPK events,R-HSA-171007,Reactome pathway R-HSA-171007
+PW00764,Activation of PPARGC1A (PGC-1alpha) by phosphorylation,R-HSA-2151209,Reactome pathway R-HSA-2151209
+PW00765,ADP signalling through P2Y purinoceptor 1,R-HSA-418592,Reactome pathway R-HSA-418592
+PW00766,activated TAK1 mediates p38 MAPK activation,R-HSA-450302,Reactome pathway R-HSA-450302
+PW00767,Activation of the AP-1 family of transcription factors,R-HSA-450341,Reactome pathway R-HSA-450341
+PW00768,KSRP (KHSRP) binds and destabilizes mRNA,R-HSA-450604,Reactome pathway R-HSA-450604
+PW00769,RHO GTPases Activate NADPH Oxidases,R-HSA-5668599,Reactome pathway R-HSA-5668599
+PW00770,CD163 mediating an anti-inflammatory response,R-HSA-9662834,Reactome pathway R-HSA-9662834
+PW00771,Regulation of MITF-M-dependent genes involved in pigmentation,R-HSA-9824585,Reactome pathway R-HSA-9824585
+PW00772,hsa:1432,hsa:1432,KEGG gene entry hsa:1432
+PW00773,TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,R-HSA-6804114,Reactome pathway R-HSA-6804114
+PW00774,hsa:1647,hsa:1647,KEGG gene entry hsa:1647
+PW00775,Formation of intermediate mesoderm,R-HSA-9761174,Reactome pathway R-HSA-9761174
+PW00776,hsa:7849,hsa:7849,KEGG gene entry hsa:7849
+PW00777,Glucocorticoid biosynthesis,R-HSA-194002,Reactome pathway R-HSA-194002
+PW00778,hsa:866,hsa:866,KEGG gene entry hsa:866
+PW00779,hsa:6275,hsa:6275,KEGG gene entry hsa:6275
+PW00780,Meiotic synapsis,R-HSA-1221632,Reactome pathway R-HSA-1221632
+PW00781,SUMOylation of DNA damage response and repair proteins,R-HSA-3108214,Reactome pathway R-HSA-3108214
+PW00782,HDR through Single Strand Annealing (SSA),R-HSA-5685938,Reactome pathway R-HSA-5685938
+PW00783,HDR through Homologous Recombination (HRR),R-HSA-5685942,Reactome pathway R-HSA-5685942
+PW00784,Metalloprotease DUBs,R-HSA-5689901,Reactome pathway R-HSA-5689901
+PW00785,Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA),R-HSA-5693554,Reactome pathway R-HSA-5693554
+PW00786,Resolution of D-loop Structures through Holliday Junction Intermediates,R-HSA-5693568,Reactome pathway R-HSA-5693568
+PW00787,Nonhomologous End-Joining (NHEJ),R-HSA-5693571,Reactome pathway R-HSA-5693571
+PW00788,Homologous DNA Pairing and Strand Exchange,R-HSA-5693579,Reactome pathway R-HSA-5693579
+PW00789,Processing of DNA double-strand break ends,R-HSA-5693607,Reactome pathway R-HSA-5693607
+PW00790,Presynaptic phase of homologous DNA pairing and strand exchange,R-HSA-5693616,Reactome pathway R-HSA-5693616
+PW00791,G2/M DNA damage checkpoint,R-HSA-69473,Reactome pathway R-HSA-69473
+PW00792,Meiotic recombination,R-HSA-912446,Reactome pathway R-HSA-912446
+PW00793,Defective DNA double strand break response due to BRCA1 loss of function,R-HSA-9663199,Reactome pathway R-HSA-9663199
+PW00794,Defective DNA double strand break response due to BARD1 loss of function,R-HSA-9699150,Reactome pathway R-HSA-9699150
+PW00795,hsa:672,hsa:672,KEGG gene entry hsa:672
+PW00796,hsa:218,hsa:218,KEGG gene entry hsa:218
+PW00797,hsa:2878,hsa:2878,KEGG gene entry hsa:2878
+PW00798,hsa:2947,hsa:2947,KEGG gene entry hsa:2947
+PW00799,L13a-mediated translational silencing of Ceruloplasmin expression,R-HSA-156827,Reactome pathway R-HSA-156827
+PW00800,Peptide chain elongation,R-HSA-156902,Reactome pathway R-HSA-156902
+PW00801,SRP-dependent cotranslational protein targeting to membrane,R-HSA-1799339,Reactome pathway R-HSA-1799339
+PW00802,Viral mRNA Translation,R-HSA-192823,Reactome pathway R-HSA-192823
+PW00803,Selenocysteine synthesis,R-HSA-2408557,Reactome pathway R-HSA-2408557
+PW00804,Major pathway of rRNA processing in the nucleolus and cytosol,R-HSA-6791226,Reactome pathway R-HSA-6791226
+PW00805,Translation initiation complex formation,R-HSA-72649,Reactome pathway R-HSA-72649
+PW00806,Formation of a pool of free 40S subunits,R-HSA-72689,Reactome pathway R-HSA-72689
+PW00807,"Formation of the ternary complex, and subsequently, the 43S complex",R-HSA-72695,Reactome pathway R-HSA-72695
+PW00808,Ribosomal scanning and start codon recognition,R-HSA-72702,Reactome pathway R-HSA-72702
+PW00809,GTP hydrolysis and joining of the 60S ribosomal subunit,R-HSA-72706,Reactome pathway R-HSA-72706
+PW00810,Eukaryotic Translation Termination,R-HSA-72764,Reactome pathway R-HSA-72764
+PW00811,Regulation of expression of SLITs and ROBOs,R-HSA-9010553,Reactome pathway R-HSA-9010553
+PW00812,Response of EIF2AK4 (GCN2) to amino acid deficiency,R-HSA-9633012,Reactome pathway R-HSA-9633012
+PW00813,SARS-CoV-1 modulates host translation machinery,R-HSA-9735869,Reactome pathway R-HSA-9735869
+PW00814,SARS-CoV-2 modulates host translation machinery,R-HSA-9754678,Reactome pathway R-HSA-9754678
+PW00815,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),R-HSA-975956,Reactome pathway R-HSA-975956
+PW00816,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),R-HSA-975957,Reactome pathway R-HSA-975957
+PW00817,hsa:3921,hsa:3921,KEGG gene entry hsa:3921
+PW00818,hsa:2026,hsa:2026,KEGG gene entry hsa:2026
+PW00819,TNFs bind their physiological receptors,R-HSA-5669034,Reactome pathway R-HSA-5669034
+PW00820,hsa:7133,hsa:7133,KEGG gene entry hsa:7133
+PW00821,Extrinsic Pathway of Fibrin Clot Formation,R-HSA-140834,Reactome pathway R-HSA-140834
+PW00822,hsa:7035,hsa:7035,KEGG gene entry hsa:7035
+PW00823,SOS-mediated signalling,R-HSA-112412,Reactome pathway R-HSA-112412
+PW00824,Activation of RAS in B cells,R-HSA-1169092,Reactome pathway R-HSA-1169092
+PW00825,SHC1 events in ERBB4 signaling,R-HSA-1250347,Reactome pathway R-HSA-1250347
+PW00826,Signalling to RAS,R-HSA-167044,Reactome pathway R-HSA-167044
+PW00827,GRB2 events in EGFR signaling,R-HSA-179812,Reactome pathway R-HSA-179812
+PW00828,SHC1 events in EGFR signaling,R-HSA-180336,Reactome pathway R-HSA-180336
+PW00829,Ras activation upon Ca2+ influx through NMDA receptor,R-HSA-442982,Reactome pathway R-HSA-442982
+PW00830,hsa:4893,hsa:4893,KEGG gene entry hsa:4893
+PW00831,Erythrocytes take up carbon dioxide and release oxygen,R-HSA-1237044,Reactome pathway R-HSA-1237044
+PW00832,Erythrocytes take up oxygen and release carbon dioxide,R-HSA-1247673,Reactome pathway R-HSA-1247673
+PW00833,Scavenging of heme from plasma,R-HSA-2168880,Reactome pathway R-HSA-2168880
+PW00834,Late endosomal microautophagy,R-HSA-9615710,Reactome pathway R-HSA-9615710
+PW00835,Cytoprotection by HMOX1,R-HSA-9707564,Reactome pathway R-HSA-9707564
+PW00836,Heme assimilation,R-HSA-9927020,Reactome pathway R-HSA-9927020
+PW00837,hsa:3043,hsa:3043,KEGG gene entry hsa:3043
+PW00838,Interleukin-6 signaling,R-HSA-1059683,Reactome pathway R-HSA-1059683
+PW00839,Signal regulatory protein family interactions,R-HSA-391160,Reactome pathway R-HSA-391160
+PW00840,Netrin mediated repulsion signals,R-HSA-418886,Reactome pathway R-HSA-418886
+PW00841,hsa:5781,hsa:5781,KEGG gene entry hsa:5781
+PW00842,hsa:3845,hsa:3845,KEGG gene entry hsa:3845
+PW00843,Translocation of SLC2A4 (GLUT4) to the plasma membrane,R-HSA-1445148,Reactome pathway R-HSA-1445148
+PW00844,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,R-HSA-190840,Reactome pathway R-HSA-190840
+PW00845,Gap junction assembly,R-HSA-190861,Reactome pathway R-HSA-190861
+PW00846,Separation of Sister Chromatids,R-HSA-2467813,Reactome pathway R-HSA-2467813
+PW00847,Resolution of Sister Chromatid Cohesion,R-HSA-2500257,Reactome pathway R-HSA-2500257
+PW00848,Prefoldin mediated transfer of substrate to CCT/TriC,R-HSA-389957,Reactome pathway R-HSA-389957
+PW00849,Formation of tubulin folding intermediates by CCT/TriC,R-HSA-389960,Reactome pathway R-HSA-389960
+PW00850,Post-chaperonin tubulin folding pathway,R-HSA-389977,Reactome pathway R-HSA-389977
+PW00851,Hedgehog 'off' state,R-HSA-5610787,Reactome pathway R-HSA-5610787
+PW00852,Cilium Assembly,R-HSA-5617833,Reactome pathway R-HSA-5617833
+PW00853,Intraflagellar transport,R-HSA-5620924,Reactome pathway R-HSA-5620924
+PW00854,RHO GTPases Activate Formins,R-HSA-5663220,Reactome pathway R-HSA-5663220
+PW00855,COPI-dependent Golgi-to-ER retrograde traffic,R-HSA-6811434,Reactome pathway R-HSA-6811434
+PW00856,COPI-independent Golgi-to-ER retrograde traffic,R-HSA-6811436,Reactome pathway R-HSA-6811436
+PW00857,hsa:84617,hsa:84617,KEGG gene entry hsa:84617
+PW00858,Regulation of ornithine decarboxylase (ODC),R-HSA-350562,Reactome pathway R-HSA-350562
+PW00859,Metabolism of polyamines,R-HSA-351202,Reactome pathway R-HSA-351202
+PW00860,hsa:4953,hsa:4953,KEGG gene entry hsa:4953
+PW00861,Heme degradation,R-HSA-189483,Reactome pathway R-HSA-189483
+PW00862,hsa:2938,hsa:2938,KEGG gene entry hsa:2938
+PW00863,Acetylcholine Neurotransmitter Release Cycle,R-HSA-264642,Reactome pathway R-HSA-264642
+PW00864,"Transport of bile salts and organic acids, metal ions and amine compounds",R-HSA-425366,Reactome pathway R-HSA-425366
+PW00865,Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A),R-HSA-5619114,Reactome pathway R-HSA-5619114
+PW00866,Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A),R-HSA-5658471,Reactome pathway R-HSA-5658471
+PW00867,hsa:60482,hsa:60482,KEGG gene entry hsa:60482
+PW00868,hsa:347733,hsa:347733,KEGG gene entry hsa:347733
+PW00869,Anchoring of the basal body to the plasma membrane,R-HSA-5620912,Reactome pathway R-HSA-5620912
+PW00870,hsa:7846,hsa:7846,KEGG gene entry hsa:7846
+PW00871,AMPK inhibits chREBP transcriptional activation activity,R-HSA-163680,Reactome pathway R-HSA-163680
+PW00872,hsa:9370,hsa:9370,KEGG gene entry hsa:9370
+PW00873,hsa:10758,hsa:10758,KEGG gene entry hsa:10758
+PW00874,Transcriptional Regulation by VENTX,R-HSA-8853884,Reactome pathway R-HSA-8853884
+PW00875,ADORA2B mediated anti-inflammatory cytokines production,R-HSA-9660821,Reactome pathway R-HSA-9660821
+PW00876,hsa:3569,hsa:3569,KEGG gene entry hsa:3569
+PW00877,Cellular hexose transport,R-HSA-189200,Reactome pathway R-HSA-189200
+PW00878,Vitamin C (ascorbate) metabolism,R-HSA-196836,Reactome pathway R-HSA-196836
+PW00879,hsa:6515,hsa:6515,KEGG gene entry hsa:6515
+PW00880,Activation of BAD and translocation to mitochondria,R-HSA-111447,Reactome pathway R-HSA-111447
+PW00881,Signaling by Hippo,R-HSA-2028269,Reactome pathway R-HSA-2028269
+PW00882,NADE modulates death signalling,R-HSA-205025,Reactome pathway R-HSA-205025
+PW00883,RHO GTPases activate PKNs,R-HSA-5625740,Reactome pathway R-HSA-5625740
+PW00884,Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,R-HSA-75035,Reactome pathway R-HSA-75035
+PW00885,AURKA Activation by TPX2,R-HSA-8854518,Reactome pathway R-HSA-8854518
+PW00886,RAB GEFs exchange GTP for GDP on RABs,R-HSA-8876198,Reactome pathway R-HSA-8876198
+PW00887,SARS-CoV-1 targets host intracellular signalling and regulatory pathways,R-HSA-9735871,Reactome pathway R-HSA-9735871
+PW00888,SARS-CoV-2 targets host intracellular signalling and regulatory pathways,R-HSA-9755779,Reactome pathway R-HSA-9755779
+PW00889,hsa:7531,hsa:7531,KEGG gene entry hsa:7531
+PW00890,Developmental Lineage of Pancreatic Acinar Cells,R-HSA-9925561,Reactome pathway R-HSA-9925561
+PW00891,hsa:5967,hsa:5967,KEGG gene entry hsa:5967
+PW00892,hsa:1,hsa:1,KEGG gene entry hsa:1
+PW00893,HDL assembly,R-HSA-8963896,Reactome pathway R-HSA-8963896
+PW00894,hsa:2,hsa:2,KEGG gene entry hsa:2
+PW00895,hsa:12,hsa:12,KEGG gene entry hsa:12
+PW00896,hsa:23671,hsa:23671,KEGG gene entry hsa:23671
+PW00897,hsa:262,hsa:262,KEGG gene entry hsa:262
+PW00898,Glycogen synthesis,R-HSA-3322077,Reactome pathway R-HSA-3322077
+PW00899,Myoclonic epilepsy of Lafora,R-HSA-3785653,Reactome pathway R-HSA-3785653
+PW00900,hsa:7957,hsa:7957,KEGG gene entry hsa:7957
+PW00901,TBC/RABGAPs,R-HSA-8854214,Reactome pathway R-HSA-8854214
+PW00902,hsa:9135,hsa:9135,KEGG gene entry hsa:9135
+PW00903,NFE2L2 regulating inflammation associated genes,R-HSA-9818026,Reactome pathway R-HSA-9818026
+PW00904,hsa:6347,hsa:6347,KEGG gene entry hsa:6347
+PW00905,L1CAM interactions,R-HSA-373760,Reactome pathway R-HSA-373760
+PW00906,hsa:214,hsa:214,KEGG gene entry hsa:214
+PW00907,hsa:26298,hsa:26298,KEGG gene entry hsa:26298
+PW00908,NCAM1 interactions,R-HSA-419037,Reactome pathway R-HSA-419037
+PW00909,hsa:2668,hsa:2668,KEGG gene entry hsa:2668
+PW00910,hsa:5799,hsa:5799,KEGG gene entry hsa:5799
+PW00911,Alternative complement activation,R-HSA-173736,Reactome pathway R-HSA-173736
+PW00912,Activation of C3 and C5,R-HSA-174577,Reactome pathway R-HSA-174577
+PW00913,Regulation of Complement cascade,R-HSA-977606,Reactome pathway R-HSA-977606
+PW00914,hsa:718,hsa:718,KEGG gene entry hsa:718
+PW00915,hsa:3699,hsa:3699,KEGG gene entry hsa:3699
+PW00916,Insulin receptor recycling,R-HSA-77387,Reactome pathway R-HSA-77387
+PW00917,Transferrin endocytosis and recycling,R-HSA-917977,Reactome pathway R-HSA-917977
+PW00918,Ion channel transport,R-HSA-983712,Reactome pathway R-HSA-983712
+PW00919,hsa:537,hsa:537,KEGG gene entry hsa:537
+PW00920,XBP1(S) activates chaperone genes,R-HSA-381038,Reactome pathway R-HSA-381038
+PW00921,IRE1alpha activates chaperones,R-HSA-381070,Reactome pathway R-HSA-381070
+PW00922,hsa:7494,hsa:7494,KEGG gene entry hsa:7494
+PW00923,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,R-HSA-141333,Reactome pathway R-HSA-141333
+PW00924,hsa:4129,hsa:4129,KEGG gene entry hsa:4129
+PW00925,Tachykinin receptors bind tachykinins,R-HSA-380095,Reactome pathway R-HSA-380095
+PW00926,hsa:6863,hsa:6863,KEGG gene entry hsa:6863
+PW00927,ABC transporters in lipid homeostasis,R-HSA-1369062,Reactome pathway R-HSA-1369062
+PW00928,hsa:20,hsa:20,KEGG gene entry hsa:20
+PW00929,Events associated with phagocytolytic activity of PMN cells,R-HSA-8941413,Reactome pathway R-HSA-8941413
+PW00930,hsa:4353,hsa:4353,KEGG gene entry hsa:4353
+PW00931,Recognition and association of DNA glycosylase with site containing an affected pyrimidine,R-HSA-110328,Reactome pathway R-HSA-110328
+PW00932,Cleavage of the damaged pyrimidine,R-HSA-110329,Reactome pathway R-HSA-110329
+PW00933,Recognition and association of DNA glycosylase with site containing an affected purine,R-HSA-110330,Reactome pathway R-HSA-110330
+PW00934,Cleavage of the damaged purine,R-HSA-110331,Reactome pathway R-HSA-110331
+PW00935,Defective OGG1 Substrate Binding,R-HSA-9656255,Reactome pathway R-HSA-9656255
+PW00936,Defective OGG1 Substrate Processing,R-HSA-9656256,Reactome pathway R-HSA-9656256
+PW00937,Defective OGG1 Localization,R-HSA-9657050,Reactome pathway R-HSA-9657050
+PW00938,hsa:4968,hsa:4968,KEGG gene entry hsa:4968
+PW00939,hsa:341,hsa:341,KEGG gene entry hsa:341
+PW00940,hsa:345,hsa:345,KEGG gene entry hsa:345
+PW00941,Ion influx/efflux at host-pathogen interface,R-HSA-6803544,Reactome pathway R-HSA-6803544
+PW00942,hsa:6556,hsa:6556,KEGG gene entry hsa:6556
+PW00943,Common Pathway of Fibrin Clot Formation,R-HSA-140875,Reactome pathway R-HSA-140875
+PW00944,hsa:2153,hsa:2153,KEGG gene entry hsa:2153
+PW00945,hsa:5104,hsa:5104,KEGG gene entry hsa:5104
+PW00946,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,R-HSA-193368,Reactome pathway R-HSA-193368
+PW00947,Synthesis of bile acids and bile salts via 24-hydroxycholesterol,R-HSA-193775,Reactome pathway R-HSA-193775
+PW00948,Synthesis of bile acids and bile salts via 27-hydroxycholesterol,R-HSA-193807,Reactome pathway R-HSA-193807
+PW00949,hsa:1646,hsa:1646,KEGG gene entry hsa:1646
+PW00950,"TICAM1, RIP1-mediated IKK complex recruitment",R-HSA-168927,Reactome pathway R-HSA-168927
+PW00951,TAK1-dependent IKK and NF-kappa-B activation,R-HSA-445989,Reactome pathway R-HSA-445989
+PW00952,JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1,R-HSA-450321,Reactome pathway R-HSA-450321
+PW00953,PINK1-PRKN Mediated Mitophagy,R-HSA-5205685,Reactome pathway R-HSA-5205685
+PW00954,CLEC7A (Dectin-1) signaling,R-HSA-5607764,Reactome pathway R-HSA-5607764
+PW00955,E3 ubiquitin ligases ubiquitinate target proteins,R-HSA-8866654,Reactome pathway R-HSA-8866654
+PW00956,IRAK1 recruits IKK complex,R-HSA-937039,Reactome pathway R-HSA-937039
+PW00957,IKK complex recruitment mediated by RIP1,R-HSA-937041,Reactome pathway R-HSA-937041
+PW00958,Aggrephagy,R-HSA-9646399,Reactome pathway R-HSA-9646399
+PW00959,hsa:7334,hsa:7334,KEGG gene entry hsa:7334
+PW00960,hsa:3486,hsa:3486,KEGG gene entry hsa:3486
+PW00961,Synthesis of IP3 and IP4 in the cytosol,R-HSA-1855204,Reactome pathway R-HSA-1855204
+PW00962,Negative regulation of the PI3K/AKT network,R-HSA-199418,Reactome pathway R-HSA-199418
+PW00963,PTEN Loss of Function in Cancer,R-HSA-5674404,Reactome pathway R-HSA-5674404
+PW00964,Regulation of PTEN mRNA translation,R-HSA-8943723,Reactome pathway R-HSA-8943723
+PW00965,Regulation of PTEN localization,R-HSA-8948747,Reactome pathway R-HSA-8948747
+PW00966,Transcriptional Regulation by MECP2,R-HSA-8986944,Reactome pathway R-HSA-8986944
+PW00967,hsa:5728,hsa:5728,KEGG gene entry hsa:5728
+PW00968,Signaling by ERBB4,R-HSA-1236394,Reactome pathway R-HSA-1236394
+PW00969,Signaling by EGFR,R-HSA-177929,Reactome pathway R-HSA-177929
+PW00970,EGFR downregulation,R-HSA-182971,Reactome pathway R-HSA-182971
+PW00971,EGFR interacts with phospholipase C-gamma,R-HSA-212718,Reactome pathway R-HSA-212718
+PW00972,Constitutive Signaling by EGFRvIII,R-HSA-5637810,Reactome pathway R-HSA-5637810
+PW00973,Inhibition of Signaling by Overexpressed EGFR,R-HSA-5638303,Reactome pathway R-HSA-5638303
+PW00974,hsa:1956,hsa:1956,KEGG gene entry hsa:1956
+PW00975,hsa:64065,hsa:64065,KEGG gene entry hsa:64065
+PW00976,Uptake and function of anthrax toxins,R-HSA-5210891,Reactome pathway R-HSA-5210891
+PW00977,MAP3K8 (TPL2)-dependent MAPK1/3 activation,R-HSA-5684264,Reactome pathway R-HSA-5684264
+PW00978,Signaling by MAP2K mutants,R-HSA-9652169,Reactome pathway R-HSA-9652169
+PW00979,hsa:5604,hsa:5604,KEGG gene entry hsa:5604
+PW00980,Defective Mismatch Repair Associated With MLH1,R-HSA-5545483,Reactome pathway R-HSA-5545483
+PW00981,Defective Mismatch Repair Associated With PMS2,R-HSA-5632987,Reactome pathway R-HSA-5632987
+PW00982,hsa:4292,hsa:4292,KEGG gene entry hsa:4292
+PW00983,hsa:3570,hsa:3570,KEGG gene entry hsa:3570
+PW00984,hsa:8490,hsa:8490,KEGG gene entry hsa:8490
+PW00985,Signaling by FGFR2 amplification mutants,R-HSA-2023837,Reactome pathway R-HSA-2023837
+PW00986,PI-3K cascade:FGFR2,R-HSA-5654695,Reactome pathway R-HSA-5654695
+PW00987,SHC-mediated cascade:FGFR2,R-HSA-5654699,Reactome pathway R-HSA-5654699
+PW00988,FRS-mediated FGFR2 signaling,R-HSA-5654700,Reactome pathway R-HSA-5654700
+PW00989,Negative regulation of FGFR2 signaling,R-HSA-5654727,Reactome pathway R-HSA-5654727
+PW00990,Signaling by FGFR2 in disease,R-HSA-5655253,Reactome pathway R-HSA-5655253
+PW00991,Signaling by FGFR2 IIIa TM,R-HSA-8851708,Reactome pathway R-HSA-8851708
+PW00992,Signaling by FGFR2 fusions,R-HSA-8853333,Reactome pathway R-HSA-8853333
+PW00993,hsa:2263,hsa:2263,KEGG gene entry hsa:2263
+PW00994,hsa:1464,hsa:1464,KEGG gene entry hsa:1464
+PW00995,hsa:6401,hsa:6401,KEGG gene entry hsa:6401
+PW00996,RHO GTPases activate KTN1,R-HSA-5625970,Reactome pathway R-HSA-5625970
+PW00997,Signaling by ALK fusions and activated point mutants,R-HSA-9725370,Reactome pathway R-HSA-9725370
+PW00998,Kinesins,R-HSA-983189,Reactome pathway R-HSA-983189
+PW00999,hsa:3831,hsa:3831,KEGG gene entry hsa:3831
+PW01000,Regulation of gene expression in beta cells,R-HSA-210745,Reactome pathway R-HSA-210745
+PW01001,AKT-mediated inactivation of FOXO1A,R-HSA-211163,Reactome pathway R-HSA-211163
+PW01002,Regulation of localization of FOXO transcription factors,R-HSA-9614399,Reactome pathway R-HSA-9614399
+PW01003,Regulation of FOXO transcriptional activity by acetylation,R-HSA-9617629,Reactome pathway R-HSA-9617629
+PW01004,hsa:2308,hsa:2308,KEGG gene entry hsa:2308
+PW01005,hsa:1124,hsa:1124,KEGG gene entry hsa:1124
+PW01006,Negative regulation of TCF-dependent signaling by WNT ligand antagonists,R-HSA-3772470,Reactome pathway R-HSA-3772470
+PW01007,Signaling by LRP5 mutants,R-HSA-5339717,Reactome pathway R-HSA-5339717
+PW01008,hsa:22943,hsa:22943,KEGG gene entry hsa:22943
+PW01009,Beta-oxidation of pristanoyl-CoA,R-HSA-389887,Reactome pathway R-HSA-389887
+PW01010,hsa:23600,hsa:23600,KEGG gene entry hsa:23600
+PW01011,APC truncation mutants are not K63 polyubiquitinated,R-HSA-5467333,Reactome pathway R-HSA-5467333
+PW01012,APC truncation mutants have impaired AXIN binding,R-HSA-5467337,Reactome pathway R-HSA-5467337
+PW01013,AXIN missense mutants destabilize the destruction complex,R-HSA-5467340,Reactome pathway R-HSA-5467340
+PW01014,Truncations of AMER1 destabilize the destruction complex,R-HSA-5467348,Reactome pathway R-HSA-5467348
+PW01015,hsa:324,hsa:324,KEGG gene entry hsa:324
+PW01016,hsa:57016,hsa:57016,KEGG gene entry hsa:57016
+PW01017,N-glycan trimming in the ER and Calnexin/Calreticulin cycle,R-HSA-532668,Reactome pathway R-HSA-532668
+PW01018,ER Quality Control Compartment (ERQC),R-HSA-901032,Reactome pathway R-HSA-901032
+PW01019,hsa:267,hsa:267,KEGG gene entry hsa:267
+PW01020,Modulation of host responses by IFN-stimulated genes,R-HSA-9909505,Reactome pathway R-HSA-9909505
+PW01021,hsa:3429,hsa:3429,KEGG gene entry hsa:3429
+PW01022,Regulation of MITF-M dependent genes involved in invasion,R-HSA-9854909,Reactome pathway R-HSA-9854909
+PW01023,hsa:634,hsa:634,KEGG gene entry hsa:634
+PW01024,Signaling by Retinoic Acid,R-HSA-5362517,Reactome pathway R-HSA-5362517
+PW01025,Activation of anterior HOX genes in hindbrain development during early embryogenesis,R-HSA-5617472,Reactome pathway R-HSA-5617472
+PW01026,hsa:5915,hsa:5915,KEGG gene entry hsa:5915
+PW01027,hsa:3231,hsa:3231,KEGG gene entry hsa:3231
+PW01028,hsa:3586,hsa:3586,KEGG gene entry hsa:3586
+PW01029,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,R-HSA-174178,Reactome pathway R-HSA-174178
+PW01030,Condensation of Prophase Chromosomes,R-HSA-2299718,Reactome pathway R-HSA-2299718
+PW01031,Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes,R-HSA-69200,Reactome pathway R-HSA-69200
+PW01032,Defective translocation of RB1 mutants to the nucleus,R-HSA-9661070,Reactome pathway R-HSA-9661070
+PW01033,Aberrant regulation of mitotic exit in cancer due to RB1 defects,R-HSA-9687136,Reactome pathway R-HSA-9687136
+PW01034,Positive Regulation of CDH1 Gene Transcription,R-HSA-9764790,Reactome pathway R-HSA-9764790
+PW01035,hsa:5925,hsa:5925,KEGG gene entry hsa:5925
+PW01036,hsa:599,hsa:599,KEGG gene entry hsa:599
+PW01037,hsa:6258,hsa:6258,KEGG gene entry hsa:6258
+PW01038,Neurotransmitter clearance,R-HSA-112311,Reactome pathway R-HSA-112311
+PW01039,hsa:590,hsa:590,KEGG gene entry hsa:590
+PW01040,Post-translational modification: synthesis of GPI-anchored proteins,R-HSA-163125,Reactome pathway R-HSA-163125
+PW01041,hsa:249,hsa:249,KEGG gene entry hsa:249
+PW01042,Defective ABCA1 causes TGD,R-HSA-5682113,Reactome pathway R-HSA-5682113
+PW01043,HDL clearance,R-HSA-8964011,Reactome pathway R-HSA-8964011
+PW01044,hsa:335,hsa:335,KEGG gene entry hsa:335
+PW01045,MDK and PTN in ALK signaling,R-HSA-9851151,Reactome pathway R-HSA-9851151
+PW01046,hsa:4192,hsa:4192,KEGG gene entry hsa:4192
+PW01047,hsa:5918,hsa:5918,KEGG gene entry hsa:5918
+PW01048,RUNX3 Regulates Immune Response and Cell Migration,R-HSA-8949275,Reactome pathway R-HSA-8949275
+PW01049,hsa:6696,hsa:6696,KEGG gene entry hsa:6696
+PW01050,Defective B3GALTL causes PpS,R-HSA-5083635,Reactome pathway R-HSA-5083635
+PW01051,O-glycosylation of TSR domain-containing proteins,R-HSA-5173214,Reactome pathway R-HSA-5173214
+PW01052,hsa:7057,hsa:7057,KEGG gene entry hsa:7057
+PW01053,Activation of gene expression by SREBF (SREBP),R-HSA-2426168,Reactome pathway R-HSA-2426168
+PW01054,Fatty acyl-CoA biosynthesis,R-HSA-75105,Reactome pathway R-HSA-75105
+PW01055,NR1H2 & NR1H3 regulate gene expression linked to lipogenesis,R-HSA-9029558,Reactome pathway R-HSA-9029558
+PW01056,hsa:6319,hsa:6319,KEGG gene entry hsa:6319
+PW01057,MTOR signalling,R-HSA-165159,Reactome pathway R-HSA-165159
+PW01058,G beta:gamma signalling through PI3Kgamma,R-HSA-392451,Reactome pathway R-HSA-392451
+PW01059,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,R-HSA-450385,Reactome pathway R-HSA-450385
+PW01060,hsa:207,hsa:207,KEGG gene entry hsa:207
+PW01061,hsa:5295,hsa:5295,KEGG gene entry hsa:5295
+PW01062,hsa:5603,hsa:5603,KEGG gene entry hsa:5603
+PW01063,p75NTR recruits signalling complexes,R-HSA-209543,Reactome pathway R-HSA-209543
+PW01064,Tight junction interactions,R-HSA-420029,Reactome pathway R-HSA-420029
+PW01065,hsa:5584,hsa:5584,KEGG gene entry hsa:5584
+PW01066,Regulation of CDH19 Expression and Function,R-HSA-9764302,Reactome pathway R-HSA-9764302
+PW01067,hsa:6663,hsa:6663,KEGG gene entry hsa:6663
+PW01068,hsa:7018,hsa:7018,KEGG gene entry hsa:7018
+PW01069,NRAGE signals death through JNK,R-HSA-193648,Reactome pathway R-HSA-193648
+PW01070,Ephrin signaling,R-HSA-3928664,Reactome pathway R-HSA-3928664
+PW01071,SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion,R-HSA-399955,Reactome pathway R-HSA-399955
+PW01072,PCP/CE pathway,R-HSA-4086400,Reactome pathway R-HSA-4086400
+PW01073,DCC mediated attractive signaling,R-HSA-418885,Reactome pathway R-HSA-418885
+PW01074,Activation of RAC1,R-HSA-428540,Reactome pathway R-HSA-428540
+PW01075,hsa:5879,hsa:5879,KEGG gene entry hsa:5879
+PW01076,Dasatinib-resistant KIT mutants,R-HSA-9669914,Reactome pathway R-HSA-9669914
+PW01077,Imatinib-resistant KIT mutants,R-HSA-9669917,Reactome pathway R-HSA-9669917
+PW01078,KIT mutants bind TKIs,R-HSA-9669921,Reactome pathway R-HSA-9669921
+PW01079,Masitinib-resistant KIT mutants,R-HSA-9669924,Reactome pathway R-HSA-9669924
+PW01080,Nilotinib-resistant KIT mutants,R-HSA-9669926,Reactome pathway R-HSA-9669926
+PW01081,Regorafenib-resistant KIT mutants,R-HSA-9669929,Reactome pathway R-HSA-9669929
+PW01082,Signaling by kinase domain mutants of KIT,R-HSA-9669933,Reactome pathway R-HSA-9669933
+PW01083,Sunitinib-resistant KIT mutants,R-HSA-9669934,Reactome pathway R-HSA-9669934
+PW01084,Signaling by juxtamembrane domain KIT mutants,R-HSA-9669935,Reactome pathway R-HSA-9669935
+PW01085,Sorafenib-resistant KIT mutants,R-HSA-9669936,Reactome pathway R-HSA-9669936
+PW01086,Signaling by extracellular domain mutants of KIT,R-HSA-9680187,Reactome pathway R-HSA-9680187
+PW01087,hsa:3815,hsa:3815,KEGG gene entry hsa:3815
+PW01088,Localization of the PINCH-ILK-PARVIN complex to focal adhesions,R-HSA-446343,Reactome pathway R-HSA-446343
+PW01089,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,R-HSA-446388,Reactome pathway R-HSA-446388
+PW01090,"PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases",R-HSA-8849471,Reactome pathway R-HSA-8849471
+PW01091,hsa:5829,hsa:5829,KEGG gene entry hsa:5829
+PW01092,Toll Like Receptor 4 (TLR4) Cascade,R-HSA-166016,Reactome pathway R-HSA-166016
+PW01093,Transfer of LPS from LBP carrier to CD14,R-HSA-166020,Reactome pathway R-HSA-166020
+PW01094,MyD88-independent TLR4 cascade,R-HSA-166166,Reactome pathway R-HSA-166166
+PW01095,Toll Like Receptor TLR1:TLR2 Cascade,R-HSA-168179,Reactome pathway R-HSA-168179
+PW01096,Toll Like Receptor TLR6:TLR2 Cascade,R-HSA-168188,Reactome pathway R-HSA-168188
+PW01097,TRIF-mediated programmed cell death,R-HSA-2562578,Reactome pathway R-HSA-2562578
+PW01098,"Activation of IRF3, IRF7 mediated by TBK1, IKKEpsilon (IKBKE)",R-HSA-936964,Reactome pathway R-HSA-936964
+PW01099,TRAF6-mediated induction of TAK1 complex within TLR4 complex,R-HSA-937072,Reactome pathway R-HSA-937072
+PW01100,IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation,R-HSA-975163,Reactome pathway R-HSA-975163
+PW01101,"Regulation of TBK1, IKKEpsilon (IKBKE)-mediated activation of IRF3, IRF7",R-HSA-9824878,Reactome pathway R-HSA-9824878
+PW01102,hsa:929,hsa:929,KEGG gene entry hsa:929
+PW01103,hsa:7010,hsa:7010,KEGG gene entry hsa:7010
+PW01104,hsa:1809,hsa:1809,KEGG gene entry hsa:1809
+PW01105,SUMOylation of transcription cofactors,R-HSA-3899300,Reactome pathway R-HSA-3899300
+PW01106,Repression of WNT target genes,R-HSA-4641265,Reactome pathway R-HSA-4641265
+PW01107,Signaling by TCF7L2 mutants,R-HSA-5339700,Reactome pathway R-HSA-5339700
+PW01108,Negative Regulation of CDH1 Gene Transcription,R-HSA-9764725,Reactome pathway R-HSA-9764725
+PW01109,hsa:1487,hsa:1487,KEGG gene entry hsa:1487
+PW01110,"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",R-HSA-9860927,Reactome pathway R-HSA-9860927
+PW01111,hsa:302,hsa:302,KEGG gene entry hsa:302
+PW01112,Activation of NF-kappaB in B cells,R-HSA-1169091,Reactome pathway R-HSA-1169091
+PW01113,RIP-mediated NFkB activation via ZBP1,R-HSA-1810476,Reactome pathway R-HSA-1810476
+PW01114,IKBKB deficiency causes SCID,R-HSA-5602636,Reactome pathway R-HSA-5602636
+PW01115,IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR),R-HSA-5603027,Reactome pathway R-HSA-5603027
+PW01116,IkBA variant leads to EDA-ID,R-HSA-5603029,Reactome pathway R-HSA-5603029
+PW01117,Dectin-1 mediated noncanonical NF-kB signaling,R-HSA-5607761,Reactome pathway R-HSA-5607761
+PW01118,NIK-->noncanonical NF-kB signaling,R-HSA-5676590,Reactome pathway R-HSA-5676590
+PW01119,hsa:1147,hsa:1147,KEGG gene entry hsa:1147
+PW01120,hsa:1525,hsa:1525,KEGG gene entry hsa:1525
+PW01121,hsa:2155,hsa:2155,KEGG gene entry hsa:2155
+PW01122,hsa:230,hsa:230,KEGG gene entry hsa:230
+PW01123,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",R-HSA-9708296,Reactome pathway R-HSA-9708296
+PW01124,hsa:283,hsa:283,KEGG gene entry hsa:283
+PW01125,PRC2 methylates histones and DNA,R-HSA-212300,Reactome pathway R-HSA-212300
+PW01126,PKMTs methylate histone lysines,R-HSA-3214841,Reactome pathway R-HSA-3214841
+PW01127,Regulation of PTEN gene transcription,R-HSA-8943724,Reactome pathway R-HSA-8943724
+PW01128,HCMV Early Events,R-HSA-9609690,Reactome pathway R-HSA-9609690
+PW01129,Defective pyroptosis,R-HSA-9710421,Reactome pathway R-HSA-9710421
+PW01130,hsa:8726,hsa:8726,KEGG gene entry hsa:8726
+PW01131,Nuclear Envelope Breakdown,R-HSA-2980766,Reactome pathway R-HSA-2980766
+PW01132,Initiation of Nuclear Envelope (NE) Reformation,R-HSA-2995383,Reactome pathway R-HSA-2995383
+PW01133,Breakdown of the nuclear lamina,R-HSA-352238,Reactome pathway R-HSA-352238
+PW01134,Depolymerization of the Nuclear Lamina,R-HSA-4419969,Reactome pathway R-HSA-4419969
+PW01135,hsa:4000,hsa:4000,KEGG gene entry hsa:4000
+PW01136,Assembly of active LPL and LIPC lipase complexes,R-HSA-8963889,Reactome pathway R-HSA-8963889
+PW01137,hsa:27329,hsa:27329,KEGG gene entry hsa:27329
+PW01138,Apoptotic factor-mediated response,R-HSA-111471,Reactome pathway R-HSA-111471
+PW01139,Defective Intrinsic Pathway for Apoptosis Due to p14ARF Loss of Function,R-HSA-9645722,Reactome pathway R-HSA-9645722
+PW01140,hsa:708,hsa:708,KEGG gene entry hsa:708
+PW01141,Stimuli-sensing channels,R-HSA-2672351,Reactome pathway R-HSA-2672351
+PW01142,Induction of Cell-Cell Fusion,R-HSA-9733458,Reactome pathway R-HSA-9733458
+PW01143,hsa:55107,hsa:55107,KEGG gene entry hsa:55107
+PW01144,hsa:7132,hsa:7132,KEGG gene entry hsa:7132
+PW01145,Triglyceride catabolism,R-HSA-163560,Reactome pathway R-HSA-163560
+PW01146,NOSTRIN mediated eNOS trafficking,R-HSA-203641,Reactome pathway R-HSA-203641
+PW01147,CDC42 GTPase cycle,R-HSA-9013148,Reactome pathway R-HSA-9013148
+PW01148,RAC2 GTPase cycle,R-HSA-9013404,Reactome pathway R-HSA-9013404
+PW01149,RHOD GTPase cycle,R-HSA-9013405,Reactome pathway R-HSA-9013405
+PW01150,RHOQ GTPase cycle,R-HSA-9013406,Reactome pathway R-HSA-9013406
+PW01151,RHOG GTPase cycle,R-HSA-9013408,Reactome pathway R-HSA-9013408
+PW01152,RHOJ GTPase cycle,R-HSA-9013409,Reactome pathway R-HSA-9013409
+PW01153,RHOF GTPase cycle,R-HSA-9035034,Reactome pathway R-HSA-9035034
+PW01154,hsa:857,hsa:857,KEGG gene entry hsa:857
+PW01155,Signaling by ERBB2 TMD/JMD mutants,R-HSA-9665686,Reactome pathway R-HSA-9665686
+PW01156,hsa:2065,hsa:2065,KEGG gene entry hsa:2065
+PW01157,Defective homologous recombination repair (HRR) due to BRCA1 loss of function,R-HSA-9701192,Reactome pathway R-HSA-9701192
+PW01158,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,R-HSA-9704331,Reactome pathway R-HSA-9704331
+PW01159,Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,R-HSA-9704646,Reactome pathway R-HSA-9704646
+PW01160,Impaired BRCA2 translocation to the nucleus,R-HSA-9709275,Reactome pathway R-HSA-9709275
+PW01161,Impaired BRCA2 binding to RAD51,R-HSA-9709570,Reactome pathway R-HSA-9709570
+PW01162,Impaired BRCA2 binding to PALB2,R-HSA-9709603,Reactome pathway R-HSA-9709603
+PW01163,Impaired BRCA2 binding to SEM1 (DSS1),R-HSA-9763198,Reactome pathway R-HSA-9763198
+PW01164,hsa:675,hsa:675,KEGG gene entry hsa:675
+PW01165,hsa:706,hsa:706,KEGG gene entry hsa:706
+PW01166,Classical antibody-mediated complement activation,R-HSA-173623,Reactome pathway R-HSA-173623
+PW01167,hsa:1401,hsa:1401,KEGG gene entry hsa:1401
+PW01168,hsa:3596,hsa:3596,KEGG gene entry hsa:3596
+PW01169,Beta defensins,R-HSA-1461957,Reactome pathway R-HSA-1461957
+PW01170,Modulation by Mtb of host immune system,R-HSA-9637628,Reactome pathway R-HSA-9637628
+PW01171,hsa:7097,hsa:7097,KEGG gene entry hsa:7097
+PW01172,hsa:2070,hsa:2070,KEGG gene entry hsa:2070
+PW01173,Thrombin signalling through proteinase activated receptors (PARs),R-HSA-456926,Reactome pathway R-HSA-456926
+PW01174,Defective factor XII causes hereditary angioedema,R-HSA-9657688,Reactome pathway R-HSA-9657688
+PW01175,hsa:2147,hsa:2147,KEGG gene entry hsa:2147
+PW01176,hsa:8851,hsa:8851,KEGG gene entry hsa:8851
+PW01177,hsa:2078,hsa:2078,KEGG gene entry hsa:2078
+PW01178,PI5P Regulates TP53 Acetylation,R-HSA-6811555,Reactome pathway R-HSA-6811555
+PW01179,Negative regulators of DDX58/IFIH1 signaling,R-HSA-936440,Reactome pathway R-HSA-936440
+PW01180,hsa:5300,hsa:5300,KEGG gene entry hsa:5300
+PW01181,Miscellaneous transport and binding events,R-HSA-5223345,Reactome pathway R-HSA-5223345
+PW01182,hsa:563,hsa:563,KEGG gene entry hsa:563
+PW01183,hsa:1031,hsa:1031,KEGG gene entry hsa:1031
+PW01184,hsa:4318,hsa:4318,KEGG gene entry hsa:4318
+PW01185,Interleukin-20 family signaling,R-HSA-8854691,Reactome pathway R-HSA-8854691
+PW01186,Regulation of RUNX2 expression and activity,R-HSA-8939902,Reactome pathway R-HSA-8939902
+PW01187,Interleukin-35 Signalling,R-HSA-8984722,Reactome pathway R-HSA-8984722
+PW01188,Interleukin-9 signaling,R-HSA-8985947,Reactome pathway R-HSA-8985947
+PW01189,Interleukin-27 signaling,R-HSA-9020956,Reactome pathway R-HSA-9020956
+PW01190,Interleukin-21 signaling,R-HSA-9020958,Reactome pathway R-HSA-9020958
+PW01191,Regulation of IFNA/IFNB signaling,R-HSA-912694,Reactome pathway R-HSA-912694
+PW01192,"Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",R-HSA-9673767,Reactome pathway R-HSA-9673767
+PW01193,hsa:6772,hsa:6772,KEGG gene entry hsa:6772
+PW01194,hsa:161176,hsa:161176,KEGG gene entry hsa:161176
+PW01195,2-LTR circle formation,R-HSA-164843,Reactome pathway R-HSA-164843
+PW01196,Cytosolic sensors of pathogen-associated DNA,R-HSA-1834949,Reactome pathway R-HSA-1834949
+PW01197,IRF3-mediated induction of type I IFN,R-HSA-3270619,Reactome pathway R-HSA-3270619
+PW01198,hsa:7520,hsa:7520,KEGG gene entry hsa:7520
+PW01199,Apoptosis induced DNA fragmentation,R-HSA-140342,Reactome pathway R-HSA-140342
+PW01200,Advanced glycosylation endproduct receptor signaling,R-HSA-879415,Reactome pathway R-HSA-879415
+PW01201,TRAF6 mediated NF-kB activation,R-HSA-933542,Reactome pathway R-HSA-933542
+PW01202,hsa:3146,hsa:3146,KEGG gene entry hsa:3146
+PW01203,Dual Incision in GG-NER,R-HSA-5696400,Reactome pathway R-HSA-5696400
+PW01204,Fanconi Anemia Pathway,R-HSA-6783310,Reactome pathway R-HSA-6783310
+PW01205,hsa:2072,hsa:2072,KEGG gene entry hsa:2072
+PW01206,AUF1 (hnRNP D0) binds and destabilizes mRNA,R-HSA-450408,Reactome pathway R-HSA-450408
+PW01207,hsa:3315,hsa:3315,KEGG gene entry hsa:3315
+PW01208,Antimicrobial peptides,R-HSA-6803157,Reactome pathway R-HSA-6803157
+PW01209,hsa:5266,hsa:5266,KEGG gene entry hsa:5266
+PW01210,hsa:1075,hsa:1075,KEGG gene entry hsa:1075
+PW01211,hsa:5627,hsa:5627,KEGG gene entry hsa:5627
+PW01212,Interconversion of nucleotide di- and triphosphates,R-HSA-499943,Reactome pathway R-HSA-499943
+PW01213,Ribavirin ADME,R-HSA-9755088,Reactome pathway R-HSA-9755088
+PW01214,hsa:4831,hsa:4831,KEGG gene entry hsa:4831
+PW01215,hsa:654364,hsa:654364,KEGG gene entry hsa:654364
+PW01216,Response of EIF2AK1 (HRI) to heme deficiency,R-HSA-9648895,Reactome pathway R-HSA-9648895
+PW01217,hsa:467,hsa:467,KEGG gene entry hsa:467
+PW01218,hsa:5624,hsa:5624,KEGG gene entry hsa:5624
+PW01219,Cross-presentation of soluble exogenous antigens (endosomes),R-HSA-1236978,Reactome pathway R-HSA-1236978
+PW01220,Autodegradation of Cdh1 by Cdh1:APC/C,R-HSA-174084,Reactome pathway R-HSA-174084
+PW01221,SCF-beta-TrCP mediated degradation of Emi1,R-HSA-174113,Reactome pathway R-HSA-174113
+PW01222,APC/C:Cdc20 mediated degradation of Securin,R-HSA-174154,Reactome pathway R-HSA-174154
+PW01223,Cdc20:Phospho-APC/C mediated degradation of Cyclin A,R-HSA-174184,Reactome pathway R-HSA-174184
+PW01224,Vpu mediated degradation of CD4,R-HSA-180534,Reactome pathway R-HSA-180534
+PW01225,Vif-mediated degradation of APOBEC3G,R-HSA-180585,Reactome pathway R-HSA-180585
+PW01226,Regulation of activated PAK-2p34 by proteasome mediated degradation,R-HSA-211733,Reactome pathway R-HSA-211733
+PW01227,ABC-family proteins mediated transport,R-HSA-382556,Reactome pathway R-HSA-382556
+PW01228,hsa:5689,hsa:5689,KEGG gene entry hsa:5689
+PW01229,OAS antiviral response,R-HSA-8983711,Reactome pathway R-HSA-8983711
+PW01230,hsa:4938,hsa:4938,KEGG gene entry hsa:4938
+PW01231,hsa:1471,hsa:1471,KEGG gene entry hsa:1471
+PW01232,PTK6 Activates STAT3,R-HSA-8849474,Reactome pathway R-HSA-8849474
+PW01233,RUNX1 regulates transcription of genes involved in differentiation of keratinocytes,R-HSA-8939242,Reactome pathway R-HSA-8939242
+PW01234,Signaling by CSF3 (G-CSF),R-HSA-9674555,Reactome pathway R-HSA-9674555
+PW01235,Inactivation of CSF3 (G-CSF) signaling,R-HSA-9705462,Reactome pathway R-HSA-9705462
+PW01236,hsa:9021,hsa:9021,KEGG gene entry hsa:9021
+PW01237,TRAIL signaling,R-HSA-75158,Reactome pathway R-HSA-75158
+PW01238,hsa:8795,hsa:8795,KEGG gene entry hsa:8795
+PW01239,Retinoid metabolism disease events,R-HSA-6809583,Reactome pathway R-HSA-6809583
+PW01240,hsa:5950,hsa:5950,KEGG gene entry hsa:5950
+PW01241,Axonal growth inhibition (RHOA activation),R-HSA-193634,Reactome pathway R-HSA-193634
+PW01242,Axonal growth stimulation,R-HSA-209563,Reactome pathway R-HSA-209563
+PW01243,RHO GTPases activate CIT,R-HSA-5625900,Reactome pathway R-HSA-5625900
+PW01244,RHO GTPases Activate ROCKs,R-HSA-5627117,Reactome pathway R-HSA-5627117
+PW01245,RHO GTPases Activate Rhotekin and Rhophilins,R-HSA-5666185,Reactome pathway R-HSA-5666185
+PW01246,hsa:387,hsa:387,KEGG gene entry hsa:387
+PW01247,Digestion of dietary carbohydrate,R-HSA-189085,Reactome pathway R-HSA-189085
+PW01248,hsa:279,hsa:279,KEGG gene entry hsa:279
+PW01249,mRNA decay by 5' to 3' exoribonuclease,R-HSA-430039,Reactome pathway R-HSA-430039
+PW01250,hsa:196513,hsa:196513,KEGG gene entry hsa:196513
+PW01251,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",R-HSA-446193,Reactome pathway R-HSA-446193
+PW01252,hsa:84920,hsa:84920,KEGG gene entry hsa:84920
+PW01253,Recognition of DNA damage by PCNA-containing replication complex,R-HSA-110314,Reactome pathway R-HSA-110314
+PW01254,Termination of translesion DNA synthesis,R-HSA-5656169,Reactome pathway R-HSA-5656169
+PW01255,DNA replication initiation,R-HSA-68952,Reactome pathway R-HSA-68952
+PW01256,Activation of the pre-replicative complex,R-HSA-68962,Reactome pathway R-HSA-68962
+PW01257,hsa:5426,hsa:5426,KEGG gene entry hsa:5426
+PW01258,hsa:396,hsa:396,KEGG gene entry hsa:396
+PW01259,hsa:909,hsa:909,KEGG gene entry hsa:909
+PW01260,hsa:5360,hsa:5360,KEGG gene entry hsa:5360
+PW01261,hsa:6590,hsa:6590,KEGG gene entry hsa:6590
+PW01262,hsa:3627,hsa:3627,KEGG gene entry hsa:3627
+PW01263,hsa:2272,hsa:2272,KEGG gene entry hsa:2272
+PW01264,Abacavir transmembrane transport,R-HSA-2161517,Reactome pathway R-HSA-2161517
+PW01265,Organic cation transport,R-HSA-549127,Reactome pathway R-HSA-549127
+PW01266,hsa:6581,hsa:6581,KEGG gene entry hsa:6581
+PW01267,Calcitonin-like ligand receptors,R-HSA-419812,Reactome pathway R-HSA-419812
+PW01268,hsa:796,hsa:796,KEGG gene entry hsa:796
+PW01269,Nef mediated downregulation of MHC class I complex cell surface expression,R-HSA-164940,Reactome pathway R-HSA-164940
+PW01270,Lysosome Vesicle Biogenesis,R-HSA-432720,Reactome pathway R-HSA-432720
+PW01271,Golgi Associated Vesicle Biogenesis,R-HSA-432722,Reactome pathway R-HSA-432722
+PW01272,hsa:162,hsa:162,KEGG gene entry hsa:162
+PW01273,Cytosolic sulfonation of small molecules,R-HSA-156584,Reactome pathway R-HSA-156584
+PW01274,hsa:6820,hsa:6820,KEGG gene entry hsa:6820
+PW01275,hsa:6768,hsa:6768,KEGG gene entry hsa:6768
+PW01276,hsa:6647,hsa:6647,KEGG gene entry hsa:6647
+PW01277,Tyrosine catabolism,R-HSA-8963684,Reactome pathway R-HSA-8963684
+PW01278,hsa:3242,hsa:3242,KEGG gene entry hsa:3242
+PW01279,FGFR3b ligand binding and activation,R-HSA-190371,Reactome pathway R-HSA-190371
+PW01280,SHC-mediated cascade:FGFR1,R-HSA-5654688,Reactome pathway R-HSA-5654688
+PW01281,PI-3K cascade:FGFR1,R-HSA-5654689,Reactome pathway R-HSA-5654689
+PW01282,hsa:2246,hsa:2246,KEGG gene entry hsa:2246
+PW01283,hsa:4982,hsa:4982,KEGG gene entry hsa:4982
+PW01284,hsa:688,hsa:688,KEGG gene entry hsa:688
+PW01285,Estrogen-dependent nuclear events downstream of ESR-membrane signaling,R-HSA-9634638,Reactome pathway R-HSA-9634638
+PW01286,NFE2L2 regulating tumorigenic genes,R-HSA-9818030,Reactome pathway R-HSA-9818030
+PW01287,hsa:374,hsa:374,KEGG gene entry hsa:374
+PW01288,RUNX3 regulates RUNX1-mediated transcription,R-HSA-8951911,Reactome pathway R-HSA-8951911
+PW01289,RUNX3 regulates BCL2L11 (BIM) transcription,R-HSA-8952158,Reactome pathway R-HSA-8952158
+PW01290,hsa:864,hsa:864,KEGG gene entry hsa:864
+PW01291,hsa:346,hsa:346,KEGG gene entry hsa:346
+PW01292,hsa:306,hsa:306,KEGG gene entry hsa:306
+PW01293,Acyl chain remodelling of PC,R-HSA-1482788,Reactome pathway R-HSA-1482788
+PW01294,Acyl chain remodelling of PS,R-HSA-1482801,Reactome pathway R-HSA-1482801
+PW01295,Acyl chain remodelling of PE,R-HSA-1482839,Reactome pathway R-HSA-1482839
+PW01296,Acyl chain remodelling of PI,R-HSA-1482922,Reactome pathway R-HSA-1482922
+PW01297,Acyl chain remodelling of PG,R-HSA-1482925,Reactome pathway R-HSA-1482925
+PW01298,Synthesis of PA,R-HSA-1483166,Reactome pathway R-HSA-1483166
+PW01299,hsa:5320,hsa:5320,KEGG gene entry hsa:5320
+PW01300,Androgen biosynthesis,R-HSA-193048,Reactome pathway R-HSA-193048
+PW01301,Synthesis of dolichyl-phosphate,R-HSA-446199,Reactome pathway R-HSA-446199
+PW01302,"Defective SRD5A3 causes SRD5A3-CDG, KHRZ",R-HSA-4755579,Reactome pathway R-HSA-4755579
+PW01303,hsa:79644,hsa:79644,KEGG gene entry hsa:79644
+PW01304,hsa:325,hsa:325,KEGG gene entry hsa:325
+PW01305,Reversible hydration of carbon dioxide,R-HSA-1475029,Reactome pathway R-HSA-1475029
+PW01306,hsa:768,hsa:768,KEGG gene entry hsa:768
+PW01307,Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling,R-HSA-2644607,Reactome pathway R-HSA-2644607
+PW01308,Negative regulation of NOTCH4 signaling,R-HSA-9604323,Reactome pathway R-HSA-9604323
+PW01309,hsa:55294,hsa:55294,KEGG gene entry hsa:55294
+PW01310,Pre-NOTCH Processing in the Endoplasmic Reticulum,R-HSA-1912399,Reactome pathway R-HSA-1912399
+PW01311,Pre-NOTCH Processing in Golgi,R-HSA-1912420,Reactome pathway R-HSA-1912420
+PW01312,NOTCH2 intracellular domain regulates transcription,R-HSA-2197563,Reactome pathway R-HSA-2197563
+PW01313,Notch-HLH transcription pathway,R-HSA-350054,Reactome pathway R-HSA-350054
+PW01314,Defective LFNG causes SCDO3,R-HSA-5083630,Reactome pathway R-HSA-5083630
+PW01315,NOTCH4 Intracellular Domain Regulates Transcription,R-HSA-9013695,Reactome pathway R-HSA-9013695
+PW01316,hsa:4853,hsa:4853,KEGG gene entry hsa:4853
+PW01317,RMTs methylate histone arginines,R-HSA-3214858,Reactome pathway R-HSA-3214858
+PW01318,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),R-HSA-9845323,Reactome pathway R-HSA-9845323
+PW01319,Formation of the canonical BAF (cBAF) complex,R-HSA-9933937,Reactome pathway R-HSA-9933937
+PW01320,Formation of the embryonic stem cell BAF (esBAF) complex,R-HSA-9933946,Reactome pathway R-HSA-9933946
+PW01321,Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF),R-HSA-9934037,Reactome pathway R-HSA-9934037
+PW01322,hsa:8289,hsa:8289,KEGG gene entry hsa:8289
+PW01323,hsa:1028,hsa:1028,KEGG gene entry hsa:1028
+PW01324,Eukaryotic Translation Elongation,R-HSA-156842,Reactome pathway R-HSA-156842
+PW01325,Protein methylation,R-HSA-8876725,Reactome pathway R-HSA-8876725
+PW01326,hsa:1915,hsa:1915,KEGG gene entry hsa:1915
+PW01327,Attachment of bacteria to epithelial cells,R-HSA-9638630,Reactome pathway R-HSA-9638630
+PW01328,hsa:4072,hsa:4072,KEGG gene entry hsa:4072
+PW01329,hsa:6356,hsa:6356,KEGG gene entry hsa:6356
+PW01330,VLDLR internalisation and degradation,R-HSA-8866427,Reactome pathway R-HSA-8866427
+PW01331,hsa:255738,hsa:255738,KEGG gene entry hsa:255738
+PW01332,hsa:3953,hsa:3953,KEGG gene entry hsa:3953
+PW01333,hsa:6382,hsa:6382,KEGG gene entry hsa:6382
+PW01334,Class B/2 (Secretin family receptors),R-HSA-373080,Reactome pathway R-HSA-373080
+PW01335,hsa:1393,hsa:1393,KEGG gene entry hsa:1393
+PW01336,Nectin/Necl trans heterodimerization,R-HSA-420597,Reactome pathway R-HSA-420597
+PW01337,hsa:81607,hsa:81607,KEGG gene entry hsa:81607
+PW01338,Phosphorylated BMAL1:CLOCK (ARNTL:CLOCK) activates expression of core clock genes,R-HSA-9931510,Reactome pathway R-HSA-9931510
+PW01339,The CRY:PER:kinase complex represses transactivation by the BMAL:CLOCK (ARNTL:CLOCK) complex,R-HSA-9931521,Reactome pathway R-HSA-9931521
+PW01340,Degradation of CRY and PER proteins,R-HSA-9932298,Reactome pathway R-HSA-9932298
+PW01341,hsa:5187,hsa:5187,KEGG gene entry hsa:5187
+PW01342,hsa:645,hsa:645,KEGG gene entry hsa:645
+PW01343,hsa:350,hsa:350,KEGG gene entry hsa:350
+PW01344,RND1 GTPase cycle,R-HSA-9696273,Reactome pathway R-HSA-9696273
+PW01345,hsa:22800,hsa:22800,KEGG gene entry hsa:22800
+PW01346,hsa:7033,hsa:7033,KEGG gene entry hsa:7033
+PW01347,Mitochondrial Fatty Acid Beta-Oxidation,R-HSA-77289,Reactome pathway R-HSA-77289
+PW01348,hsa:1622,hsa:1622,KEGG gene entry hsa:1622
+PW01349,Transcriptional regulation of testis differentiation,R-HSA-9690406,Reactome pathway R-HSA-9690406
+PW01350,hsa:5730,hsa:5730,KEGG gene entry hsa:5730
+PW01351,RND3 GTPase cycle,R-HSA-9696264,Reactome pathway R-HSA-9696264
+PW01352,RND2 GTPase cycle,R-HSA-9696270,Reactome pathway R-HSA-9696270
+PW01353,hsa:1828,hsa:1828,KEGG gene entry hsa:1828
+PW01354,Receptor-type tyrosine-protein phosphatases,R-HSA-388844,Reactome pathway R-HSA-388844
+PW01355,Synaptic adhesion-like molecules,R-HSA-8849932,Reactome pathway R-HSA-8849932
+PW01356,Signaling by NTRK3 (TRKC),R-HSA-9034015,Reactome pathway R-HSA-9034015
+PW01357,hsa:5802,hsa:5802,KEGG gene entry hsa:5802
+PW01358,hsa:5657,hsa:5657,KEGG gene entry hsa:5657
+PW01359,hsa:5037,hsa:5037,KEGG gene entry hsa:5037
+PW01360,hsa:1048,hsa:1048,KEGG gene entry hsa:1048
+PW01361,hsa:274,hsa:274,KEGG gene entry hsa:274
+PW01362,hsa:5691,hsa:5691,KEGG gene entry hsa:5691
+PW01363,hsa:823,hsa:823,KEGG gene entry hsa:823
+PW01364,hsa:5688,hsa:5688,KEGG gene entry hsa:5688
+PW01365,Proteasome assembly,R-HSA-9907900,Reactome pathway R-HSA-9907900
+PW01366,"Antigen processing: Ub, ATP-independent proteasomal degradation",R-HSA-9912633,Reactome pathway R-HSA-9912633
+PW01367,hsa:5720,hsa:5720,KEGG gene entry hsa:5720
+PW01368,hsa:547,hsa:547,KEGG gene entry hsa:547
+PW01369,Sulfur amino acid metabolism,R-HSA-1614635,Reactome pathway R-HSA-1614635
+PW01370,hsa:23743,hsa:23743,KEGG gene entry hsa:23743
+PW01371,3-methylglutaconic aciduria,R-HSA-9914274,Reactome pathway R-HSA-9914274
+PW01372,hsa:549,hsa:549,KEGG gene entry hsa:549
+PW01373,hsa:567,hsa:567,KEGG gene entry hsa:567
+PW01374,Glycosphingolipid catabolism,R-HSA-9840310,Reactome pathway R-HSA-9840310
+PW01375,hsa:2760,hsa:2760,KEGG gene entry hsa:2760
+PW01376,hsa:6285,hsa:6285,KEGG gene entry hsa:6285
+PW01377,hsa:6352,hsa:6352,KEGG gene entry hsa:6352
+PW01378,hsa:7070,hsa:7070,KEGG gene entry hsa:7070
+PW01379,hsa:3872,hsa:3872,KEGG gene entry hsa:3872
+PW01380,hsa:6317,hsa:6317,KEGG gene entry hsa:6317
+PW01381,hsa:5068,hsa:5068,KEGG gene entry hsa:5068
+PW01382,hsa:5816,hsa:5816,KEGG gene entry hsa:5816
+PW01383,hsa:2330,hsa:2330,KEGG gene entry hsa:2330
+PW01384,hsa:8743,hsa:8743,KEGG gene entry hsa:8743
+PW01385,Synthesis of 5-eicosatetraenoic acids,R-HSA-2142688,Reactome pathway R-HSA-2142688
+PW01386,Synthesis of 12-eicosatetraenoic acid derivatives,R-HSA-2142712,Reactome pathway R-HSA-2142712
+PW01387,hsa:2876,hsa:2876,KEGG gene entry hsa:2876
+PW01388,hsa:765,hsa:765,KEGG gene entry hsa:765
+PW01389,hsa:1910,hsa:1910,KEGG gene entry hsa:1910
+PW01390,hsa:27250,hsa:27250,KEGG gene entry hsa:27250
+PW01391,hsa:4978,hsa:4978,KEGG gene entry hsa:4978
+PW01392,hsa:3135,hsa:3135,KEGG gene entry hsa:3135
+PW01393,hsa:7424,hsa:7424,KEGG gene entry hsa:7424
+PW01394,hsa:2146,hsa:2146,KEGG gene entry hsa:2146
+PW01395,hsa:744,hsa:744,KEGG gene entry hsa:744
+PW01396,Terminal pathway of complement,R-HSA-166665,Reactome pathway R-HSA-166665
+PW01397,hsa:727,hsa:727,KEGG gene entry hsa:727
+PW01398,hsa:732,hsa:732,KEGG gene entry hsa:732
+PW01399,Initial triggering of complement,R-HSA-166663,Reactome pathway R-HSA-166663
+PW01400,hsa:100293534,hsa:100293534,KEGG gene entry hsa:100293534
+PW01401,hsa:721,hsa:721,KEGG gene entry hsa:721
+PW01402,hsa:730,hsa:730,KEGG gene entry hsa:730
+PW01403,hsa:733,hsa:733,KEGG gene entry hsa:733
+PW01404,hsa:716,hsa:716,KEGG gene entry hsa:716
+PW01405,hsa:735,hsa:735,KEGG gene entry hsa:735
+PW01406,hsa:966,hsa:966,KEGG gene entry hsa:966
+PW01407,hsa:660,hsa:660,KEGG gene entry hsa:660
+PW01408,hsa:5127,hsa:5127,KEGG gene entry hsa:5127
+PW01409,hsa:6793,hsa:6793,KEGG gene entry hsa:6793
+PW01410,hsa:23012,hsa:23012,KEGG gene entry hsa:23012
+PW01411,hsa:2171,hsa:2171,KEGG gene entry hsa:2171
+PW01412,hsa:712,hsa:712,KEGG gene entry hsa:712
+PW01413,Anchoring fibril formation,R-HSA-2214320,Reactome pathway R-HSA-2214320
+PW01414,Crosslinking of collagen fibrils,R-HSA-2243919,Reactome pathway R-HSA-2243919
+PW01415,hsa:649,hsa:649,KEGG gene entry hsa:649
+PW01416,Physiological factors,R-HSA-5578768,Reactome pathway R-HSA-5578768
+PW01417,Cardiogenesis,R-HSA-9733709,Reactome pathway R-HSA-9733709
+PW01418,Formation of lateral plate mesoderm,R-HSA-9758920,Reactome pathway R-HSA-9758920
+PW01419,Developmental Lineage of Multipotent Pancreatic Progenitor Cells,R-HSA-9937080,Reactome pathway R-HSA-9937080
+PW01420,hsa:2626,hsa:2626,KEGG gene entry hsa:2626
+PW01421,hsa:3075,hsa:3075,KEGG gene entry hsa:3075
+PW01422,hsa:6678,hsa:6678,KEGG gene entry hsa:6678
+PW01423,hsa:4288,hsa:4288,KEGG gene entry hsa:4288
+PW01424,G0 and Early G1,R-HSA-1538133,Reactome pathway R-HSA-1538133
+PW01425,CDK-mediated phosphorylation and removal of Cdc6,R-HSA-69017,Reactome pathway R-HSA-69017
+PW01426,hsa:9134,hsa:9134,KEGG gene entry hsa:9134
+PW01427,hsa:2169,hsa:2169,KEGG gene entry hsa:2169
+PW01428,hsa:2810,hsa:2810,KEGG gene entry hsa:2810
+PW01429,Sensory processing of sound by inner hair cells of the cochlea,R-HSA-9662360,Reactome pathway R-HSA-9662360
+PW01430,Sensory processing of sound by outer hair cells of the cochlea,R-HSA-9662361,Reactome pathway R-HSA-9662361
+PW01431,hsa:7430,hsa:7430,KEGG gene entry hsa:7430
+PW01432,hsa:6362,hsa:6362,KEGG gene entry hsa:6362
+PW01433,hsa:5154,hsa:5154,KEGG gene entry hsa:5154
+PW01434,hsa:2352,hsa:2352,KEGG gene entry hsa:2352
+PW01435,Voltage gated Potassium channels,R-HSA-1296072,Reactome pathway R-HSA-1296072
+PW01436,hsa:27133,hsa:27133,KEGG gene entry hsa:27133
+PW01437,ATP sensitive Potassium channels,R-HSA-1296025,Reactome pathway R-HSA-1296025
+PW01438,hsa:3764,hsa:3764,KEGG gene entry hsa:3764
+PW01439,hsa:6364,hsa:6364,KEGG gene entry hsa:6364
+PW01440,E2F-enabled inhibition of pre-replication complex formation,R-HSA-113507,Reactome pathway R-HSA-113507
+PW01441,Polo-like kinase mediated events,R-HSA-156711,Reactome pathway R-HSA-156711
+PW01442,APC/C:Cdc20 mediated degradation of Cyclin B,R-HSA-174048,Reactome pathway R-HSA-174048
+PW01443,Regulation of APC/C activators between G1/S and early anaphase,R-HSA-176408,Reactome pathway R-HSA-176408
+PW01444,Phosphorylation of the APC/C,R-HSA-176412,Reactome pathway R-HSA-176412
+PW01445,Phosphorylation of Emi1,R-HSA-176417,Reactome pathway R-HSA-176417
+PW01446,MASTL Facilitates Mitotic Progression,R-HSA-2465910,Reactome pathway R-HSA-2465910
+PW01447,"Activation of NIMA Kinases NEK9, NEK6, NEK7",R-HSA-2980767,Reactome pathway R-HSA-2980767
+PW01448,Nuclear Pore Complex (NPC) Disassembly,R-HSA-3301854,Reactome pathway R-HSA-3301854
+PW01449,Mitotic Prophase,R-HSA-68875,Reactome pathway R-HSA-68875
+PW01450,Cyclin A/B1/B2 associated events during G2/M transition,R-HSA-69273,Reactome pathway R-HSA-69273
+PW01451,G2/M DNA replication checkpoint,R-HSA-69478,Reactome pathway R-HSA-69478
+PW01452,hsa:891,hsa:891,KEGG gene entry hsa:891
+PW01453,Elastic fibre formation,R-HSA-1566948,Reactome pathway R-HSA-1566948
+PW01454,CHL1 interactions,R-HSA-447041,Reactome pathway R-HSA-447041
+PW01455,hsa:3688,hsa:3688,KEGG gene entry hsa:3688
+PW01456,Alpha-defensins,R-HSA-1462054,Reactome pathway R-HSA-1462054
+PW01457,Nef Mediated CD4 Down-regulation,R-HSA-167590,Reactome pathway R-HSA-167590
+PW01458,Binding and entry of HIV virion,R-HSA-173107,Reactome pathway R-HSA-173107
+PW01459,hsa:920,hsa:920,KEGG gene entry hsa:920
+PW01460,hsa:3690,hsa:3690,KEGG gene entry hsa:3690
+PW01461,hsa:6367,hsa:6367,KEGG gene entry hsa:6367
+PW01462,hsa:1116,hsa:1116,KEGG gene entry hsa:1116
+PW01463,hsa:5654,hsa:5654,KEGG gene entry hsa:5654
+PW01464,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,R-HSA-210744,Reactome pathway R-HSA-210744
+PW01465,B-WICH complex positively regulates rRNA expression,R-HSA-5250924,Reactome pathway R-HSA-5250924
+PW01466,CD209 (DC-SIGN) signaling,R-HSA-5621575,Reactome pathway R-HSA-5621575
+PW01467,hsa:2033,hsa:2033,KEGG gene entry hsa:2033
+PW01468,hsa:57124,hsa:57124,KEGG gene entry hsa:57124
+PW01469,Mtb iron assimilation by chelation,R-HSA-1222449,Reactome pathway R-HSA-1222449
+PW01470,Metal sequestration by antimicrobial proteins,R-HSA-6799990,Reactome pathway R-HSA-6799990
+PW01471,hsa:4057,hsa:4057,KEGG gene entry hsa:4057
+PW01472,hsa:871,hsa:871,KEGG gene entry hsa:871
+PW01473,hsa:8013,hsa:8013,KEGG gene entry hsa:8013
+PW01474,hsa:972,hsa:972,KEGG gene entry hsa:972
+PW01475,hsa:6385,hsa:6385,KEGG gene entry hsa:6385
+PW01476,hsa:2073,hsa:2073,KEGG gene entry hsa:2073
+PW01477,hsa:92304,hsa:92304,KEGG gene entry hsa:92304
+PW01478,Vitamin B1 (thiamin) metabolism,R-HSA-196819,Reactome pathway R-HSA-196819
+PW01479,hsa:27010,hsa:27010,KEGG gene entry hsa:27010
+PW01480,hsa:1001,hsa:1001,KEGG gene entry hsa:1001
+PW01481,hsa:1191,hsa:1191,KEGG gene entry hsa:1191
+PW01482,hsa:3487,hsa:3487,KEGG gene entry hsa:3487
+PW01483,hsa:6288,hsa:6288,KEGG gene entry hsa:6288
+PW01484,hsa:2669,hsa:2669,KEGG gene entry hsa:2669
+PW01485,Pentose phosphate pathway,R-HSA-71336,Reactome pathway R-HSA-71336
+PW01486,NFE2L2 regulates pentose phosphate pathway genes,R-HSA-9818028,Reactome pathway R-HSA-9818028
+PW01487,hsa:5226,hsa:5226,KEGG gene entry hsa:5226
+PW01488,hsa:3426,hsa:3426,KEGG gene entry hsa:3426
+PW01489,hsa:1284,hsa:1284,KEGG gene entry hsa:1284
+PW01490,Type I hemidesmosome assembly,R-HSA-446107,Reactome pathway R-HSA-446107
+PW01491,hsa:3918,hsa:3918,KEGG gene entry hsa:3918
+PW01492,hsa:3915,hsa:3915,KEGG gene entry hsa:3915
+PW01493,hsa:3911,hsa:3911,KEGG gene entry hsa:3911
+PW01494,hsa:2335,hsa:2335,KEGG gene entry hsa:2335
+PW01495,hsa:629,hsa:629,KEGG gene entry hsa:629
+PW01496,hsa:1397,hsa:1397,KEGG gene entry hsa:1397
+PW01497,hsa:1396,hsa:1396,KEGG gene entry hsa:1396
+PW01498,hsa:2919,hsa:2919,KEGG gene entry hsa:2919
+PW01499,hsa:1360,hsa:1360,KEGG gene entry hsa:1360
+PW01500,hsa:1466,hsa:1466,KEGG gene entry hsa:1466
+PW01501,hsa:1469,hsa:1469,KEGG gene entry hsa:1469
+PW01502,hsa:102800317,hsa:102800317,KEGG gene entry hsa:102800317
+PW01503,hsa:1454,hsa:1454,KEGG gene entry hsa:1454
+PW01504,hsa:10563,hsa:10563,KEGG gene entry hsa:10563
+PW01505,hsa:1485,hsa:1485,KEGG gene entry hsa:1485
+PW01506,hsa:246100,hsa:246100,KEGG gene entry hsa:246100
+PW01507,hsa:30848,hsa:30848,KEGG gene entry hsa:30848
+PW01508,hsa:4150,hsa:4150,KEGG gene entry hsa:4150
+PW01509,Surfactant metabolism,R-HSA-5683826,Reactome pathway R-HSA-5683826
+PW01510,Defective pro-SFTPB causes SMDP1 and RDS,R-HSA-5688031,Reactome pathway R-HSA-5688031
+PW01511,Defective CSF2RB causes SMDP5,R-HSA-5688849,Reactome pathway R-HSA-5688849
+PW01512,Defective CSF2RA causes SMDP4,R-HSA-5688890,Reactome pathway R-HSA-5688890
+PW01513,hsa:6439,hsa:6439,KEGG gene entry hsa:6439
+PW01514,hsa:1509,hsa:1509,KEGG gene entry hsa:1509
+PW01515,Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM),R-HSA-5656364,Reactome pathway R-HSA-5656364
+PW01516,Intestinal hexose absorption,R-HSA-8981373,Reactome pathway R-HSA-8981373
+PW01517,hsa:6523,hsa:6523,KEGG gene entry hsa:6523
+PW01518,hsa:4321,hsa:4321,KEGG gene entry hsa:4321
+PW01519,DSCAM interactions,R-HSA-376172,Reactome pathway R-HSA-376172
+PW01520,Caspase activation via Dependence Receptors in the absence of ligand,R-HSA-418889,Reactome pathway R-HSA-418889
+PW01521,Role of second messengers in netrin-1 signaling,R-HSA-418890,Reactome pathway R-HSA-418890
+PW01522,Regulation of commissural axon pathfinding by SLIT and ROBO,R-HSA-428542,Reactome pathway R-HSA-428542
+PW01523,hsa:1630,hsa:1630,KEGG gene entry hsa:1630
+PW01524,RUNX1 regulates transcription of genes involved in BCR signaling,R-HSA-8939245,Reactome pathway R-HSA-8939245
+PW01525,hsa:1998,hsa:1998,KEGG gene entry hsa:1998
+PW01526,The NLRP1 inflammasome,R-HSA-844455,Reactome pathway R-HSA-844455
+PW01527,hsa:22861,hsa:22861,KEGG gene entry hsa:22861
+PW01528,hsa:6137,hsa:6137,KEGG gene entry hsa:6137
+PW01529,Biosynthesis of protectins,R-HSA-9018681,Reactome pathway R-HSA-9018681
+PW01530,Biosynthesis of aspirin-triggered D-series resolvins,R-HSA-9020265,Reactome pathway R-HSA-9020265
+PW01531,Biosynthesis of E-series 18(R)-resolvins,R-HSA-9023661,Reactome pathway R-HSA-9023661
+PW01532,hsa:4048,hsa:4048,KEGG gene entry hsa:4048
+PW01533,hsa:1612,hsa:1612,KEGG gene entry hsa:1612
+PW01534,Pyruvate metabolism,R-HSA-70268,Reactome pathway R-HSA-70268
+PW01535,hsa:2739,hsa:2739,KEGG gene entry hsa:2739
+PW01536,RHOBTB1 GTPase cycle,R-HSA-9013422,Reactome pathway R-HSA-9013422
+PW01537,hsa:1627,hsa:1627,KEGG gene entry hsa:1627
+PW01538,Protein lipoylation,R-HSA-9857492,Reactome pathway R-HSA-9857492
+PW01539,"BCKDH synthesizes BCAA-CoA from KIC, KMVA, KIV",R-HSA-9859138,Reactome pathway R-HSA-9859138
+PW01540,Loss-of-function mutations in DBT cause MSUD2,R-HSA-9865113,Reactome pathway R-HSA-9865113
+PW01541,Loss-of-function mutations in BCKDHA or BCKDHB cause MSUD,R-HSA-9865125,Reactome pathway R-HSA-9865125
+PW01542,Loss-of-function mutations in DLD cause MSUD3/DLDD,R-HSA-9907570,Reactome pathway R-HSA-9907570
+PW01543,Branched-chain ketoacid dehydrogenase kinase deficiency,R-HSA-9912481,Reactome pathway R-HSA-9912481
+PW01544,H139Hfs13* PPM1K causes a mild variant of MSUD,R-HSA-9912529,Reactome pathway R-HSA-9912529
+PW01545,hsa:1629,hsa:1629,KEGG gene entry hsa:1629
+PW01546,hsa:4316,hsa:4316,KEGG gene entry hsa:4316
+PW01547,hsa:1657,hsa:1657,KEGG gene entry hsa:1657
+PW01548,"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",R-HSA-5083628,Reactome pathway R-HSA-5083628
+PW01549,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",R-HSA-5083629,Reactome pathway R-HSA-5083629
+PW01550,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",R-HSA-5083633,Reactome pathway R-HSA-5083633
+PW01551,DAG1 core M2 glycosylations,R-HSA-8932504,Reactome pathway R-HSA-8932504
+PW01552,DAG1 core M3 glycosylations,R-HSA-8932505,Reactome pathway R-HSA-8932505
+PW01553,DAG1 core M1 glycosylations,R-HSA-8932506,Reactome pathway R-HSA-8932506
+PW01554,Matriglycan biosynthesis on DAG1,R-HSA-9939291,Reactome pathway R-HSA-9939291
+PW01555,hsa:1605,hsa:1605,KEGG gene entry hsa:1605
+PW01556,hsa:1611,hsa:1611,KEGG gene entry hsa:1611
+PW01557,hsa:4311,hsa:4311,KEGG gene entry hsa:4311
+PW01558,Regulation of pyruvate dehydrogenase (PDH) complex,R-HSA-204174,Reactome pathway R-HSA-204174
+PW01559,Glycine degradation,R-HSA-6783984,Reactome pathway R-HSA-6783984
+PW01560,OGDH complex synthesizes succinyl-CoA from 2-OG,R-HSA-9853506,Reactome pathway R-HSA-9853506
+PW01561,OADH complex synthesizes glutaryl-CoA from 2-OA,R-HSA-9858328,Reactome pathway R-HSA-9858328
+PW01562,PDH complex synthesizes acetyl-CoA from PYR,R-HSA-9861559,Reactome pathway R-HSA-9861559
+PW01563,hsa:1738,hsa:1738,KEGG gene entry hsa:1738
+PW01564,hsa:1824,hsa:1824,KEGG gene entry hsa:1824
+PW01565,hsa:1760,hsa:1760,KEGG gene entry hsa:1760
+PW01566,hsa:1762,hsa:1762,KEGG gene entry hsa:1762
+PW01567,hsa:50964,hsa:50964,KEGG gene entry hsa:50964
+PW01568,hsa:4582,hsa:4582,KEGG gene entry hsa:4582
+PW01569,hsa:2001,hsa:2001,KEGG gene entry hsa:2001
+PW01570,hsa:1946,hsa:1946,KEGG gene entry hsa:1946
+PW01571,Vitamin B5 (pantothenate) metabolism,R-HSA-199220,Reactome pathway R-HSA-199220
+PW01572,hsa:5168,hsa:5168,KEGG gene entry hsa:5168
+PW01573,Hypusine synthesis from eIF5A-lysine,R-HSA-204626,Reactome pathway R-HSA-204626
+PW01574,hsa:1984,hsa:1984,KEGG gene entry hsa:1984
+PW01575,hsa:5792,hsa:5792,KEGG gene entry hsa:5792
+PW01576,RAB geranylgeranylation,R-HSA-8873719,Reactome pathway R-HSA-8873719
+PW01577,Prevention of phagosomal-lysosomal fusion,R-HSA-9636383,Reactome pathway R-HSA-9636383
+PW01578,hsa:5868,hsa:5868,KEGG gene entry hsa:5868
+PW01579,WNT ligand biogenesis and trafficking,R-HSA-3238698,Reactome pathway R-HSA-3238698
+PW01580,hsa:55737,hsa:55737,KEGG gene entry hsa:55737
+PW01581,hsa:7518,hsa:7518,KEGG gene entry hsa:7518
+PW01582,hsa:5005,hsa:5005,KEGG gene entry hsa:5005
+PW01583,hsa:10549,hsa:10549,KEGG gene entry hsa:10549
+PW01584,hsa:7126,hsa:7126,KEGG gene entry hsa:7126
+PW01585,SHC-mediated cascade:FGFR3,R-HSA-5654704,Reactome pathway R-HSA-5654704
+PW01586,FRS-mediated FGFR3 signaling,R-HSA-5654706,Reactome pathway R-HSA-5654706
+PW01587,PI-3K cascade:FGFR3,R-HSA-5654710,Reactome pathway R-HSA-5654710
+PW01588,hsa:8817,hsa:8817,KEGG gene entry hsa:8817
+PW01589,Fc epsilon receptor (FCERI) signaling,R-HSA-2454202,Reactome pathway R-HSA-2454202
+PW01590,hsa:2205,hsa:2205,KEGG gene entry hsa:2205
+PW01591,hsa:2203,hsa:2203,KEGG gene entry hsa:2203
+PW01592,hsa:2273,hsa:2273,KEGG gene entry hsa:2273
+PW01593,Formation of axial mesoderm,R-HSA-9796292,Reactome pathway R-HSA-9796292
+PW01594,hsa:3169,hsa:3169,KEGG gene entry hsa:3169
+PW01595,hsa:2488,hsa:2488,KEGG gene entry hsa:2488
+PW01596,Cell-extracellular matrix interactions,R-HSA-446353,Reactome pathway R-HSA-446353
+PW01597,RHO GTPases activate PAKs,R-HSA-5627123,Reactome pathway R-HSA-5627123
+PW01598,hsa:2316,hsa:2316,KEGG gene entry hsa:2316
+PW01599,Defective GFPT1 causes CMSTA1,R-HSA-4085023,Reactome pathway R-HSA-4085023
+PW01600,Synthesis of UDP-N-acetyl-glucosamine,R-HSA-446210,Reactome pathway R-HSA-446210
+PW01601,hsa:2673,hsa:2673,KEGG gene entry hsa:2673
+PW01602,hsa:2688,hsa:2688,KEGG gene entry hsa:2688
+PW01603,hsa:2731,hsa:2731,KEGG gene entry hsa:2731
+PW01604,hsa:2591,hsa:2591,KEGG gene entry hsa:2591
+PW01605,Maturation of spike protein,R-HSA-9683686,Reactome pathway R-HSA-9683686
+PW01606,Maturation of spike protein,R-HSA-9694548,Reactome pathway R-HSA-9694548
+PW01607,hsa:23193,hsa:23193,KEGG gene entry hsa:23193
+PW01608,Class A/1 (Rhodopsin-like receptors),R-HSA-373076,Reactome pathway R-HSA-373076
+PW01609,hsa:2863,hsa:2863,KEGG gene entry hsa:2863
+PW01610,Glutamate and glutamine metabolism,R-HSA-8964539,Reactome pathway R-HSA-8964539
+PW01611,hsa:2746,hsa:2746,KEGG gene entry hsa:2746
+PW01612,hsa:2821,hsa:2821,KEGG gene entry hsa:2821
+PW01613,PTK6 promotes HIF1A stabilization,R-HSA-8857538,Reactome pathway R-HSA-8857538
+PW01614,hsa:10457,hsa:10457,KEGG gene entry hsa:10457
+PW01615,Defective GSS causes GSS deficiency,R-HSA-5579006,Reactome pathway R-HSA-5579006
+PW01616,hsa:2937,hsa:2937,KEGG gene entry hsa:2937
+PW01617,hsa:2896,hsa:2896,KEGG gene entry hsa:2896
+PW01618,hsa:2824,hsa:2824,KEGG gene entry hsa:2824
+PW01619,hsa:2745,hsa:2745,KEGG gene entry hsa:2745
+PW01620,hsa:57817,hsa:57817,KEGG gene entry hsa:57817
+PW01621,hsa:2954,hsa:2954,KEGG gene entry hsa:2954
+PW01622,hsa:3006,hsa:3006,KEGG gene entry hsa:3006
+PW01623,Trafficking and processing of endosomal TLR,R-HSA-1679131,Reactome pathway R-HSA-1679131
+PW01624,hsa:7184,hsa:7184,KEGG gene entry hsa:7184
+PW01625,hsa:3202,hsa:3202,KEGG gene entry hsa:3202
+PW01626,hsa:3205,hsa:3205,KEGG gene entry hsa:3205
+PW01627,Sensory perception of salty taste,R-HSA-9730628,Reactome pathway R-HSA-9730628
+PW01628,hsa:6337,hsa:6337,KEGG gene entry hsa:6337
+PW01629,Protein repair,R-HSA-5676934,Reactome pathway R-HSA-5676934
+PW01630,hsa:7295,hsa:7295,KEGG gene entry hsa:7295
+PW01631,hsa:3201,hsa:3201,KEGG gene entry hsa:3201
+PW01632,Translesion synthesis by REV1,R-HSA-110312,Reactome pathway R-HSA-110312
+PW01633,Translesion Synthesis by POLH,R-HSA-110320,Reactome pathway R-HSA-110320
+PW01634,Downregulation of ERBB4 signaling,R-HSA-1253288,Reactome pathway R-HSA-1253288
+PW01635,Budding and maturation of HIV virion,R-HSA-162588,Reactome pathway R-HSA-162588
+PW01636,hsa:6233,hsa:6233,KEGG gene entry hsa:6233
+PW01637,hsa:6133,hsa:6133,KEGG gene entry hsa:6133
+PW01638,hsa:6141,hsa:6141,KEGG gene entry hsa:6141
+PW01639,hsa:2040,hsa:2040,KEGG gene entry hsa:2040
+PW01640,Maturation of nucleoprotein,R-HSA-9694631,Reactome pathway R-HSA-9694631
+PW01641,hsa:3276,hsa:3276,KEGG gene entry hsa:3276
+PW01642,Cation-coupled Chloride cotransporters,R-HSA-426117,Reactome pathway R-HSA-426117
+PW01643,hsa:6558,hsa:6558,KEGG gene entry hsa:6558
+PW01644,hsa:3223,hsa:3223,KEGG gene entry hsa:3223
+PW01645,hsa:3273,hsa:3273,KEGG gene entry hsa:3273
+PW01646,Mitochondrial protein import,R-HSA-1268020,Reactome pathway R-HSA-1268020
+PW01647,Complex I biogenesis,R-HSA-6799198,Reactome pathway R-HSA-6799198
+PW01648,Cristae formation,R-HSA-8949613,Reactome pathway R-HSA-8949613
+PW01649,Complex III assembly,R-HSA-9865881,Reactome pathway R-HSA-9865881
+PW01650,hsa:3313,hsa:3313,KEGG gene entry hsa:3313
+PW01651,hsa:3383,hsa:3383,KEGG gene entry hsa:3383
+PW01652,hsa:3479,hsa:3479,KEGG gene entry hsa:3479
+PW01653,hsa:126393,hsa:126393,KEGG gene entry hsa:126393
+PW01654,Retrograde transport at the Trans-Golgi-Network,R-HSA-6811440,Reactome pathway R-HSA-6811440
+PW01655,hsa:3482,hsa:3482,KEGG gene entry hsa:3482
+PW01656,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,R-HSA-9609523,Reactome pathway R-HSA-9609523
+PW01657,hsa:5621,hsa:5621,KEGG gene entry hsa:5621
+PW01658,hsa:27190,hsa:27190,KEGG gene entry hsa:27190
+PW01659,hsa:4684,hsa:4684,KEGG gene entry hsa:4684
+PW01660,Interleukin-15 signaling,R-HSA-8983432,Reactome pathway R-HSA-8983432
+PW01661,hsa:3601,hsa:3601,KEGG gene entry hsa:3601
+PW01662,RUNX2 regulates genes involved in cell migration,R-HSA-8941332,Reactome pathway R-HSA-8941332
+PW01663,GPER1 signaling,R-HSA-9634597,Reactome pathway R-HSA-9634597
+PW01664,hsa:3678,hsa:3678,KEGG gene entry hsa:3678
+PW01665,Evasion by RSV of host interferon responses,R-HSA-9833109,Reactome pathway R-HSA-9833109
+PW01666,hsa:6773,hsa:6773,KEGG gene entry hsa:6773
+PW01667,hsa:3916,hsa:3916,KEGG gene entry hsa:3916
+PW01668,Insulin processing,R-HSA-264876,Reactome pathway R-HSA-264876
+PW01669,hsa:3799,hsa:3799,KEGG gene entry hsa:3799
+PW01670,hsa:3827,hsa:3827,KEGG gene entry hsa:3827
+PW01671,Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,R-HSA-5625886,Reactome pathway R-HSA-5625886
+PW01672,hsa:3817,hsa:3817,KEGG gene entry hsa:3817
+PW01673,hsa:5650,hsa:5650,KEGG gene entry hsa:5650
+PW01674,hsa:84823,hsa:84823,KEGG gene entry hsa:84823
+PW01675,hsa:3964,hsa:3964,KEGG gene entry hsa:3964
+PW01676,Lysosphingolipid and LPA receptors,R-HSA-419408,Reactome pathway R-HSA-419408
+PW01677,hsa:23566,hsa:23566,KEGG gene entry hsa:23566
+PW01678,Transport and metabolism of PAPS,R-HSA-174362,Reactome pathway R-HSA-174362
+PW01679,Defective SLC26A2 causes chondrodysplasias,R-HSA-3560792,Reactome pathway R-HSA-3560792
+PW01680,Multifunctional anion exchangers,R-HSA-427601,Reactome pathway R-HSA-427601
+PW01681,hsa:1836,hsa:1836,KEGG gene entry hsa:1836
+PW01682,hsa:6051,hsa:6051,KEGG gene entry hsa:6051
+PW01683,hsa:10988,hsa:10988,KEGG gene entry hsa:10988
+PW01684,hsa:10232,hsa:10232,KEGG gene entry hsa:10232
+PW01685,Respiratory electron transport,R-HSA-611105,Reactome pathway R-HSA-611105
+PW01686,hsa:4705,hsa:4705,KEGG gene entry hsa:4705
+PW01687,hsa:4924,hsa:4924,KEGG gene entry hsa:4924
+PW01688,P2Y receptors,R-HSA-417957,Reactome pathway R-HSA-417957
+PW01689,hsa:9934,hsa:9934,KEGG gene entry hsa:9934
+PW01690,hsa:5225,hsa:5225,KEGG gene entry hsa:5225
+PW01691,Purine salvage,R-HSA-74217,Reactome pathway R-HSA-74217
+PW01692,Defective PNP disrupts phosphorolysis of (deoxy)guanosine and (deoxy)inosine,R-HSA-9735763,Reactome pathway R-HSA-9735763
+PW01693,hsa:4860,hsa:4860,KEGG gene entry hsa:4860
+PW01694,Synthesis of glycosylphosphatidylinositol (GPI),R-HSA-162710,Reactome pathway R-HSA-162710
+PW01695,hsa:5281,hsa:5281,KEGG gene entry hsa:5281
+PW01696,hsa:8842,hsa:8842,KEGG gene entry hsa:8842
+PW01697,snRNP Assembly,R-HSA-191859,Reactome pathway R-HSA-191859
+PW01698,Regulation of TP53 Activity through Methylation,R-HSA-6804760,Reactome pathway R-HSA-6804760
+PW01699,hsa:10419,hsa:10419,KEGG gene entry hsa:10419
+PW01700,hsa:5746,hsa:5746,KEGG gene entry hsa:5746
+PW01701,hsa:5754,hsa:5754,KEGG gene entry hsa:5754
+PW01702,hsa:8000,hsa:8000,KEGG gene entry hsa:8000
+PW01703,hsa:5265,hsa:5265,KEGG gene entry hsa:5265
+PW01704,hsa:6402,hsa:6402,KEGG gene entry hsa:6402
+PW01705,hsa:3053,hsa:3053,KEGG gene entry hsa:3053
+PW01706,Type II Na+/Pi cotransporters,R-HSA-427589,Reactome pathway R-HSA-427589
+PW01707,Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM),R-HSA-5619045,Reactome pathway R-HSA-5619045
+PW01708,Defective SLC34A2 causes PALM,R-HSA-5687583,Reactome pathway R-HSA-5687583
+PW01709,hsa:10568,hsa:10568,KEGG gene entry hsa:10568
+PW01710,Zinc influx into cells by the SLC39 gene family,R-HSA-442380,Reactome pathway R-HSA-442380
+PW01711,hsa:25800,hsa:25800,KEGG gene entry hsa:25800
+PW01712,Amino acid transport across the plasma membrane,R-HSA-352230,Reactome pathway R-HSA-352230
+PW01713,Defective SLC7A7 causes lysinuric protein intolerance (LPI),R-HSA-5660862,Reactome pathway R-HSA-5660862
+PW01714,Tryptophan catabolism,R-HSA-71240,Reactome pathway R-HSA-71240
+PW01715,hsa:6520,hsa:6520,KEGG gene entry hsa:6520
+PW01716,hsa:7037,hsa:7037,KEGG gene entry hsa:7037
+PW01717,TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,R-HSA-5676594,Reactome pathway R-HSA-5676594
+PW01718,hsa:407977,hsa:407977,KEGG gene entry hsa:407977
+PW01719,hsa:8742,hsa:8742,KEGG gene entry hsa:8742
+PW01720,hsa:8718,hsa:8718,KEGG gene entry hsa:8718
+PW01721,hsa:7114,hsa:7114,KEGG gene entry hsa:7114
+PW01722,hsa:677,hsa:677,KEGG gene entry hsa:677
