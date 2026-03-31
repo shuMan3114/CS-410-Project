@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Annotate — BioLitRecs</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0f172a;
+      --card:      #1e293b;
+      --accent:    #0ea5e9;
+      --accent-dim:#0284c7;
+      --text:      #f8fafc;
+      --muted:     #94a3b8;
+      --border:    #334155;
+      --green:     #22c55e;
+      --red:       #ef4444;
+      --amber:     #f59e0b;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    /* ── NAVBAR ── */
+    nav {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+    .nav-logo span { color: var(--text); }
+    .nav-links { display: flex; gap: 0.25rem; }
+    .nav-links a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      padding: 0.4rem 0.85rem;
+      border-radius: 6px;
+      transition: color 0.15s, background 0.15s;
+    }
+    .nav-links a:hover { color: var(--text); background: var(--border); }
+    .nav-links a.active { color: var(--accent); background: rgba(14,165,233,0.1); }
+
+    /* ── PROGRESS BAR ── */
+    .progress-bar-wrap {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 0.75rem 2rem;
+    }
+    .progress-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+    }
+    .progress-label {
+      font-size: 0.82rem;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .progress-label strong { color: var(--text); }
+    .progress-track {
+      flex: 1;
+      height: 8px;
+      background: var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent), #38bdf8);
+      border-radius: 4px;
+      transition: width 0.4s ease;
+    }
+    .progress-pct {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--accent);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .session-badge {
+      font-size: 0.75rem;
+      background: rgba(34,197,94,0.1);
+      border: 1px solid rgba(34,197,94,0.25);
+      color: var(--green);
+      padding: 0.2rem 0.6rem;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+
+    /* ── PAGE LAYOUT ── */
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 1.5rem;
+      align-items: start;
+    }
+
+    /* ── ANNOTATION CARD ── */
+    .annotation-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+    .annotation-header {
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .annotation-header-left { display: flex; align-items: center; gap: 0.75rem; }
+    .queue-badge {
+      font-size: 0.75rem;
+      font-weight: 700;
+      background: var(--border);
+      color: var(--muted);
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+    .annotation-pair {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+    }
+    .pair-tag {
+      font-weight: 700;
+      color: var(--accent);
+      background: rgba(14,165,233,0.1);
+      padding: 0.2rem 0.6rem;
+      border-radius: 6px;
+    }
+    .pair-sep { color: var(--muted); }
+    .pair-drug-tag {
+      font-weight: 700;
+      color: var(--green);
+      background: rgba(34,197,94,0.1);
+      padding: 0.2rem 0.6rem;
+      border-radius: 6px;
+    }
+    .annotation-header-right { display: flex; gap: 0.5rem; }
+    .btn-sm {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.35rem 0.75rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      transition: all 0.15s;
+    }
+    .btn-sm:hover { color: var(--text); border-color: var(--accent); }
+
+    /* ── PAPER BODY ── */
+    .paper-body { padding: 1.75rem 1.5rem; }
+    .paper-journal-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .journal-name { font-size: 0.82rem; color: var(--accent); font-weight: 600; }
+    .paper-year { font-size: 0.82rem; color: var(--muted); }
+    .impact-badge {
+      font-size: 0.72rem;
+      background: rgba(14,165,233,0.1);
+      border: 1px solid rgba(14,165,233,0.2);
+      color: var(--accent);
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+    }
+    .paper-title-lg {
+      font-size: 1.2rem;
+      font-weight: 800;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.25rem;
+    }
+    .abstract-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 0.5rem;
+    }
+    .abstract-text {
+      font-size: 0.925rem;
+      color: #cbd5e1;
+      line-height: 1.75;
+    }
+    .abstract-text mark {
+      background: rgba(14,165,233,0.2);
+      color: var(--accent);
+      border-radius: 3px;
+      padding: 0 2px;
+      font-weight: 600;
+    }
+    .abstract-text mark.m-drug {
+      background: rgba(34,197,94,0.18);
+      color: var(--green);
+    }
+
+    /* ── STANCE BUTTONS ── */
+    .stance-section {
+      padding: 1.5rem;
+      border-top: 1px solid var(--border);
+      background: rgba(15,23,42,0.4);
+    }
+    .stance-prompt {
+      text-align: center;
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+    }
+    .stance-prompt strong { color: var(--text); }
+    .stance-buttons {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+    .stance-btn {
+      padding: 1rem;
+      border-radius: 10px;
+      border: 2px solid transparent;
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-weight: 700;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.4rem;
+      transition: all 0.15s;
+    }
+    .stance-btn .kbd {
+      font-size: 0.72rem;
+      font-weight: 500;
+      opacity: 0.7;
+      font-family: monospace;
+      background: rgba(0,0,0,0.2);
+      padding: 0.1rem 0.4rem;
+      border-radius: 3px;
+    }
+    .btn-supporting {
+      background: rgba(34,197,94,0.1);
+      color: var(--green);
+      border-color: rgba(34,197,94,0.3);
+    }
+    .btn-supporting:hover, .btn-supporting.selected {
+      background: rgba(34,197,94,0.22);
+      border-color: var(--green);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(34,197,94,0.2);
+    }
+    .btn-opposing {
+      background: rgba(239,68,68,0.1);
+      color: var(--red);
+      border-color: rgba(239,68,68,0.3);
+    }
+    .btn-opposing:hover, .btn-opposing.selected {
+      background: rgba(239,68,68,0.22);
+      border-color: var(--red);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(239,68,68,0.2);
+    }
+    .btn-unclear {
+      background: rgba(245,158,11,0.1);
+      color: var(--amber);
+      border-color: rgba(245,158,11,0.3);
+    }
+    .btn-unclear:hover, .btn-unclear.selected {
+      background: rgba(245,158,11,0.22);
+      border-color: var(--amber);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(245,158,11,0.2);
+    }
+    .stance-icon { font-size: 1.4rem; }
+
+    /* ── ACTION ROW ── */
+    .action-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .action-left { display: flex; gap: 0.5rem; }
+    .btn-skip {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .btn-skip:hover { border-color: var(--amber); color: var(--amber); }
+    .btn-flag {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      transition: all 0.15s;
+    }
+    .btn-flag:hover { border-color: var(--red); color: var(--red); }
+    .btn-submit {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 0.55rem 1.5rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+      opacity: 0.4;
+      pointer-events: none;
+    }
+    .btn-submit.ready { opacity: 1; pointer-events: auto; }
+    .btn-submit.ready:hover { background: var(--accent-dim); }
+
+    /* ── SIDEBAR ── */
+    .sidebar { display: flex; flex-direction: column; gap: 1rem; }
+    .sidebar-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+    }
+    .sidebar-card h3 {
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 0.9rem;
+    }
+    .info-row { display: flex; flex-direction: column; gap: 0.6rem; }
+    .info-item {}
+    .info-label { font-size: 0.72rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .info-value { font-size: 0.88rem; color: var(--text); }
+
+    .guideline-list { display: flex; flex-direction: column; gap: 0.5rem; }
+    .guideline-item {
+      display: flex;
+      gap: 0.6rem;
+      align-items: flex-start;
+      font-size: 0.82rem;
+    }
+    .guide-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      margin-top: 5px;
+    }
+    .guide-text { color: var(--muted); line-height: 1.5; }
+    .guide-text strong { color: var(--text); }
+
+    .queue-list { display: flex; flex-direction: column; gap: 0.4rem; }
+    .queue-item {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.5rem 0.75rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: background 0.12s;
+    }
+    .queue-item:hover { background: var(--border); }
+    .queue-item.current { background: rgba(14,165,233,0.1); border: 1px solid rgba(14,165,233,0.2); }
+    .queue-num { color: var(--muted); font-family: monospace; width: 20px; flex-shrink: 0; font-size:0.75rem; }
+    .queue-pair { flex: 1; color: var(--text); }
+    .queue-pair span { color: var(--muted); }
+    .queue-status { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .qs-done { background: var(--green); }
+    .qs-current { background: var(--accent); }
+    .qs-pending { background: var(--border); }
+
+    .keyboard-hints { display: flex; flex-direction: column; gap: 0.4rem; }
+    .hint-row { display: flex; align-items: center; gap: 0.6rem; font-size: 0.8rem; color: var(--muted); }
+    .hint-row kbd {
+      background: var(--border);
+      border-radius: 4px;
+      padding: 0.15rem 0.5rem;
+      font-size: 0.75rem;
+      font-family: monospace;
+      color: var(--text);
+      min-width: 28px;
+      text-align: center;
+    }
+
+    /* ── TOAST ── */
+    #toast {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(80px);
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+      transition: transform 0.3s cubic-bezier(0.34,1.56,0.64,1);
+      z-index: 200;
+      white-space: nowrap;
+    }
+    #toast.show { transform: translateX(-50%) translateY(0); }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.82rem;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="nav-logo">Bio<span>LitRecs</span></a>
+    <div class="nav-links">
+      <a href="index.html">Search</a>
+      <a href="evidence.html">Evidence</a>
+      <a href="annotate.html" class="active">Annotate</a>
+    </div>
+  </div>
+</nav>
+
+<!-- PROGRESS BAR -->
+<div class="progress-bar-wrap">
+  <div class="progress-inner">
+    <span class="progress-label"><strong id="doneCount">0</strong> of <strong>8,056</strong> annotated</span>
+    <div class="progress-track">
+      <div class="progress-fill" id="progressFill" style="width:0%"></div>
+    </div>
+    <span class="progress-pct" id="progressPct">0.0%</span>
+  </div>
+</div>
+
+<!-- PAGE -->
+<div class="page">
+
+  <!-- ANNOTATION CARD -->
+  <div>
+    <div class="annotation-card">
+
+      <!-- CARD HEADER -->
+      <div class="annotation-header">
+        <div class="annotation-header-left">
+          <span class="queue-badge">#1</span>
+          <div class="annotation-pair">
+            <span class="pair-tag">EGFR</span>
+            <span class="pair-sep">×</span>
+            <span class="pair-drug-tag">Cetuximab</span>
+          </div>
+        </div>
+        <div class="annotation-header-right">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" class="btn-sm">
+            <svg width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            PubMed
+          </a>
+          <a href="evidence.html" class="btn-sm">
+            View Pair
+          </a>
+        </div>
+      </div>
+
+      <!-- PAPER CONTENT — Real paper from papers.csv: PMID 15118073 -->
+      <div class="paper-body">
+        <div class="paper-journal-row">
+          <span class="journal-name">The New England Journal of Medicine</span>
+          <span class="paper-year">2004-May-20</span>
+          <span class="paper-year">DOI: 10.1056/NEJMoa040938</span>
+        </div>
+        <div class="paper-title-lg">
+          Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib.
+        </div>
+        <div class="abstract-label">Abstract</div>
+        <div class="abstract-text">
+          Most patients with non-small-cell lung cancer have no response to the tyrosine kinase inhibitor gefitinib, which targets the <mark>epidermal growth factor receptor (EGFR)</mark>. However, about 10 percent of patients have a rapid and often dramatic clinical response. The molecular mechanisms underlying sensitivity to gefitinib are unknown. We searched for mutations in the <mark>EGFR</mark> gene in primary tumors from patients with non-small-cell lung cancer who had a response to gefitinib and found somatic mutations in the <mark>EGFR</mark> kinase domain. All mutations were within or near exons encoding the ATP binding domain of the enzyme, and 8 of 9 were either small in-frame deletions or amino acid substitutions at conserved positions. Two of the most common mutations were seen in other tumors: in 2 of 79 unselected adenocarcinomas and in 1 of 4 large-cell carcinomas of the lung. Kinase activity was increased for the mutant proteins relative to the wild-type protein. These findings suggest that mutations in the <mark>EGFR</mark> gene play a role in determining gefitinib sensitivity.
+        </div>
+      </div>
+
+      <!-- STANCE SECTION -->
+      <div class="stance-section">
+        <p class="stance-prompt">
+          Does this paper <strong>support, oppose, or remain unclear</strong> about <mark style="background:rgba(14,165,233,0.2);color:var(--accent);border-radius:3px;padding:0 3px;">EGFR</mark> as a biomarker for <mark style="background:rgba(34,197,94,0.18);color:var(--green);border-radius:3px;padding:0 3px;">Cetuximab</mark> response?
+        </p>
+        <div class="stance-buttons">
+          <button class="stance-btn btn-supporting" id="btn-supporting" onclick="selectStance('supporting')">
+            <span class="stance-icon">✓</span>
+            Supporting
+            <span class="kbd">press 1</span>
+          </button>
+          <button class="stance-btn btn-opposing" id="btn-opposing" onclick="selectStance('opposing')">
+            <span class="stance-icon">✗</span>
+            Opposing
+            <span class="kbd">press 2</span>
+          </button>
+          <button class="stance-btn btn-unclear" id="btn-unclear" onclick="selectStance('unclear')">
+            <span class="stance-icon">?</span>
+            Unclear
+            <span class="kbd">press 3</span>
+          </button>
+        </div>
+        <div class="action-row">
+          <div class="action-left">
+            <button class="btn-skip" onclick="skipPaper()">Skip</button>
+            <button class="btn-flag" onclick="flagPaper()">
+              <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+              Flag for Review
+            </button>
+          </div>
+          <button class="btn-submit" id="submitBtn" onclick="submitAnnotation()">Submit →</button>
+        </div>
+      </div>
+
+    </div><!-- /annotation-card -->
+  </div>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+
+    <!-- BIOMARKER CONTEXT -->
+    <div class="sidebar-card">
+      <h3>Biomarker Context</h3>
+      <div class="info-row">
+        <div class="info-item">
+          <div class="info-label">Gene Symbol</div>
+          <div class="info-value">EGFR</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">Biomarker Type</div>
+          <div class="info-value">Genomic</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">Cancer Organs</div>
+          <div class="info-value">Breast · Lung · Ovary · Prostate</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">EDRN Phase</div>
+          <div class="info-value">Phase 3</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">Description</div>
+          <div class="info-value" style="font-size:0.82rem;color:var(--muted);">[To be pulled from biomarkers.csv — Description field]</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- DRUG CONTEXT -->
+    <div class="sidebar-card">
+      <h3>Drug Context</h3>
+      <div class="info-row">
+        <div class="info-item">
+          <div class="info-label">Drug Name</div>
+          <div class="info-value">CETUXIMAB</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">Modality</div>
+          <div class="info-value">Antineoplastic Agents</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">Mechanism of Action</div>
+          <div class="info-value" style="color:var(--muted);">[To be pulled from drugs.csv — MechanismOfAction field]</div>
+        </div>
+        <div class="info-item">
+          <div class="info-label">Approved</div>
+          <div class="info-value" style="color:var(--green);">Yes</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ANNOTATION GUIDELINES -->
+    <div class="sidebar-card">
+      <h3>Annotation Guidelines</h3>
+      <div class="guideline-list">
+        <div class="guideline-item">
+          <div class="guide-dot" style="background:var(--green)"></div>
+          <div class="guide-text"><strong>Supporting:</strong> Paper shows EGFR expression/mutation predicts or correlates with cetuximab response or efficacy.</div>
+        </div>
+        <div class="guideline-item">
+          <div class="guide-dot" style="background:var(--red)"></div>
+          <div class="guide-text"><strong>Opposing:</strong> Paper shows EGFR status does not predict response, or finds resistance mechanisms that limit cetuximab efficacy.</div>
+        </div>
+        <div class="guideline-item">
+          <div class="guide-dot" style="background:var(--amber)"></div>
+          <div class="guide-text"><strong>Unclear:</strong> Paper mentions both or is inconclusive, methodologically insufficient, or is not a primary research article.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- QUEUE — Real pairs from stances.csv -->
+    <div class="sidebar-card">
+      <h3>Your Queue</h3>
+      <div class="queue-list">
+        <div class="queue-item current">
+          <span class="queue-num">1</span>
+          <span class="queue-pair">EGFR <span>× CETUXIMAB</span></span>
+          <div class="queue-status qs-current"></div>
+        </div>
+        <div class="queue-item">
+          <span class="queue-num">2</span>
+          <span class="queue-pair">ACTC1 <span>× DEXAMETHASONE</span></span>
+          <div class="queue-status qs-pending"></div>
+        </div>
+        <div class="queue-item">
+          <span class="queue-num">3</span>
+          <span class="queue-pair">AGT <span>× ENALAPRIL MALEATE</span></span>
+          <div class="queue-status qs-pending"></div>
+        </div>
+        <div class="queue-item">
+          <span class="queue-num">4</span>
+          <span class="queue-pair">AGT <span>× IMIDAPRIL</span></span>
+          <div class="queue-status qs-pending"></div>
+        </div>
+        <div class="queue-item">
+          <span class="queue-num">5</span>
+          <span class="queue-pair">AGT <span>× BENAZEPRIL</span></span>
+          <div class="queue-status qs-pending"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- KEYBOARD SHORTCUTS -->
+    <div class="sidebar-card">
+      <h3>Keyboard Shortcuts</h3>
+      <div class="keyboard-hints">
+        <div class="hint-row"><kbd>1</kbd> Supporting</div>
+        <div class="hint-row"><kbd>2</kbd> Opposing</div>
+        <div class="hint-row"><kbd>3</kbd> Unclear</div>
+        <div class="hint-row"><kbd>Enter</kbd> Submit annotation</div>
+        <div class="hint-row"><kbd>S</kbd> Skip paper</div>
+        <div class="hint-row"><kbd>F</kbd> Flag for review</div>
+      </div>
+    </div>
+
+  </aside>
+</div><!-- /page -->
+
+<footer>
+  BioLitRecs · Cancer Biomarker Literature Retrieval System · UIUC CS-410 · Data sourced from EDRN, UniProt, DGIdb, PubMed
+</footer>
+
+<div id="toast"></div>
+
+<script>
+  let selectedStance = null;
+  let done = 0;
+
+  function selectStance(stance) {
+    selectedStance = stance;
+    document.querySelectorAll('.stance-btn').forEach(b => b.classList.remove('selected'));
+    document.getElementById('btn-' + stance).classList.add('selected');
+    document.getElementById('submitBtn').classList.add('ready');
+  }
+
+  function submitAnnotation() {
+    if (!selectedStance) return;
+    done++;
+    document.getElementById('doneCount').textContent = done.toLocaleString();
+    const pct = ((done / 8056) * 100).toFixed(1);
+    document.getElementById('progressFill').style.width = pct + '%';
+    document.getElementById('progressPct').textContent = pct + '%';
+
+    const labels = { supporting: '✓ Labeled Supporting', opposing: '✗ Labeled Opposing', unclear: '? Labeled Unclear' };
+    const colors = { supporting: 'var(--green)', opposing: 'var(--red)', unclear: 'var(--amber)' };
+    showToast(labels[selectedStance], colors[selectedStance]);
+
+    selectedStance = null;
+    document.querySelectorAll('.stance-btn').forEach(b => b.classList.remove('selected'));
+    document.getElementById('submitBtn').classList.remove('ready');
+  }
+
+  function skipPaper() { showToast('Paper skipped', 'var(--muted)'); }
+  function flagPaper() { showToast('⚑ Flagged for review', 'var(--amber)'); }
+
+  function showToast(msg, color) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.style.color = color || 'var(--text)';
+    t.style.borderColor = color || 'var(--border)';
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 1800);
+  }
+
+  document.addEventListener('keydown', e => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+    if (e.key === '1') selectStance('supporting');
+    if (e.key === '2') selectStance('opposing');
+    if (e.key === '3') selectStance('unclear');
+    if (e.key === 'Enter') submitAnnotation();
+    if (e.key === 's' || e.key === 'S') skipPaper();
+    if (e.key === 'f' || e.key === 'F') flagPaper();
+  });
+</script>
+</body>
+</html>

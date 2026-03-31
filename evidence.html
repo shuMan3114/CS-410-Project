@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EGFR + Cetuximab — BioLitRecs</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0f172a;
+      --card:      #1e293b;
+      --accent:    #0ea5e9;
+      --accent-dim:#0284c7;
+      --text:      #f8fafc;
+      --muted:     #94a3b8;
+      --border:    #334155;
+      --green:     #22c55e;
+      --red:       #ef4444;
+      --amber:     #f59e0b;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    /* ── NAVBAR ── */
+    nav {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+    .nav-logo span { color: var(--text); }
+    .nav-links { display: flex; gap: 0.25rem; }
+    .nav-links a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      padding: 0.4rem 0.85rem;
+      border-radius: 6px;
+      transition: color 0.15s, background 0.15s;
+    }
+    .nav-links a:hover { color: var(--text); background: var(--border); }
+    .nav-links a.active { color: var(--accent); background: rgba(14,165,233,0.1); }
+
+    /* ── LAYOUT ── */
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* ── BREADCRUMB ── */
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 1.5rem;
+    }
+    .breadcrumb a { color: var(--muted); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--accent); }
+    .breadcrumb .sep { color: var(--border); }
+    .breadcrumb .current { color: var(--text); }
+
+    /* ── HEADER CARD ── */
+    .header-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 2rem;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 2rem;
+      align-items: center;
+      margin-bottom: 2rem;
+    }
+    .header-left {}
+    .header-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+    .cancer-badge {
+      font-size: 0.78rem;
+      font-weight: 600;
+      background: rgba(14,165,233,0.12);
+      border: 1px solid rgba(14,165,233,0.3);
+      color: var(--accent);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+    }
+    .edrn-badge {
+      font-size: 0.78rem;
+      background: rgba(34,197,94,0.1);
+      border: 1px solid rgba(34,197,94,0.25);
+      color: var(--green);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+    }
+    .header-title {
+      font-size: 2rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+      margin-bottom: 0.5rem;
+    }
+    .header-title .biomarker { color: var(--accent); }
+    .header-title .plus { color: var(--muted); margin: 0 0.4rem; font-weight: 400; }
+    .header-desc {
+      color: var(--muted);
+      font-size: 0.9rem;
+      max-width: 520px;
+      margin-bottom: 1.25rem;
+    }
+    .export-row { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.5rem 1.1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      border: none;
+      transition: all 0.15s;
+    }
+    .btn-outline {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
+    .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+    }
+    .btn-primary:hover { background: var(--accent-dim); }
+
+    /* ── DONUT CHART ── */
+    .header-right { display: flex; flex-direction: column; align-items: center; gap: 1rem; }
+    .donut-wrap {
+      position: relative;
+      width: 160px;
+      height: 160px;
+    }
+    .donut-wrap svg { transform: rotate(-90deg); }
+    .donut-center {
+      position: absolute;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+    .donut-total { font-size: 1.6rem; font-weight: 800; display: block; line-height: 1; }
+    .donut-label { font-size: 0.72rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+    .donut-legend { display: flex; flex-direction: column; gap: 0.4rem; }
+    .legend-item { display: flex; align-items: center; gap: 0.5rem; font-size: 0.82rem; }
+    .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .legend-name { color: var(--muted); min-width: 70px; }
+    .legend-pct { font-weight: 700; }
+
+    /* ── FILTERS + SORT BAR ── */
+    .controls-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1.25rem;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+    .controls-left { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .stance-filter {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.35rem 0.85rem;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .stance-filter:hover { border-color: var(--accent); color: var(--text); }
+    .stance-filter.active-all { border-color: var(--accent); color: var(--accent); background: rgba(14,165,233,0.1); }
+    .stance-filter.active-green { border-color: var(--green); color: var(--green); background: rgba(34,197,94,0.08); }
+    .stance-filter.active-red { border-color: var(--red); color: var(--red); background: rgba(239,68,68,0.08); }
+    .stance-filter.active-amber { border-color: var(--amber); color: var(--amber); background: rgba(245,158,11,0.08); }
+    .filter-dot { width: 8px; height: 8px; border-radius: 50%; }
+    .controls-right { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; color: var(--muted); }
+    .sort-select {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.35rem 0.75rem;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+
+    /* ── PAPER CARDS ── */
+    .papers-list { display: flex; flex-direction: column; gap: 1rem; }
+    .paper-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      transition: border-color 0.15s;
+    }
+    .paper-card:hover { border-color: var(--border); border-color: rgba(14,165,233,0.3); }
+    .paper-card.stance-supporting { border-left: 3px solid var(--green); }
+    .paper-card.stance-opposing   { border-left: 3px solid var(--red); }
+    .paper-card.stance-unclear    { border-left: 3px solid var(--amber); }
+
+    .paper-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+    .paper-title-wrap {}
+    .paper-title {
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 0.3rem;
+      color: var(--text);
+    }
+    .paper-meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .paper-meta .journal { color: var(--accent); }
+    .stance-badge {
+      flex-shrink: 0;
+      padding: 0.3rem 0.85rem;
+      border-radius: 20px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+    }
+    .badge-supporting { background: rgba(34,197,94,0.15); color: var(--green); border: 1px solid rgba(34,197,94,0.3); }
+    .badge-opposing   { background: rgba(239,68,68,0.15); color: var(--red);   border: 1px solid rgba(239,68,68,0.3); }
+    .badge-unclear    { background: rgba(245,158,11,0.15); color: var(--amber); border: 1px solid rgba(245,158,11,0.3); }
+
+    .paper-abstract {
+      font-size: 0.875rem;
+      color: var(--muted);
+      line-height: 1.65;
+      margin-bottom: 1rem;
+    }
+    .paper-abstract mark {
+      background: rgba(14,165,233,0.25);
+      color: var(--accent);
+      border-radius: 2px;
+      padding: 0 2px;
+    }
+    .paper-abstract mark.mark-drug {
+      background: rgba(34,197,94,0.2);
+      color: var(--green);
+    }
+    .paper-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--border);
+    }
+    .paper-tags { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .paper-tag {
+      font-size: 0.75rem;
+      background: rgba(51,65,85,0.8);
+      color: var(--muted);
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+    }
+    .pubmed-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-size: 0.8rem;
+      color: var(--accent);
+      text-decoration: none;
+      padding: 0.3rem 0.75rem;
+      border: 1px solid rgba(14,165,233,0.3);
+      border-radius: 6px;
+      transition: all 0.15s;
+    }
+    .pubmed-link:hover { background: rgba(14,165,233,0.1); }
+
+    /* ── SIDEBAR PANELS ── */
+    .main-with-sidebar {
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      gap: 1.5rem;
+      align-items: start;
+    }
+    .sidebar { display: flex; flex-direction: column; gap: 1rem; }
+    .sidebar-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+    }
+    .sidebar-card h3 {
+      font-size: 0.82rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+    .info-row {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+    .info-item {}
+    .info-label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .info-value { font-size: 0.88rem; color: var(--text); }
+    .pathway-list { display: flex; flex-direction: column; gap: 0.4rem; }
+    .pathway-item {
+      font-size: 0.8rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--muted);
+    }
+    .pathway-source {
+      font-size: 0.7rem;
+      background: var(--border);
+      padding: 0.1rem 0.4rem;
+      border-radius: 3px;
+      color: var(--muted);
+    }
+    .disputed-banner {
+      background: rgba(239,68,68,0.08);
+      border: 1px solid rgba(239,68,68,0.2);
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      font-size: 0.82rem;
+      color: var(--red);
+      display: flex;
+      gap: 0.5rem;
+      align-items: flex-start;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.82rem;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="nav-logo">Bio<span>LitRecs</span></a>
+    <div class="nav-links">
+      <a href="index.html">Search</a>
+      <a href="evidence.html" class="active">Evidence</a>
+      <a href="annotate.html">Annotate</a>
+    </div>
+  </div>
+</nav>
+
+<div class="page">
+
+  <!-- BREADCRUMB -->
+  <nav class="breadcrumb">
+    <a href="index.html">Home</a>
+    <span class="sep">›</span>
+    <a href="index.html">Lung · Breast · Ovary · Prostate</a>
+    <span class="sep">›</span>
+    <a href="#">EGFR</a>
+    <span class="sep">›</span>
+    <span class="current">Cetuximab</span>
+  </nav>
+
+  <!-- HEADER CARD -->
+  <div class="header-card">
+    <div class="header-left">
+      <div class="header-meta">
+        <span class="cancer-badge">Breast · Lung · Ovary · Prostate</span>
+        <span class="edrn-badge">EDRN Phase 3</span>
+      </div>
+      <h1 class="header-title">
+        <span class="biomarker">EGFR</span>
+        <span class="plus">+</span>
+        Cetuximab
+      </h1>
+      <p class="header-desc">
+        72 stance records linked for this biomarker–drug pair. All stances are currently awaiting annotation.
+      </p>
+      <div class="export-row">
+        <button class="btn btn-outline" onclick="alert('Exporting CSV…')">
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Export CSV
+        </button>
+        <button class="btn btn-outline" onclick="alert('Exporting BibTeX…')">
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Export BibTeX
+        </button>
+        <a href="annotate.html" class="btn btn-primary">
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+          Annotate Papers
+        </a>
+      </div>
+    </div>
+
+    <!-- DONUT CHART -->
+    <div class="header-right">
+      <div class="donut-wrap">
+        <!-- SVG donut: all 72 stances are "unclear" — 100% amber -->
+        <!-- circumference = 2π × 54 ≈ 339.3 -->
+        <svg width="160" height="160" viewBox="0 0 160 160">
+          <circle cx="80" cy="80" r="54" fill="none" stroke="#334155" stroke-width="18"/>
+          <circle cx="80" cy="80" r="54" fill="none" stroke="#f59e0b" stroke-width="18"
+                  stroke-dasharray="339.3 339.3" stroke-dashoffset="0" stroke-linecap="butt" transform="rotate(-90 80 80)"/>
+        </svg>
+        <div class="donut-center">
+          <span class="donut-total">72</span>
+          <span class="donut-label">stances</span>
+        </div>
+      </div>
+      <div class="donut-legend">
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--green)"></div>
+          <span class="legend-name">Supporting</span>
+          <span class="legend-pct" style="color:var(--border)">0%</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--red)"></div>
+          <span class="legend-name">Opposing</span>
+          <span class="legend-pct" style="color:var(--border)">0%</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--amber)"></div>
+          <span class="legend-name">Unclear</span>
+          <span class="legend-pct" style="color:var(--amber)">100%</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MAIN + SIDEBAR -->
+  <div class="main-with-sidebar">
+
+    <!-- PAPERS -->
+    <div>
+      <!-- CONTROLS BAR -->
+      <div class="controls-bar">
+        <div class="controls-left">
+          <button class="stance-filter active-all" onclick="filterStance(this,'all')">All Papers (10 shown of 72)</button>
+          <button class="stance-filter" onclick="filterStance(this,'supporting')">
+            <div class="filter-dot" style="background:var(--green)"></div> Supporting (0)
+          </button>
+          <button class="stance-filter" onclick="filterStance(this,'opposing')">
+            <div class="filter-dot" style="background:var(--red)"></div> Opposing (0)
+          </button>
+          <button class="stance-filter" onclick="filterStance(this,'unclear')">
+            <div class="filter-dot" style="background:var(--amber)"></div> Unclear (72)
+          </button>
+        </div>
+        <div class="controls-right">
+          Sort:
+          <select class="sort-select">
+            <option>Most Recent</option>
+            <option>Highest Impact</option>
+            <option>Most Annotated</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- PAPER LIST — Real papers from papers.csv linked via stances.csv (BM00372 + D01237) -->
+      <div class="papers-list">
+
+        <!-- Paper 1: PMID 15118073 -->
+        <div class="paper-card stance-unclear">
+          <div class="paper-top">
+            <div class="paper-title-wrap">
+              <div class="paper-title">Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib.</div>
+              <div class="paper-meta">
+                <span class="journal">The New England Journal of Medicine</span>
+                <span>2004-May-20</span>
+                <span>DOI: 10.1056/NEJMoa040938</span>
+              </div>
+            </div>
+            <span class="stance-badge badge-unclear">Unclear</span>
+          </div>
+          <p class="paper-abstract">
+            Most patients with non-small-cell lung cancer have no response to the tyrosine kinase inhibitor gefitinib, which targets the <mark>epidermal growth factor receptor (EGFR)</mark>. However, about 10 percent of patients have a rapid and often dramatic clinical response. The molecular mechanisms underlying sensitivity to gefitinib are unknown. We searched for mutations in the <mark>EGFR</mark> gene in primary tumors from patients with non-small-cell lung cancer who had a response to gefitinib and found somatic mutations in the <mark>EGFR</mark> kinase domain...
+          </p>
+          <div class="paper-footer">
+            <div class="paper-tags">
+              <span class="paper-tag">PMID 15118073</span>
+              <span class="paper-tag">NSCLC</span>
+              <span class="paper-tag">Mutation Study</span>
+            </div>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/15118073/" target="_blank" class="pubmed-link">
+              View on PubMed
+              <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Paper 2: PMID 15118125 -->
+        <div class="paper-card stance-unclear">
+          <div class="paper-top">
+            <div class="paper-title-wrap">
+              <div class="paper-title">EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy.</div>
+              <div class="paper-meta">
+                <span class="journal">Science (New York, N.Y.)</span>
+                <span>2004-Jun-04</span>
+                <span>DOI: 10.1126/science.1099314</span>
+              </div>
+            </div>
+            <span class="stance-badge badge-unclear">Unclear</span>
+          </div>
+          <p class="paper-abstract">
+            Receptor tyrosine kinase genes were sequenced in non-small cell lung cancer (NSCLC) and matched normal tissue. Somatic mutations of the <mark>epidermal growth factor receptor</mark> gene <mark>EGFR</mark> were found in 15 of 58 unselected tumors from Japan and 1 of 61 from the United States. Treatment with the <mark>EGFR</mark> kinase inhibitor gefitinib (Iressa) causes tumor regression in some patients with NSCLC, more frequently in Japan than in the United States. Mutations were found in tumors from all 9 patients with gefitinib-sensitive NSCLC...
+          </p>
+          <div class="paper-footer">
+            <div class="paper-tags">
+              <span class="paper-tag">PMID 15118125</span>
+              <span class="paper-tag">NSCLC</span>
+              <span class="paper-tag">Gefitinib</span>
+            </div>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/15118125/" target="_blank" class="pubmed-link">
+              View on PubMed
+              <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Paper 3: PMID 18199554 -->
+        <div class="paper-card stance-unclear">
+          <div class="paper-top">
+            <div class="paper-title-wrap">
+              <div class="paper-title">Impact of common epidermal growth factor receptor and HER2 variants on receptor activity and inhibition by lapatinib.</div>
+              <div class="paper-meta">
+                <span class="journal">Cancer Research</span>
+                <span>2008-Jan-15</span>
+                <span>DOI: 10.1158/0008-5472.CAN-07-2404</span>
+              </div>
+            </div>
+            <span class="stance-badge badge-unclear">Unclear</span>
+          </div>
+          <p class="paper-abstract">
+            The goal of this study was to characterize the effects of non-small cell lung carcinoma (NSCLC)-associated mutations in <mark>epidermal growth factor receptor (EGFR/ErbB1)</mark> and HER2 (ErbB2) on interactions with the dual tyrosine kinase inhibitor lapatinib. Biochemical studies show that commonly observed variants of <mark>EGFR</mark> [G719C, G719S, L858R, L861Q, and Delta746-750 (del15)] are enzyme activating, increasing intrinsic kinase activity relative to wild-type receptor...
+          </p>
+          <div class="paper-footer">
+            <div class="paper-tags">
+              <span class="paper-tag">PMID 18199554</span>
+              <span class="paper-tag">HER2</span>
+              <span class="paper-tag">Lapatinib</span>
+            </div>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/18199554/" target="_blank" class="pubmed-link">
+              View on PubMed
+              <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Paper 4: PMID 20573926 -->
+        <div class="paper-card stance-unclear">
+          <div class="paper-top">
+            <div class="paper-title-wrap">
+              <div class="paper-title">Gefitinib or chemotherapy for non-small-cell lung cancer with mutated EGFR.</div>
+              <div class="paper-meta">
+                <span class="journal">The New England Journal of Medicine</span>
+                <span>2010-Jun-24</span>
+                <span>DOI: 10.1056/NEJMoa0909530</span>
+              </div>
+            </div>
+            <span class="stance-badge badge-unclear">Unclear</span>
+          </div>
+          <p class="paper-abstract">
+            Non-small-cell lung cancer with sensitive mutations of the <mark>epidermal growth factor receptor (EGFR)</mark> is highly responsive to EGFR tyrosine kinase inhibitors such as gefitinib, but little is known about how its efficacy and safety profile compares with that of standard chemotherapy. We randomly assigned 230 patients with metastatic, non-small-cell lung cancer and <mark>EGFR</mark> mutations who had not previously received chemotherapy to receive gefitinib or carboplatin plus paclitaxel...
+          </p>
+          <div class="paper-footer">
+            <div class="paper-tags">
+              <span class="paper-tag">PMID 20573926</span>
+              <span class="paper-tag">Phase III RCT</span>
+              <span class="paper-tag">Gefitinib</span>
+            </div>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/20573926/" target="_blank" class="pubmed-link">
+              View on PubMed
+              <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Paper 5: PMID 23816960 -->
+        <div class="paper-card stance-unclear">
+          <div class="paper-top">
+            <div class="paper-title-wrap">
+              <div class="paper-title">Phase III study of afatinib or cisplatin plus pemetrexed in patients with metastatic lung adenocarcinoma with EGFR mutations.</div>
+              <div class="paper-meta">
+                <span class="journal">Journal of Clinical Oncology</span>
+                <span>2013-Sep-20</span>
+                <span>DOI: 10.1200/JCO.2012.44.2806</span>
+              </div>
+            </div>
+            <span class="stance-badge badge-unclear">Unclear</span>
+          </div>
+          <p class="paper-abstract">
+            The LUX-Lung 3 study investigated the efficacy of chemotherapy compared with afatinib, a selective, orally bioavailable ErbB family blocker that irreversibly blocks signaling from <mark>epidermal growth factor receptor (EGFR/ErbB1)</mark>, human epidermal growth factor receptor 2 (HER2/ErbB2), and ErbB4 and has wide-spectrum preclinical activity against <mark>EGFR</mark> mutations. A phase II study of afatinib in patients with <mark>EGFR</mark> mutation-positive NSCLC showed substantial antitumor activity. Primary end point was progression-free survival (PFS)...
+          </p>
+          <div class="paper-footer">
+            <div class="paper-tags">
+              <span class="paper-tag">PMID 23816960</span>
+              <span class="paper-tag">Afatinib</span>
+              <span class="paper-tag">LUX-Lung 3</span>
+            </div>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/23816960/" target="_blank" class="pubmed-link">
+              View on PubMed
+              <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            </a>
+          </div>
+        </div>
+
+      </div><!-- /papers-list -->
+    </div>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+      <div class="sidebar-card">
+        <h3>Biomarker Info</h3>
+        <div class="info-row">
+          <div class="info-item">
+            <div class="info-label">Gene Symbol</div>
+            <div class="info-value">EGFR</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">UniProt Accession</div>
+            <div class="info-value" style="color:var(--accent)">P00533</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Biomarker Type</div>
+            <div class="info-value">Genomic</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Cancer Organs</div>
+            <div class="info-value">Breast · Lung · Ovary · Prostate</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">EDRN Phase</div>
+            <div class="info-value">Phase 3</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Protein Function</div>
+            <div class="info-value" style="font-size:0.82rem; color:var(--muted)">[To be pulled from uniprot_proteins.csv — Function field]</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Description</div>
+            <div class="info-value" style="font-size:0.82rem; color:var(--muted)">[To be pulled from biomarkers.csv — Description field]</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Drug Info</h3>
+        <div class="info-row">
+          <div class="info-item">
+            <div class="info-label">Drug Name</div>
+            <div class="info-value">CETUXIMAB</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Modality</div>
+            <div class="info-value">Antineoplastic Agents</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Mechanism of Action</div>
+            <div class="info-value" style="color:var(--muted)">[To be pulled from drugs.csv — MechanismOfAction field]</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Approved</div>
+            <div class="info-value" style="color:var(--green)">Yes</div>
+          </div>
+          <div class="info-item">
+            <div class="info-label">Max Trial Phase</div>
+            <div class="info-value" style="color:var(--muted)">[To be pulled from drugs.csv — MaxTrialPhase field]</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Associated Pathways</h3>
+        <div style="font-size:0.82rem; color:var(--muted)">[To be pulled from drug_pathways.csv + pathways.csv]</div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Annotation Status</h3>
+        <div style="font-size:0.85rem; color:var(--muted); margin-bottom:0.75rem;">
+          72 stance records · 0 annotated · 72 pending
+        </div>
+        <div style="background:var(--border); border-radius:4px; height:8px; overflow:hidden; margin-bottom:0.75rem;">
+          <div style="background:var(--accent); width:0%; height:100%; border-radius:4px;"></div>
+        </div>
+        <div style="font-size:0.82rem; color:var(--muted); text-align:center; padding:0.5rem 0;">
+          No annotations submitted yet
+        </div>
+      </div>
+
+    </aside>
+  </div><!-- /main-with-sidebar -->
+
+</div><!-- /page -->
+
+<footer>
+  BioLitRecs · Cancer Biomarker Literature Retrieval System · UIUC CS-410 · Data sourced from EDRN, UniProt, DGIdb, PubMed
+</footer>
+
+<script>
+  function filterStance(el, stance) {
+    document.querySelectorAll('.stance-filter').forEach(f => {
+      f.classList.remove('active-all','active-green','active-red','active-amber');
+    });
+    const map = { all:'active-all', supporting:'active-green', opposing:'active-red', unclear:'active-amber' };
+    el.classList.add(map[stance]);
+
+    document.querySelectorAll('.paper-card').forEach(card => {
+      if (stance === 'all') {
+        card.style.display = '';
+      } else {
+        card.style.display = card.classList.contains('stance-' + stance) ? '' : 'none';
+      }
+    });
+  }
+</script>
+</body>
+</html>
