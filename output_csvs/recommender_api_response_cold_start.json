@@ -1,0 +1,763 @@
+{
+  "user_id": "new_user_000",
+  "top_k": 20,
+  "count": 20,
+  "mode": "cold_start",
+  "recommendations": [
+    {
+      "rank": 1,
+      "paper_id": "39024113",
+      "doi": "10.1091/mbc.E18-04-0242",
+      "title": "APC/C prevents a noncanonical order of cyclin/CDK activity to maintain CDK4/6 inhibitor-induced arrest.",
+      "predicted_stance": "supportive",
+      "publication_year": 2024,
+      "stance_confidence": 0.999852,
+      "final_score": 6.168521,
+      "base_score": 6.168521,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.999704,
+      "cold_start_recency_score": 1.935484,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "suramin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 2,
+      "paper_id": "41667321",
+      "doi": "10.1016/j.clgc.2026.102502",
+      "title": "Outcomes for Patients With SPOP Mutated Castration-Resistant Prostate Cancer (CRPC) Treated With an Androgen Receptor Pathway Inhibitor (ARPI).",
+      "predicted_stance": "opposing",
+      "publication_year": 2026,
+      "stance_confidence": 1.0,
+      "final_score": 6.233333,
+      "base_score": 6.233333,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 2.0,
+      "cold_start_recency_score": 2.0,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 3,
+      "paper_id": "38383428",
+      "doi": "10.1136/gutjnl-2018-317124",
+      "title": "A proteomic classifier panel for early screening of colorectal cancer: a case control study.",
+      "predicted_stance": "neutral",
+      "publication_year": 2024,
+      "stance_confidence": 1.0,
+      "final_score": 6.168817,
+      "base_score": 6.168817,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 2.0,
+      "cold_start_recency_score": 1.935484,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "suramin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 4,
+      "paper_id": "37236862",
+      "doi": "10.1016/j.clgc.2023.04.007",
+      "title": "Association between RCT methodology and disease indication with mineralocorticoid-related toxicity for patients receiving abiraterone acetate for advanced prostate cancer: A meta-analysis of RCTs.",
+      "predicted_stance": "supportive",
+      "publication_year": 2023,
+      "stance_confidence": 0.999895,
+      "final_score": 6.136349,
+      "base_score": 6.136349,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.99979,
+      "cold_start_recency_score": 1.903226,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "abiraterone acetate"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 5,
+      "paper_id": "40393641",
+      "doi": "10.1016/j.canlet.2025.217808",
+      "title": "Ketogenesis instigates immune suppression in enzalutamide resistant prostate cancer via OTUD7B \u03b2-hydroxybutyrylation.",
+      "predicted_stance": "opposing",
+      "publication_year": 2025,
+      "stance_confidence": 0.999999,
+      "final_score": 6.201073,
+      "base_score": 6.201073,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.999998,
+      "cold_start_recency_score": 1.967742,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 6,
+      "paper_id": "37058234",
+      "doi": "10.1158/1078-0432.CCR-22-3832",
+      "title": "Combination Treatment with Sipuleucel-T and Abiraterone Acetate or Enzalutamide for Metastatic Castration-Resistant Prostate Cancer: STAMP and STRIDE Trials.",
+      "predicted_stance": "neutral",
+      "publication_year": 2023,
+      "stance_confidence": 0.997744,
+      "final_score": 6.132047,
+      "base_score": 6.132047,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.995488,
+      "cold_start_recency_score": 1.903226,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 7,
+      "paper_id": "39833358",
+      "doi": "10.1136/jcp.41.4.467",
+      "title": "Human epididymis protein 4-annexin II binding promotes aberrant epithelial-fibroblast crosstalk in pulmonary fibrosis.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 1.0,
+      "final_score": 6.051075,
+      "base_score": 6.051075,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 2.0,
+      "cold_start_recency_score": 1.967742,
+      "cold_start_entity_score": 0.75,
+      "organs": [
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "anxa2"
+      ],
+      "drugs": [
+        "sha 68r"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 8,
+      "paper_id": "38851359",
+      "doi": "10.1016/j.reprotox.2024.108634",
+      "title": "Vinorelbine administration impedes the timely progression of meiotic maturation and induces aneuploidy in mouse oocytes.",
+      "predicted_stance": "opposing",
+      "publication_year": 2024,
+      "stance_confidence": 1.0,
+      "final_score": 6.168817,
+      "base_score": 6.168817,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 2.0,
+      "cold_start_recency_score": 1.935484,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "vinorelbine"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 9,
+      "paper_id": "33515937",
+      "doi": "10.1016/j.ctarc.2021.100318",
+      "title": "Adjuvant platinum-based chemotherapy in non-small cell lung cancer: The role of relative dose-intensity and treatment delay.",
+      "predicted_stance": "neutral",
+      "publication_year": 2021,
+      "stance_confidence": 0.999883,
+      "final_score": 6.071809,
+      "base_score": 6.071809,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.999766,
+      "cold_start_recency_score": 1.83871,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "vinorelbine"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 10,
+      "paper_id": "41011277",
+      "doi": "10.1038/s41598-023-32488-6",
+      "title": "Therapeutic Potential of Food-Derived Rutin Phytosome Nanoparticles: Anti-Tumor, Antioxidant, and Anti-Inflammatory Activity in Ehrlich Ascites Carcinoma.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.999966,
+      "final_score": 6.051007,
+      "base_score": 6.051007,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.999932,
+      "cold_start_recency_score": 1.967742,
+      "cold_start_entity_score": 0.75,
+      "organs": [
+        "breast",
+        "liver",
+        "ovary"
+      ],
+      "biomarkers": [
+        "afp"
+      ],
+      "drugs": [
+        "rutin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 11,
+      "paper_id": "39059397",
+      "doi": "10.1016/j.chom.2024.07.001",
+      "title": "Peptostreptococcus stomatis promotes colonic tumorigenesis and receptor tyrosine kinase inhibitor resistance by activating ERBB2-MAPK.",
+      "predicted_stance": "opposing",
+      "publication_year": 2024,
+      "stance_confidence": 1.0,
+      "final_score": 6.168817,
+      "base_score": 6.168817,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 2.0,
+      "cold_start_recency_score": 1.935484,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "suramin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 12,
+      "paper_id": "32507936",
+      "doi": "10.1073/pnas.0908682107",
+      "title": "Chemoprevention in familial adenomatous polyposis: past, present and future.",
+      "predicted_stance": "neutral",
+      "publication_year": 2021,
+      "stance_confidence": 0.991484,
+      "final_score": 6.055011,
+      "base_score": 6.055011,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.982968,
+      "cold_start_recency_score": 1.83871,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "suramin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 13,
+      "paper_id": "39562436",
+      "doi": "10.5858/2007-131-902-RAIPEI",
+      "title": "The Novel Direct AR Target Gene Annexin A2 Mediates Androgen-Induced Cellular Senescence in Prostate Cancer Cells.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.999684,
+      "final_score": 6.050443,
+      "base_score": 6.050443,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.999368,
+      "cold_start_recency_score": 1.967742,
+      "cold_start_entity_score": 0.75,
+      "organs": [
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "anxa2"
+      ],
+      "drugs": [
+        "sha 68r"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 14,
+      "paper_id": "38928036",
+      "doi": "10.1093/nar/gkaa1038",
+      "title": "Suppressing Anaphase-Promoting Complex/Cyclosome-Cell Division Cycle 20 Activity to Enhance the Effectiveness of Anti-Cancer Drugs That Induce Multipolar Mitotic Spindles.",
+      "predicted_stance": "opposing",
+      "publication_year": 2024,
+      "stance_confidence": 0.997724,
+      "final_score": 6.164265,
+      "base_score": 6.164265,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.995448,
+      "cold_start_recency_score": 1.935484,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "vinorelbine"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 15,
+      "paper_id": "41320401",
+      "doi": "10.1016/j.carbpol.2025.124622",
+      "title": "Ionic agarose derivatives as polyelectrolytic additives for drug release.",
+      "predicted_stance": "neutral",
+      "publication_year": 2026,
+      "stance_confidence": 0.910388,
+      "final_score": 6.054109,
+      "base_score": 6.054109,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.820776,
+      "cold_start_recency_score": 2.0,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "suramin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 16,
+      "paper_id": "39621441",
+      "doi": "10.1021/acs.nanolett.4c03846",
+      "title": "STING Nanoagonist Boosts Antitumor Immunity of Therapeutic DNA Vaccines.",
+      "predicted_stance": "supportive",
+      "publication_year": 2024,
+      "stance_confidence": 0.999513,
+      "final_score": 6.017843,
+      "base_score": 6.017843,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.999026,
+      "cold_start_recency_score": 1.935484,
+      "cold_start_entity_score": 0.75,
+      "organs": [
+        "breast",
+        "liver",
+        "ovary"
+      ],
+      "biomarkers": [
+        "afp"
+      ],
+      "drugs": [
+        "phosphatidylserine"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 17,
+      "paper_id": "41463218",
+      "doi": "10.1038/ncomms13668",
+      "title": "A Patient-Derived Organoid Platform from TUR-P Samples Enables Precision Drug Screening in Advanced Prostate Cancer.",
+      "predicted_stance": "opposing",
+      "publication_year": 2025,
+      "stance_confidence": 0.972803,
+      "final_score": 6.146681,
+      "base_score": 6.146681,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.945606,
+      "cold_start_recency_score": 1.967742,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 18,
+      "paper_id": "41442441",
+      "doi": "10.12659/AJCR.950426",
+      "title": "Conception After Chemotherapy for Intraplacental Choriocarcinoma: Favorable 5-Year Follow-Up of the Mother and Child.",
+      "predicted_stance": "neutral",
+      "publication_year": 2025,
+      "stance_confidence": 1.0,
+      "final_score": 6.051075,
+      "base_score": 6.051075,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 2.0,
+      "cold_start_recency_score": 1.967742,
+      "cold_start_entity_score": 0.75,
+      "organs": [
+        "breast",
+        "liver",
+        "ovary"
+      ],
+      "biomarkers": [
+        "afp"
+      ],
+      "drugs": [
+        "methotrexate"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 19,
+      "paper_id": "33441906",
+      "doi": "10.1158/0008-5472.CAN-04-0115",
+      "title": "Regulation of carcinogenesis and mediation through Wnt/\u03b2-catenin signaling by 3,3'-diindolylmethane in an enzalutamide-resistant prostate cancer cell line.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 0.969978,
+      "final_score": 6.011999,
+      "base_score": 6.011999,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.939956,
+      "cold_start_recency_score": 1.83871,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 20,
+      "paper_id": "37844613",
+      "doi": "10.1002/bimj.200310030",
+      "title": "Targeting myeloid chemotaxis to reverse prostate cancer therapy resistance.",
+      "predicted_stance": "opposing",
+      "publication_year": 2023,
+      "stance_confidence": 0.999005,
+      "final_score": 6.134569,
+      "base_score": 6.134569,
+      "time_score": 0.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "cold_start",
+      "cold_start_confidence_score": 1.99801,
+      "cold_start_recency_score": 1.903226,
+      "cold_start_entity_score": 0.9,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "",
+      "matched_query_terms": []
+    }
+  ]
+}

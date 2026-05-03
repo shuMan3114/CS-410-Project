@@ -1,0 +1,29 @@
+{
+  "training_rows_checked": 4649,
+  "auditable_rows": 2811,
+  "unresolved_rows": 1838,
+  "unresolved_rate": 0.39535383953538394,
+  "mismatch_rows": 488,
+  "mean_mistake": 0.1736036997509783,
+  "mean_mistake_all_labeled": 0.10496881049688105,
+  "traditional_label_distribution": {
+    "supportive": 2068,
+    "neutral": 1348,
+    "opposing": 1233
+  },
+  "audit_label_distribution": {
+    "supportive": 1462,
+    "opposing": 457,
+    "neutral": 892,
+    "unclear": 1838
+  },
+  "mismatch_distribution": {
+    "neutral->opposing": 16,
+    "opposing->neutral": 72,
+    "supportive->neutral": 86,
+    "opposing->supportive": 172,
+    "supportive->opposing": 45,
+    "neutral->supportive": 97
+  },
+  "notes": "Mean mistake is mismatch_rows / auditable_rows under evidence-text rubric."
+}

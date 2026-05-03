@@ -1,0 +1,845 @@
+{
+  "user_id": "web_user_001",
+  "top_k": 20,
+  "count": 20,
+  "mode": "personalized",
+  "recommendations": [
+    {
+      "rank": 1,
+      "paper_id": "41367714",
+      "doi": "10.1016/j.bvth.2025.100088",
+      "title": "The kinetics and interplay of thrombin inhibition by 4 plasma proteinase inhibitors.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.999998,
+      "final_score": 13.083332,
+      "base_score": 7.083332,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 6.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast"
+      ],
+      "biomarkers": [
+        "a2m"
+      ],
+      "drugs": [
+        "thrombin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 2,
+      "paper_id": "33780491",
+      "doi": "10.1038/nrc3912",
+      "title": "Reduction of fibrosis and immune suppressive cells in ErbB2-dependent tumorigenesis by an LXR agonist.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 1.0,
+      "final_score": 8.983333,
+      "base_score": 8.983333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung"
+      ],
+      "biomarkers": [
+        "anxa1"
+      ],
+      "drugs": [
+        "efwslaapqrf-nh2"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 3,
+      "paper_id": "33906557",
+      "doi": "10.1080/15548627.2021.1909406",
+      "title": "How autophagy controls the intestinal epithelial barrier.",
+      "predicted_stance": "supportive",
+      "publication_year": 2022,
+      "stance_confidence": 1.0,
+      "final_score": 8.983333,
+      "base_score": 8.983333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "adenosine triphosphate"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "resistance"
+      ]
+    },
+    {
+      "rank": 4,
+      "paper_id": "31197223",
+      "doi": "10.1097/TP.0000000000000512",
+      "title": "The purinergic receptor antagonist oxidized adenosine triphosphate suppresses immune-mediated corneal allograft rejection.",
+      "predicted_stance": "supportive",
+      "publication_year": 2019,
+      "stance_confidence": 1.0,
+      "final_score": 8.983333,
+      "base_score": 8.983333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "adenosine triphosphate"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 5,
+      "paper_id": "35008525",
+      "doi": "10.3390/ijms18071414",
+      "title": "The Class I HDAC Inhibitor, MS-275, Prevents Oxaliplatin-Induced Chronic Neuropathy and Potentiates Its Antiproliferative Activity in Mice.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 1.0,
+      "final_score": 8.983333,
+      "base_score": 8.983333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "histone deacetylase inhibitor"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 6,
+      "paper_id": "41032624",
+      "doi": "10.1126/scitranslmed.adp0064",
+      "title": "Cholesterol desensitizes the response of endometrial cancer to progestin by attenuating progestin signaling.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.999991,
+      "final_score": 8.983327,
+      "base_score": 8.983327,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "pancreas"
+      ],
+      "biomarkers": [
+        "apoa1"
+      ],
+      "drugs": [
+        "progestin"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "resistance"
+      ]
+    },
+    {
+      "rank": 7,
+      "paper_id": "40025875",
+      "doi": "10.1097/MPA.0000000000000317",
+      "title": "Reprogramming the Tolerogenic Immune Response Against Pancreatic Cancer Metastases by Lipid Nanoparticles Delivering a STING Agonist Plus Mutant KRAS mRNA.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.999927,
+      "final_score": 8.983279,
+      "base_score": 8.983279,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "mrs2698"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 8,
+      "paper_id": "37236862",
+      "doi": "10.1016/j.clgc.2023.04.007",
+      "title": "Association between RCT methodology and disease indication with mineralocorticoid-related toxicity for patients receiving abiraterone acetate for advanced prostate cancer: A meta-analysis of RCTs.",
+      "predicted_stance": "supportive",
+      "publication_year": 2023,
+      "stance_confidence": 0.999895,
+      "final_score": 8.983255,
+      "base_score": 8.983255,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "abiraterone acetate"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 9,
+      "paper_id": "30098223",
+      "doi": "10.1002/1878-0261.12367",
+      "title": "ABCA1 overexpression worsens colorectal cancer prognosis by facilitating tumour growth and caveolin-1-dependent invasiveness, and these effects can be ameliorated using the BET inhibitor apabetalone.",
+      "predicted_stance": "supportive",
+      "publication_year": 2018,
+      "stance_confidence": 0.999772,
+      "final_score": 8.983162,
+      "base_score": 8.983162,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "pancreas"
+      ],
+      "biomarkers": [
+        "apoa1"
+      ],
+      "drugs": [
+        "apabetalone"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 10,
+      "paper_id": "33713017",
+      "doi": "10.1002/cbic.201700500",
+      "title": "Quinacrine and Niclosamide Promote Neurite Growth in Midbrain Dopaminergic Neurons Through the Canonical BMP-Smad Pathway and Protect Against Neurotoxin and \u03b1-Synuclein-Induced Neurodegeneration.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 0.999096,
+      "final_score": 8.982655,
+      "base_score": 8.982655,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "niclosamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 11,
+      "paper_id": "38566092",
+      "doi": "10.1038/s41467-019-11137-5",
+      "title": "Oncolytic adenovirus encoding apolipoprotein A1 suppresses metastasis of triple-negative breast cancer in mice.",
+      "predicted_stance": "supportive",
+      "publication_year": 2024,
+      "stance_confidence": 0.996406,
+      "final_score": 8.980638,
+      "base_score": 8.980638,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "pancreas"
+      ],
+      "biomarkers": [
+        "apoa1"
+      ],
+      "drugs": [
+        "triazine compound pc10"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 12,
+      "paper_id": "40125791",
+      "doi": "10.1002/advs.202500021",
+      "title": "Targeting Antigen-Presenting Cells to Enhance the Tumor-Spleen Immunity Cycle through Liposome-Neoantigen Vaccine.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.995762,
+      "final_score": 8.980155,
+      "base_score": 8.980155,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "mrs2698"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 13,
+      "paper_id": "41035636",
+      "doi": "10.1182/blood.2019002206",
+      "title": "Integrated multi-omics analysis of single-cell and spatial transcriptomics reveals distinct hpv-associated immune microenvironment features and prognostic signatures in cervical cancer.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 0.977985,
+      "final_score": 8.966822,
+      "base_score": 8.966822,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung"
+      ],
+      "biomarkers": [
+        "anxa1"
+      ],
+      "drugs": [
+        "methylprednisolone"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 14,
+      "paper_id": "33441906",
+      "doi": "10.1158/0008-5472.CAN-04-0115",
+      "title": "Regulation of carcinogenesis and mediation through Wnt/\u03b2-catenin signaling by 3,3'-diindolylmethane in an enzalutamide-resistant prostate cancer cell line.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 0.969978,
+      "final_score": 8.960817,
+      "base_score": 8.960817,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "enzalutamide"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "resistance"
+      ]
+    },
+    {
+      "rank": 15,
+      "paper_id": "36276637",
+      "doi": "10.7150/thno.76619",
+      "title": "Identifying the E2F3-MEX3A-KLF4 signaling axis that sustains cancer cells in undifferentiated and proliferative state.",
+      "predicted_stance": "supportive",
+      "publication_year": 2022,
+      "stance_confidence": 0.946369,
+      "final_score": 8.94311,
+      "base_score": 8.94311,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "mrs2698"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "survival"
+      ]
+    },
+    {
+      "rank": 16,
+      "paper_id": "25982279",
+      "doi": "10.1038/onc.2015.150",
+      "title": "Targeting JAK kinase in solid tumors: emerging opportunities and challenges.",
+      "predicted_stance": "supportive",
+      "publication_year": 2016,
+      "stance_confidence": 0.999941,
+      "final_score": 8.716622,
+      "base_score": 8.716622,
+      "time_score": 0.333333,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "adenosine triphosphate"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": [
+        "resistance",
+        "survival"
+      ]
+    },
+    {
+      "rank": 17,
+      "paper_id": "35129068",
+      "doi": "10.1080/21655979.2022.2031769",
+      "title": "Methylprednisolone up-regulates annexin A1 (ANXA1) to inhibit the inflammation, apoptosis and oxidative stress of cigarette smoke extract (CSE)-induced bronchial epithelial cells, a chronic obstructive pulmonary disease in vitro model, through the formyl peptide receptor 2 (FPR2) receptors and the adenosine 5'-monophosphate (AMP)-activated protein kinase (AMPK) pathway.",
+      "predicted_stance": "supportive",
+      "publication_year": 2022,
+      "stance_confidence": 1.0,
+      "final_score": 8.583333,
+      "base_score": 8.583333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung"
+      ],
+      "biomarkers": [
+        "anxa1"
+      ],
+      "drugs": [
+        "methylprednisolone"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 18,
+      "paper_id": "33706561",
+      "doi": "10.1177/17590914211001218",
+      "title": "Knockdown of Annexin-A1 Inhibits Growth, Migration and Invasion of Glioma Cells by Suppressing the PI3K/Akt Signaling Pathway.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 1.0,
+      "final_score": 8.583333,
+      "base_score": 8.583333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung"
+      ],
+      "biomarkers": [
+        "anxa1"
+      ],
+      "drugs": [
+        "efwslaapqrf-nh2"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 19,
+      "paper_id": "40158127",
+      "doi": "10.1016/j.addr.2020.06.002",
+      "title": "CircNF1 modulates the progression and immune evasion of esophageal squamous cell carcinoma through dual regulation of PD-L1.",
+      "predicted_stance": "supportive",
+      "publication_year": 2025,
+      "stance_confidence": 1.0,
+      "final_score": 8.583333,
+      "base_score": 8.583333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung"
+      ],
+      "biomarkers": [
+        "anxa1"
+      ],
+      "drugs": [
+        "methylprednisolone"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": []
+    },
+    {
+      "rank": 20,
+      "paper_id": "33237836",
+      "doi": "10.1091/mbc.E20-05-0321",
+      "title": "APC regulation of ESRP1 and p120-catenin isoforms in colorectal cancer cells.",
+      "predicted_stance": "supportive",
+      "publication_year": 2021,
+      "stance_confidence": 1.0,
+      "final_score": 8.583333,
+      "base_score": 8.583333,
+      "time_score": 1.0,
+      "structure_score": 1.0,
+      "interaction_score": 0.333333,
+      "feedback_delta": 0.0,
+      "recommendation_mode": "personalized",
+      "cold_start_confidence_score": 0.0,
+      "cold_start_recency_score": 0.0,
+      "cold_start_entity_score": 0.0,
+      "organs": [
+        "breast",
+        "lung",
+        "ovary",
+        "prostate"
+      ],
+      "biomarkers": [
+        "apc"
+      ],
+      "drugs": [
+        "pyrvinium"
+      ],
+      "interaction_match_count": 1,
+      "structure_biomarker_count": 1,
+      "matched_organs": [
+        "breast",
+        "lung"
+      ],
+      "matched_biomarkers": [],
+      "matched_drugs": [],
+      "matched_stance": "supportive",
+      "matched_query_terms": []
+    }
+  ]
+}

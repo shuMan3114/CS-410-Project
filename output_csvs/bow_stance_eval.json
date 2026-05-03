@@ -1,0 +1,44 @@
+{
+  "train": {
+    "accuracy": 0.694272653939231,
+    "confusion": {
+      "neutral": {
+        "neutral": 808,
+        "opposing": 162,
+        "supportive": 107
+      },
+      "opposing": {
+        "neutral": 121,
+        "opposing": 818,
+        "supportive": 44
+      },
+      "supportive": {
+        "neutral": 311,
+        "opposing": 392,
+        "supportive": 956
+      }
+    },
+    "count": 3719
+  },
+  "validation": {
+    "accuracy": 0.5118279569892473,
+    "confusion": {
+      "neutral": {
+        "neutral": 162,
+        "opposing": 52,
+        "supportive": 57
+      },
+      "opposing": {
+        "neutral": 47,
+        "opposing": 169,
+        "supportive": 34
+      },
+      "supportive": {
+        "neutral": 117,
+        "opposing": 147,
+        "supportive": 145
+      }
+    },
+    "count": 930
+  }
+}

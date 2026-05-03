@@ -1,0 +1,13 @@
+PaperID,OldLabel,NewLabel,Flag,Reason
+39058425,supportive,opposing,FLAG_RELABELED,Evidence says adding ipatasertib did not improve efficacy.
+10424760,supportive,opposing,FLAG_RELABELED,AKT1-overexpressing cells were less sensitive to wortmannin.
+41202161,neutral,supportive,FLAG_RELABELED,Praluzatamab ravtansine delayed tumor growth in PDX models.
+21256123,supportive,opposing,FLAG_RELABELED,ALDH1A1 knockdown increased acrolein sensitivity (native ALDH1A1 implies resistance).
+11320670,supportive,opposing,FLAG_RELABELED,Ifosfamide sensitivity is inverse to ALDH levels (resistance signal).
+40467521,opposing,supportive,FLAG_RELABELED,Evinacumab substantially reduced LDL-C and TG levels.
+40024348,opposing,supportive,FLAG_RELABELED,Basroparib is described as treating MEK inhibitor-resistant CRC.
+37146911,supportive,opposing,FLAG_RELABELED,KRAS/APC co-mutated cohort did not benefit from bevacizumab.
+40084594,opposing,supportive,FLAG_RELABELED,Inclisiran lowered lipid markers without serious safety concerns.
+26572704,opposing,supportive,FLAG_RELABELED,Sorafenib and GSK126 inhibited proliferation in mutation-defined tumors.
+26639724,neutral,opposing,FLAG_RELABELED,Variant causes prolonged neuromuscular block after mivacurium (adverse response).
+38723373,neutral,supportive,FLAG_RELABELED,Improved PFS/OS vs vemurafenib indicates efficacy benefit.

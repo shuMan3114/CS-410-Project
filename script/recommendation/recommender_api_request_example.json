@@ -1,0 +1,38 @@
+{
+  "user_id": "web_user_001",
+  "top_k": 20,
+  "query": {
+    "organs": ["lung", "breast"],
+    "biomarkers": ["egfr", "her2"],
+    "drugs": ["osimertinib"],
+    "stances": ["supportive"],
+    "text": "resistance progression-free survival",
+    "year_start": 2018,
+    "year_end": 2025
+  },
+  "weights": {
+    "organ": 3.0,
+    "biomarker": 4.0,
+    "drug": 4.0,
+    "stance": 2.5,
+    "text": 1.2,
+    "time": 1.0,
+    "structure": 1.0,
+    "interaction": 1.0
+  },
+  "flags": {
+    "exclude_unclear": false,
+    "require_all_filters": false,
+    "respect_hide_feedback": true
+  },
+  "feedback_events": [
+    {
+      "paper_id": "41367714",
+      "feedback_type": "like"
+    },
+    {
+      "paper_id": "32023884",
+      "feedback_type": "hide"
+    }
+  ]
+}

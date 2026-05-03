@@ -370,9 +370,10 @@ def efetch(pmids, email, api_key):
         abstract_parts = article.findall(".//AbstractText")
         pieces = []
         for ap in abstract_parts:
-            label = ap.get("Label", "")
-            text = ap.text or ""
-            pieces.append(f"{label}: {text}" if label else text)
+            label = (ap.get("Label", "") or "").strip()
+            text = "".join(ap.itertext()).strip()
+            if text:
+                pieces.append(f"{label}: {text}" if label else text)
         abstract = " ".join(pieces)
 
         je = article.find(".//Journal")
@@ -409,7 +410,7 @@ def efetch(pmids, email, api_key):
             "JournalName":      jname,
             "JournalISSN":      jissn,
             "PublicationTypes": ";".join(ptypes),
-            "Abstract":         abstract[:4000],
+            "Abstract":         abstract,
         })
     return papers
 

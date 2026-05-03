@@ -1,0 +1,24 @@
+{
+  "user_id": "new_user_000",
+  "top_k": 20,
+  "query": {
+    "organs": [],
+    "biomarkers": [],
+    "drugs": [],
+    "stances": [],
+    "text": "",
+    "year_start": 0,
+    "year_end": 0
+  },
+  "weights": {
+    "cold_start_confidence": 2.0,
+    "cold_start_recency": 2.0,
+    "cold_start_entity": 1.5
+  },
+  "flags": {
+    "force_cold_start": true,
+    "cold_start_diversify_by_stance": true,
+    "respect_hide_feedback": true
+  },
+  "feedback_events": []
+}
